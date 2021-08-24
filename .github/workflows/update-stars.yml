@@ -1,0 +1,22 @@
+name: update stars
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 13 * * *" #runs at 6:00 PST everyday
+
+jobs:
+  update-stars:
+    name: update stars
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python
+      uses: actions/setup-python@v1
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install starred
+    - name: update repo
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: starred --username dharmeshkakadia --repository github-bookmarks-stars --sort --token ${GITHUB_TOKEN} --message 'Auto updated via github action'
