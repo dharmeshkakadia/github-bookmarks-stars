@@ -381,6 +381,8 @@
 
 ## Go 
 
+- [numary/machine](https://github.com/numary/machine) - A virtual machine that keeps money flowing
+- [numary/ledger](https://github.com/numary/ledger) - 🏛 A scriptable financial ledger, designed to make it easy to model complex financial transactions
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, engaging 5G technology.
@@ -1528,13 +1530,14 @@
 
 ## Python 
 
+- [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
 - [a-rahimi/python-checkpointing2](https://github.com/a-rahimi/python-checkpointing2) - Checkpoint the state of Python programs using Pythonic setjmp and longjmp
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [oap-project/raydp](https://github.com/oap-project/raydp) - RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks.
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
-- [microsoft/unilm](https://github.com/microsoft/unilm) - UniLM AI - Unified "Language" Model Pre-training across Tasks, Languages, and Modalities
+- [microsoft/unilm](https://github.com/microsoft/unilm) - UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities
 - [yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix) - 
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
