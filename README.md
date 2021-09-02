@@ -327,7 +327,6 @@
 - [fedwiki/wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
 - [okTurtles/dnschain](https://github.com/okTurtles/dnschain) - A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!
-- [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [ryba-io/ryba](https://github.com/ryba-io/ryba) - Multi-tenant Hadoop cluster deployment with HA and Kerberos in 1 command
 - [HubSpot/BuckyClient](https://github.com/HubSpot/BuckyClient) - Collect performance data from the client
 
@@ -1020,6 +1019,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -1304,7 +1304,6 @@
 
 ## Makefile 
 
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [k8guard/k8guard-start-from-here](https://github.com/k8guard/k8guard-start-from-here) - Build and deploy K8Guard. Run all Make commands from this repo.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
@@ -2346,6 +2345,7 @@
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [dalen/puppetexplorer](https://github.com/dalen/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 
 ## V 
