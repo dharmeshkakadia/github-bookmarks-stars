@@ -380,6 +380,8 @@
 
 ## Go 
 
+- [apache/incubator-yunikorn-core](https://github.com/apache/incubator-yunikorn-core) - Apache YuniKorn Core
+- [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation requests and applying different queuing policies, e.g., FIFO, Priority, (iii) dispatching the job to one of multiple clusters, where a queuing agent runs, using configurable dispatch policies, and (iv) auto-scaling pod sets balancing job demands and cluster availability.
 - [numary/machine](https://github.com/numary/machine) - A virtual machine that keeps money flowing
 - [numary/ledger](https://github.com/numary/ledger) - 🏛 A scriptable financial ledger, designed to make it easy to model complex financial transactions
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
@@ -2225,6 +2227,7 @@
 
 ## Swift 
 
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [lannister-capital/lannister-ios](https://github.com/lannister-capital/lannister-ios) - :crown: iOS personal wealth manager with secure and decentralized storage
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [indragiek/InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging
