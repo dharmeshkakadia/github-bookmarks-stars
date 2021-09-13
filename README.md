@@ -355,6 +355,7 @@
 ## Dockerfile 
 
 - [Datastillery/kdp](https://github.com/Datastillery/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
+- [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
 
 ## Eagle 
@@ -1033,7 +1034,6 @@
 - [full-stack-serverless/conference-app-in-a-box](https://github.com/full-stack-serverless/conference-app-in-a-box) - Full stack & cross platform app customizable & themeable for any event or conference.
 - [SteinHQ/Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database
 - [mashr-framework/mashr](https://github.com/mashr-framework/mashr) - Official GitHub repository of Mashr
-- [wix/quix](https://github.com/wix/quix) - Quix Notebook Manager
 - [VolcaTech/eth2-app](https://github.com/VolcaTech/eth2-app) - Send Ether or tokens via links
 - [jainsamyak/Stockifier](https://github.com/jainsamyak/Stockifier) - A notification and insights app for stock markets
 - [gillkyle/sol-journal](https://github.com/gillkyle/sol-journal) - ✎ Simple, personal journaling progressive web app
@@ -1784,7 +1784,6 @@
 - [alexellis/repaint-the-past](https://github.com/alexellis/repaint-the-past) - Full instructions for repainting the past
 - [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) - This tool lets you Dockerize your applications using best practices to define your Dockerfile and Docker entry point files.
 - [mesosphere/marathon-autoscale](https://github.com/mesosphere/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
-- [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [Azure/simdem](https://github.com/Azure/simdem) - Tool for Simulating Demo's, delivering Tutorials and using documentation as tests.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -2300,6 +2299,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [wix/quix](https://github.com/wix/quix) - Quix Notebook Manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
