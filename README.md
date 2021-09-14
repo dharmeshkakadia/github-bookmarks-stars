@@ -567,7 +567,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the Metaverse
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -1682,6 +1682,7 @@
 - [pronobis/libspn](https://github.com/pronobis/libspn) - Library for learning and inference with Sum-product Networks
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
@@ -2004,7 +2005,7 @@
 ## Rust 
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -2298,7 +2299,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [wix/quix](https://github.com/wix/quix) - Quix Notebook Manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
