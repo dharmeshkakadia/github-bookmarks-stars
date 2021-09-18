@@ -977,7 +977,7 @@
 - [facebookarchive/linkbench](https://github.com/facebookarchive/linkbench) - Facebook Graph Benchmark
 - [LinkedInAttic/white-elephant](https://github.com/LinkedInAttic/white-elephant) - Hadoop log aggregator and dashboard
 - [linkedin/rest.li](https://github.com/linkedin/rest.li) - Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.
-- [twitter/ambrose](https://github.com/twitter/ambrose) - A platform for visualization and real-time monitoring of data workflows
+- [twitter-archive/ambrose](https://github.com/twitter-archive/ambrose) - A platform for visualization and real-time monitoring of data workflows
 - [twitter-archive/elephant-twin](https://github.com/twitter-archive/elephant-twin) - Elephant Twin is a framework for creating indexes in Hadoop
 - [sonalgoyal/hiho](https://github.com/sonalgoyal/hiho) - Hadoop Data Integration with various databases, ftp servers, salesforce. Incremental update, dedup, append, merge your data on Hadoop.
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
@@ -2007,6 +2007,8 @@
 
 ## Rust 
 
+- [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -2261,6 +2263,7 @@
 
 ## TypeScript 
 
+- [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
