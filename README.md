@@ -382,6 +382,7 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
 - [apache/incubator-yunikorn-core](https://github.com/apache/incubator-yunikorn-core) - Apache YuniKorn Core
 - [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation requests and applying different queuing policies, e.g., FIFO, Priority, (iii) dispatching the job to one of multiple clusters, where a queuing agent runs, using configurable dispatch policies, and (iv) auto-scaling pod sets balancing job demands and cluster availability.
 - [numary/machine](https://github.com/numary/machine) - A virtual machine that keeps money flowing
@@ -1108,7 +1109,7 @@
 - [lipp/next-todos](https://github.com/lipp/next-todos) - 200 lines realtime todos app powered by next.js, preact, jet, redux and now
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [lumoslabs/aleph](https://github.com/lumoslabs/aleph) - Empower Curiosity / Redshift analytics platform
@@ -2276,7 +2277,7 @@
 - [allegro/turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform that allows you to manage Firestore data in a spreadsheet-like UI, write Cloud Functions effortlessly in the browser, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform that allows you to manage Firestore data in a spreadsheet-like UI, write Cloud Functions in the browser, and connect to your favorite third-party platforms.
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
