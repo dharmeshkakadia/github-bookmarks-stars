@@ -1931,7 +1931,7 @@
 - [sparklyr/sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [OpenGenderTracking/globalnamedata](https://github.com/OpenGenderTracking/globalnamedata) - Tools to download and process name data from various sources.
-- [ropensci/plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [amplab-extras/SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark
 
 ## Roff 
@@ -2143,6 +2143,7 @@
 
 ## Shell 
 
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
