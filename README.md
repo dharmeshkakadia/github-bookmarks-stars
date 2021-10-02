@@ -1662,7 +1662,7 @@
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [iexcloud/pyEX](https://github.com/iexcloud/pyEX) - Python interface to IEX and IEX cloud APIs
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
@@ -2303,7 +2303,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [rhysd/github-action-benchmark](https://github.com/rhysd/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
