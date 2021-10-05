@@ -1224,7 +1224,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [kubeflow/tf-operator](https://github.com/kubeflow/tf-operator) - Tools for ML/Tensorflow on Kubernetes.
+- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Tools for ML/Tensorflow on Kubernetes.
 - [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
 
 ## Julia 
@@ -2279,7 +2279,7 @@
 - [allegro/turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
