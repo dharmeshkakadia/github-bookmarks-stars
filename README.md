@@ -1532,6 +1532,7 @@
 
 ## Python 
 
+- [ethpm/ethpm-spec](https://github.com/ethpm/ethpm-spec) - Ethereum Package Manager http://ethpm.github.io/ethpm-spec/
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
@@ -2010,7 +2011,6 @@
 ## Rust 
 
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
-- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -2268,6 +2268,7 @@
 ## TypeScript 
 
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
@@ -2378,7 +2379,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
 - [frappe/books](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
