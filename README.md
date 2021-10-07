@@ -1073,7 +1073,7 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
 - [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [ElementsProject/paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning :zap:
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [SpankChain/general-state-channels](https://github.com/SpankChain/general-state-channels) - Spankchain PoC implementation of generalized state channels
@@ -1596,7 +1596,7 @@
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [hackalog/easydata](https://github.com/hackalog/easydata) - A flexible template for doing reproducible data science in Python.
-- [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers.
+- [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.ai.
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - [awwong1/torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
