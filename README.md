@@ -1531,6 +1531,7 @@
 
 ## Python 
 
+- [NVIDIA-Merlin/NVTabular](https://github.com/NVIDIA-Merlin/NVTabular) - NVTabular is a feature engineering and preprocessing library for tabular data designed to quickly and easily manipulate terabyte scale datasets used to train deep learning based recommender systems.
 - [ethpm/ethpm-spec](https://github.com/ethpm/ethpm-spec) - Ethereum Package Manager http://ethpm.github.io/ethpm-spec/
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
@@ -2046,6 +2047,7 @@
 
 ## Scala 
 
+- [mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql) - An encrypted data analytics platform
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
@@ -2280,7 +2282,7 @@
 - [allegro/turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
