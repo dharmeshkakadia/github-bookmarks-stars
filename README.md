@@ -1240,6 +1240,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2).
+- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [mlrun/demo-github-actions](https://github.com/mlrun/demo-github-actions) - demo CI/CD pipeline using MLRun, Kubeflow and GitHub Actions
 - [borisdayma/huggingtweets](https://github.com/borisdayma/huggingtweets) - Tweet Generation with Huggingface
@@ -1589,7 +1590,6 @@
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
-- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
