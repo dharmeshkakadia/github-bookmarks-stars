@@ -1664,7 +1664,7 @@
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [iexcloud/pyEX](https://github.com/iexcloud/pyEX) - Python interface to IEX and IEX cloud APIs
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
