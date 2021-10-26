@@ -1655,7 +1655,7 @@
 - [google-research/albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
-- [fepegar/torchio](https://github.com/fepegar/torchio) - Medical image preprocessing and augmentation toolkit for deep learning. Part of the PyTorch Ecosystem.
+- [fepegar/torchio](https://github.com/fepegar/torchio) - TorchIO: medical imaging for deep learning.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
 - [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for novel coronavirus SARS-CoV-2
