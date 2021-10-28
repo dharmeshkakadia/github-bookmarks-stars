@@ -504,7 +504,6 @@
 - [caicloud/nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [jetstack/tarmak](https://github.com/jetstack/tarmak) - A toolkit for Kubernetes cluster provisioning and lifecycle management
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [banzaicloud/pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
 - [newrelic/sidecar](https://github.com/newrelic/sidecar) - Gossip-based service discovery. Docker native, but supports static discovery, too.
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
@@ -1792,6 +1791,7 @@
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [brndnmtthws/optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro) - Scheduled buying of BTC, ETH, and LTC from Coinbase Pro, optimally!
 - [yunjey/stargan](https://github.com/yunjey/stargan) - StarGAN - Official PyTorch Implementation (CVPR 2018)
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [alexellis/repaint-the-past](https://github.com/alexellis/repaint-the-past) - Full instructions for repainting the past
 - [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) - This tool lets you Dockerize your applications using best practices to define your Dockerfile and Docker entry point files.
 - [mesosphere/marathon-autoscale](https://github.com/mesosphere/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
