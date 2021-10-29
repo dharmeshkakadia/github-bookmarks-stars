@@ -357,7 +357,7 @@
 
 ## Dockerfile 
 
-- [Datastillery/kdp](https://github.com/Datastillery/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
+- [UrbanOS-Public/kdp](https://github.com/UrbanOS-Public/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
 - [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
 
@@ -1280,7 +1280,6 @@
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [jlewi/kubeflow-rl](https://github.com/jlewi/kubeflow-rl) - Repository for working with Kubeflow and RL
 - [kipoi/models](https://github.com/kipoi/models) - Model zoo for genomics
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -1732,7 +1731,7 @@
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
@@ -1784,6 +1783,7 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [airbnb/omniduct](https://github.com/airbnb/omniduct) - A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).
 - [omgnetwork/plasma-mvp](https://github.com/omgnetwork/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [Cloud-CV/visual-chatbot](https://github.com/Cloud-CV/visual-chatbot) - :cloud: :eyes: :speech_balloon: Visual Chatbot
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
