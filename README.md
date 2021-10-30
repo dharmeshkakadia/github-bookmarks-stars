@@ -1324,6 +1324,7 @@
 
 ## Nunjucks 
 
+- [ipld/ipld](https://github.com/ipld/ipld) - InterPlanetary Linked Data
 - [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 ## OCaml 
