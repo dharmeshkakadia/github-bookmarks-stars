@@ -1013,7 +1013,7 @@
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
+- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The presentation javascript library for the automation era.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
@@ -1612,6 +1612,7 @@
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [Adapter-Hub/adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) - Huggingface Transformers + Adapters = ❤️
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -2301,7 +2302,6 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cadbox1/very-nested](https://github.com/cadbox1/very-nested) - Nested lists published on GitHub.
 - [jupytercalpoly/jupyterlab-tabular-data-editor](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor) - Manipulate your tabular data responsively and effectively within JupyterLab.
-- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [sign-language-processing/detection-app](https://github.com/sign-language-processing/detection-app) - Sign Language Detection Web Application
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
