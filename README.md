@@ -800,7 +800,7 @@
 - [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) - Machine Learning Platform and Recommendation Engine built on Kubernetes
 - [ground-context/ground](https://github.com/ground-context/ground) - An open-source, vendor-neutral data context service.
 - [linkedin/dr-elephant](https://github.com/linkedin/dr-elephant) - Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark
-- [linkedin/datahub](https://github.com/linkedin/datahub) - A Metadata Platform for the Modern Data Stack
+- [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [crashub/crash](https://github.com/crashub/crash) - The shell for the Java Platform
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [qubole/quark](https://github.com/qubole/quark) - Quark is a data virtualization engine over analytic databases.
@@ -1013,7 +1013,7 @@
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The presentation javascript library for the automation era.
+- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
@@ -1536,6 +1536,8 @@
 
 ## Python 
 
+- [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.
+- [magenta/mt3](https://github.com/magenta/mt3) - MT3: Multi-Task Multitrack Music Transcription
 - [NVIDIA-Merlin/NVTabular](https://github.com/NVIDIA-Merlin/NVTabular) - NVTabular is a feature engineering and preprocessing library for tabular data designed to quickly and easily manipulate terabyte scale datasets used to train deep learning based recommender systems.
 - [ethpm/ethpm-spec](https://github.com/ethpm/ethpm-spec) - Ethereum Package Manager http://ethpm.github.io/ethpm-spec/
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
