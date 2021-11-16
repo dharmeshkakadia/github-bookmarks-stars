@@ -1356,6 +1356,7 @@
 
 ## Others 
 
+- [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [jspahrsummers/effective-code-review](https://github.com/jspahrsummers/effective-code-review) - Presentation about my process for making code reviews as effective as possible
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -1724,7 +1725,7 @@
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [3dperceptionlab/therobotrix](https://github.com/3dperceptionlab/therobotrix) - 
@@ -2057,6 +2058,7 @@
 
 ## Scala 
 
+- [ForestFlow/ForestFlow](https://github.com/ForestFlow/ForestFlow) - ForestFlow is a policy-driven Machine Learning Model Server. It is an LF AI Foundation incubation project.
 - [mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql) - An encrypted data analytics platform
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
