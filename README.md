@@ -64,7 +64,6 @@
   - [Solidity](#solidity)
   - [Starlark](#starlark)
   - [Swift](#swift)
-  - [Tcl](#tcl)
   - [TeX](#tex)
   - [Thrift](#thrift)
   - [TypeScript](#typescript)
@@ -93,6 +92,7 @@
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
+- [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - c-lightning — a Lightning Network implementation in C
@@ -1023,7 +1023,7 @@
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [jure/pubsweet-blogger](https://github.com/jure/pubsweet-blogger) - Hackity hack
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
@@ -2258,10 +2258,6 @@
 - [agens-no/swiff](https://github.com/agens-no/swiff) - Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [pixelspark/catena](https://github.com/pixelspark/catena) - Catena is a distributed database based on a blockchain, accessible using SQL.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
-
-## Tcl 
-
-- [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 
 ## TeX 
 
