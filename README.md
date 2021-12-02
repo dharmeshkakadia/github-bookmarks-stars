@@ -188,7 +188,6 @@
 - [google/iree](https://github.com/google/iree) - 👻
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -426,6 +425,7 @@
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
 - [grailbio/bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [emirozer/kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)
 - [lyft/flinkk8soperator](https://github.com/lyft/flinkk8soperator) - Kubernetes operator that provides control plane for managing Apache Flink applications
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -1670,7 +1670,7 @@
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
-- [iexcloud/pyEX](https://github.com/iexcloud/pyEX) - Python interface to IEX and IEX cloud APIs
+- [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
@@ -1821,7 +1821,7 @@
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [deepgram/kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [douban/tfmesos](https://github.com/douban/tfmesos) - Tensorflow in Docker on Mesos #tfmesos #tensorflow #mesos
@@ -2297,7 +2297,7 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
