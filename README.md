@@ -383,7 +383,7 @@
 ## Go 
 
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [apache/incubator-yunikorn-core](https://github.com/apache/incubator-yunikorn-core) - Apache YuniKorn Core
 - [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation requests and applying different queuing policies, e.g., FIFO, Priority, (iii) dispatching the job to one of multiple clusters, where a queuing agent runs, using configurable dispatch policies, and (iv) auto-scaling pod sets balancing job demands and cluster availability.
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
@@ -1032,7 +1032,7 @@
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - A next generation decentralised Ethereum proof of stake network and pool, currently in beta and built to be compatible with Ethereum 2.0 and the Beacon Chain.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
@@ -1739,7 +1739,7 @@
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [YadiraF/GAN](https://github.com/YadiraF/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
@@ -2278,6 +2278,7 @@
 
 ## TypeScript 
 
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [atek-cloud/spork](https://github.com/atek-cloud/spork) - [CLI app] Peer-to-peer socket magic in the air
