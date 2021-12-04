@@ -1695,7 +1695,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [SPFlow/SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [pronobis/libspn](https://github.com/pronobis/libspn) - Library for learning and inference with Sum-product Networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
