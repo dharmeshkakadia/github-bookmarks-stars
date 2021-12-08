@@ -450,7 +450,7 @@
 - [kubedb/operator](https://github.com/kubedb/operator) - KubeDB Operator
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [vmware/purser](https://github.com/vmware/purser) - Kubernetes Cloud Native Applications visibility
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [jetstack/okta-kubectl-auth](https://github.com/jetstack/okta-kubectl-auth) - 
@@ -1012,7 +1012,7 @@
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
-- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
@@ -1498,7 +1498,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [ElementsProject/wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - :zap: Lightning Publisher for WordPress
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [project-open-data/db-to-api](https://github.com/project-open-data/db-to-api) - Turns a Database into a Secure, RESTful API
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
