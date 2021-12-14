@@ -238,7 +238,6 @@
 - [dmlc/wormhole](https://github.com/dmlc/wormhole) - Deprecated
 - [mesosphere/serenity](https://github.com/mesosphere/serenity) - Intel:Mesosphere oversubscription technologies for Apache Mesos
 - [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
-- [Intel-bigdata/ceph-mesos](https://github.com/Intel-bigdata/ceph-mesos) - A Mesos framework for scaling a Ceph cluster.
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [TU-Berlin-DIMA/myriad-toolkit](https://github.com/TU-Berlin-DIMA/myriad-toolkit) - Myriad Parallel Data Generator Toolkit
@@ -785,7 +784,6 @@
 - [zrlio/crail](https://github.com/zrlio/crail) - [Archived] A Fast Multi-tiered Distributed Storage System based on User-Level I/O
 - [prestodb/tempto](https://github.com/prestodb/tempto) - A testing framework for Presto
 - [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.
-- [Intel-bigdata/TensorFlowOnYARN](https://github.com/Intel-bigdata/TensorFlowOnYARN) - Support TensorFlow on YARN
 - [cmu-db/peloton-test](https://github.com/cmu-db/peloton-test) - SQL Testing Framework for the Peloton DBMS
 - [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
@@ -1561,7 +1559,7 @@
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful NLP builder FOR TExt.  This is part of the CASL project: http://casl-project.ai/
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
