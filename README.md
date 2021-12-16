@@ -118,7 +118,6 @@
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [mgrosvenor/camio2](https://github.com/mgrosvenor/camio2) - The Cambridge IO Library
 - [google/eddystone](https://github.com/google/eddystone) - Specification for Eddystone, an open beacon format from Google
-- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [sharklinux/shark](https://github.com/sharklinux/shark) - We're building a better performance management system
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
@@ -1420,6 +1419,7 @@
 - [kelseyhightower/kubestack](https://github.com/kelseyhightower/kubestack) - Manage Kubernetes with Packer and Terraform on Google Compute Engine.
 - [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
 - [databricks/scala-style-guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide
+- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
 - [t3rmin4t0r/notes](https://github.com/t3rmin4t0r/notes) - Random implementation notes
@@ -2318,7 +2318,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
