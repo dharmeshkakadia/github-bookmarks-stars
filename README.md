@@ -380,6 +380,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) - IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -2019,6 +2020,7 @@
 
 ## Rust 
 
+- [gakonst/foundry](https://github.com/gakonst/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
