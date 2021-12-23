@@ -2243,6 +2243,7 @@
 
 ## Solidity 
 
+- [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!
 
 ## Starlark 
