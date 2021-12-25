@@ -2354,7 +2354,7 @@
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [dharmaprotocol/charta](https://github.com/dharmaprotocol/charta) - New & improved contracts for Dharma protocol
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
