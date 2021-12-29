@@ -1206,7 +1206,7 @@
 - [ngaut/tyrant](https://github.com/ngaut/tyrant) - distributed  job scheduler based on mesos powered by golang
 - [particle-iot/spark-server](https://github.com/particle-iot/spark-server) - UNMAINTAINED - An API compatible open source server for interacting with devices speaking the spark-protocol
 - [usergrid/usergrid](https://github.com/usergrid/usergrid) - Read-only Mirror of Apache Usergrid
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
