@@ -176,7 +176,6 @@
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [mc2-project/mc2](https://github.com/mc2-project/mc2) - A Platform for Secure Analytics and Machine Learning
-- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
@@ -340,6 +339,7 @@
 
 ## Cuda 
 
+- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 
@@ -380,6 +380,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) - IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
