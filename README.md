@@ -996,6 +996,7 @@
 
 ## JavaScript 
 
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [uber/xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1237,6 +1238,7 @@
 
 ## Jupyter Notebook 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs) - A list of Machine Learning Art Colabs
 - [nateraw/huggingpics](https://github.com/nateraw/huggingpics) - 🤗🖼️ HuggingPics: Fine-tune Vision Transformers for anything using images found on the web.
 - [mrdbourke/airbnb-amenity-detection](https://github.com/mrdbourke/airbnb-amenity-detection) - Repo for 42 days project to replicate/improve Airbnb's amenity (object) detection pipeline.
