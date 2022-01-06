@@ -511,6 +511,7 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
+- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -1803,7 +1804,6 @@
 - [brndnmtthws/optimal-buy-cbpro](https://github.com/brndnmtthws/optimal-buy-cbpro) - Scheduled buying of BTC, ETH, and LTC from Coinbase Pro, optimally!
 - [yunjey/stargan](https://github.com/yunjey/stargan) - StarGAN - Official PyTorch Implementation (CVPR 2018)
 - [alexellis/repaint-the-past](https://github.com/alexellis/repaint-the-past) - Full instructions for repainting the past
-- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
 - [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) - This tool lets you Dockerize your applications using best practices to define your Dockerfile and Docker entry point files.
 - [mesosphere/marathon-autoscale](https://github.com/mesosphere/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
@@ -1816,7 +1816,7 @@
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) - Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
 - [hjacobs/kubernetes-on-aws-users](https://github.com/hjacobs/kubernetes-on-aws-users) - List of companies/organizations running Kubernetes on AWS
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Management & Orchestration Platform (Monorepo for Polyaxon's MLOps Tools)
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -2285,6 +2285,7 @@
 
 ## TypeScript 
 
+- [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
