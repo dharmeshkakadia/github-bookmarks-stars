@@ -1544,6 +1544,7 @@
 
 ## Python 
 
+- [fal-ai/fal](https://github.com/fal-ai/fal) - do more with dbt. fal helps you run Python alongside dbt, so you can send Slack alerts, detect anomalies and build machine learning models.
 - [alvarobartt/investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python
 - [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.
 - [magenta/mt3](https://github.com/magenta/mt3) - MT3: Multi-Task Multitrack Music Transcription
@@ -1630,7 +1631,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
 - [vaikkunth/PrivacyFL](https://github.com/vaikkunth/PrivacyFL) - A Simulator for Privacy Preserving Federated Learning
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - level5.lyft.com
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [pcyin/tranX](https://github.com/pcyin/tranX) - A general-purpose neural semantic parser for mapping natural language queries into machine executable code
 - [paulfitz/mlsql](https://github.com/paulfitz/mlsql) - inferring sql queries from plain-text questions about tables
@@ -1721,7 +1722,7 @@
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [codesociety/friartuck](https://github.com/codesociety/friartuck) - Live Quant Trading Framework for Robinhood, using IEX Trading and AlphaVantage for Free Prices.
-- [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [src-d/ml-core](https://github.com/src-d/ml-core) - source{d} MLonCode foundation - core algorithms and models.
 - [github/argo-ml](https://github.com/github/argo-ml) - Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios
