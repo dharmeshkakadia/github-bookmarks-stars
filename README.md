@@ -1016,7 +1016,6 @@
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
-- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
@@ -2288,6 +2287,7 @@
 
 ## TypeScript 
 
+- [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -2316,6 +2316,7 @@
 - [asyml/stave](https://github.com/asyml/stave) - An extensible framework for building visualization and annotation tools to enable better interaction with NLP and Artificial Intelligence. This is part of the CASL project: http://casl-project.ai/
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cadbox1/very-nested](https://github.com/cadbox1/very-nested) - Nested lists published on GitHub.
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jupytercalpoly/jupyterlab-tabular-data-editor](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor) - Manipulate your tabular data responsively and effectively within JupyterLab.
 - [sign-language-processing/detection-app](https://github.com/sign-language-processing/detection-app) - Sign Language Detection Web Application
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
