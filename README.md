@@ -1543,6 +1543,7 @@
 
 ## Python 
 
+- [jeffshek/open](https://github.com/jeffshek/open) - The most boring open source you've ever seen ....
 - [fal-ai/fal](https://github.com/fal-ai/fal) - do more with dbt. fal helps you run Python alongside dbt, so you can send Slack alerts, detect anomalies and build machine learning models.
 - [alvarobartt/investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python
 - [NVIDIA-Merlin/Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec) - Transformers4Rec is a flexible and efficient library for sequential and session-based recommendation, available for both PyTorch and Tensorflow.
@@ -1746,7 +1747,7 @@
 - [RaRe-Technologies/smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [YadiraF/GAN](https://github.com/YadiraF/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
@@ -2026,6 +2027,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [gakonst/foundry](https://github.com/gakonst/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
@@ -2048,7 +2050,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [mike-engel/now-importer](https://github.com/mike-engel/now-importer) - Easily import your static websites into ZEIT's now platform
 - [comnik/declarative-dataflow](https://github.com/comnik/declarative-dataflow) - A reactive query engine built on differential dataflow.
-- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
