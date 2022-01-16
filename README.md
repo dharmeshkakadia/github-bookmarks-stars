@@ -458,7 +458,7 @@
 - [pravega/pravega-operator](https://github.com/pravega/pravega-operator) - Pravega Kubernetes Operator
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [spotahome/kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
