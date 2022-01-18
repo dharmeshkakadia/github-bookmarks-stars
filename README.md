@@ -62,7 +62,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Solidity](#solidity)
-  - [Starlark](#starlark)
   - [Swift](#swift)
   - [TeX](#tex)
   - [Thrift](#thrift)
@@ -533,6 +532,7 @@
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
 - [k8guard/k8guard-discover](https://github.com/k8guard/k8guard-discover) - Discover microservice. Discovers violations and provides metrics and also API endpoints for K8Guard.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [sky-uk/feed](https://github.com/sky-uk/feed) - Nginx based Kubernetes ingress controller for AWS
 - [Azure/draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [stelligent/mu](https://github.com/stelligent/mu) - A full-stack DevOps on AWS framework
@@ -2255,10 +2255,6 @@
 - [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!
 
-## Starlark 
-
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-
 ## Swift 
 
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
@@ -2311,7 +2307,7 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
