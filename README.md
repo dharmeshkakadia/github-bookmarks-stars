@@ -449,7 +449,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [kubedb/operator](https://github.com/kubedb/operator) - KubeDB Operator
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [vmware/purser](https://github.com/vmware/purser) - Kubernetes Cloud Native Applications visibility
+- [vmware-archive/purser](https://github.com/vmware-archive/purser) - Kubernetes Cloud Native Applications visibility
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -689,6 +689,7 @@
 ## HTML 
 
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
@@ -701,7 +702,6 @@
 - [bollu/bollu.github.io](https://github.com/bollu/bollu.github.io) - code + contents of my website, and programming life
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jlord/forkngo](https://github.com/jlord/forkngo) - A site about how awesome Fork-n-go is!
@@ -1009,7 +1009,6 @@
 - [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
 - [Halmesn/Hotflix](https://github.com/Halmesn/Hotflix) - 🍿 This project landed me an interview with Netflix!
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
@@ -1061,6 +1060,7 @@
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [ferrucc-io/kit-crm](https://github.com/ferrucc-io/kit-crm) - A personal CRM built on Blockstack
 - [transmute-industries/transmute](https://github.com/transmute-industries/transmute) - Secure and Scalable Decentralized Application Framework
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [sonnylazuardi/react-komik](https://github.com/sonnylazuardi/react-komik) - :speech_balloon: ReactJS based comic strip creator using fabric.js canvas rendering
@@ -1565,7 +1565,7 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix) - 
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful NLP builder FOR TExt.  This is part of the CASL project: http://casl-project.ai/
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
