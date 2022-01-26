@@ -740,6 +740,7 @@
 
 ## Java 
 
+- [castledio/castled](https://github.com/castledio/castled) - Castled is an open source reverse ETL solution that helps you to periodically sync the data in your db/warehouse into sales, marketing, support or custom apps without any help from engineering teams
 - [rayokota/kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [CODAIT/stocator](https://github.com/CODAIT/stocator) - Stocator is high performing connector to object storage for Apache Spark, achieving performance by leveraging object storage semantics.
@@ -997,6 +998,7 @@
 
 ## JavaScript 
 
+- [a16z/zkp-merkle-airdrop-lib](https://github.com/a16z/zkp-merkle-airdrop-lib) - 
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [aurora-opensource/xviz](https://github.com/aurora-opensource/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
@@ -2254,6 +2256,7 @@
 
 ## Solidity 
 
+- [a16z/zkp-merkle-airdrop-contracts](https://github.com/a16z/zkp-merkle-airdrop-contracts) - 
 - [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!
 
