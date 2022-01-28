@@ -1839,6 +1839,7 @@
 - [b12io/orchestra](https://github.com/b12io/orchestra) - Orchestra is a Robotic Process Automation system for orchestrating project teams of experts and machines.
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [bloomberg/chef-bcpc](https://github.com/bloomberg/chef-bcpc) - Bloomberg Clustered Private Cloud distribution
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
@@ -1966,7 +1967,6 @@
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [slackhq/magic-cli](https://github.com/slackhq/magic-cli) - 
 - [bloomberg/chef-bach](https://github.com/bloomberg/chef-bach) - Chef recipes for Bloomberg's deployment of Hadoop and related components
-- [bloomberg/chef-bcpc](https://github.com/bloomberg/chef-bcpc) - Bloomberg Clustered Private Cloud distribution
 - [reenhanced/gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.
 - [alehander92/hivemind](https://github.com/alehander92/hivemind) - a multi-syntax language
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
