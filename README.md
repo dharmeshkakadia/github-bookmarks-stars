@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [facebookresearch/moolib](https://github.com/facebookresearch/moolib) - A library for distributed ML training with PyTorch
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
@@ -469,7 +470,7 @@
 - [GoogleCloudPlatform/airflow-operator](https://github.com/GoogleCloudPlatform/airflow-operator) - Kubernetes custom controller and CRDs to managing Airflow
 - [kris-nova/klone](https://github.com/kris-nova/klone) - Taking you from a git repository to development in seconds
 - [CanopyTax/ckube](https://github.com/CanopyTax/ckube) - A cli to simplify working with kubectl for some common workflows
-- [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for Allreduce-style Distributed Training
+- [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) - Assign Azure Active Directory Identities to Kubernetes applications.
@@ -572,7 +573,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
