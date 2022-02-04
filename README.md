@@ -419,7 +419,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed file system and object store.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
