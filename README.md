@@ -1887,7 +1887,6 @@
 - [ceteri/jem-video](https://github.com/ceteri/jem-video) - A companion wiki + code repository for the O'Reilly Media video "Just Enough Math". This site provides additional links, sample code, and other addenda.
 - [pybrain/pybrain](https://github.com/pybrain/pybrain) - 
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [nate-parrott/Flashlight](https://github.com/nate-parrott/Flashlight) - The missing Spotlight plugin system
 - [ucb-sts/sts](https://github.com/ucb-sts/sts) - SDN Troubleshooting System
 - [svenkreiss/unicodeit](https://github.com/svenkreiss/unicodeit) - Converts LaTeX tags to unicode: \mathcal{H} → ℋ. Available on the web or as Automator script for the Mac.
@@ -2237,6 +2236,7 @@
 - [vmware-archive/mesos-boshrelease](https://github.com/vmware-archive/mesos-boshrelease) - Apache Mesos BOSH release
 - [CloudCredo/mesos-boshrelease](https://github.com/CloudCredo/mesos-boshrelease) - A Bosh release for Apache Mesos
 - [mdevilliers/vagrant-mesos-development-environment](https://github.com/mdevilliers/vagrant-mesos-development-environment) - Vagrant script to set up a mesos development environment
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [miguno/wirbelsturm](https://github.com/miguno/wirbelsturm) - Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data tech like Kafka.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -2405,7 +2405,6 @@
 ## Vim script 
 
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 
 ## VimL 
