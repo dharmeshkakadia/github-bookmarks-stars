@@ -381,6 +381,7 @@
 
 ## Go 
 
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) - IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
@@ -804,7 +805,6 @@
 - [linkedin/dr-elephant](https://github.com/linkedin/dr-elephant) - Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark
 - [linkedin/datahub](https://github.com/linkedin/datahub) - The Metadata Platform for the Modern Data Stack
 - [crashub/crash](https://github.com/crashub/crash) - The shell for the Java Platform
-- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [qubole/quark](https://github.com/qubole/quark) - Quark is a data virtualization engine over analytic databases.
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform
 - [palaima/DebugDrawer](https://github.com/palaima/DebugDrawer) - Android Debug Drawer for faster development
@@ -1298,6 +1298,7 @@
 - [atriumlts/subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
 - [evancchow/jazzml](https://github.com/evancchow/jazzml) - A (very incomplete) project that combines machine learning with music.
 - [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - Distributed deep learning on Hadoop and Spark clusters.
+- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [nwhitehead/pineapple](https://github.com/nwhitehead/pineapple) - 
 - [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
 
