@@ -2240,7 +2240,7 @@
 - [mdevilliers/vagrant-mesos-development-environment](https://github.com/mdevilliers/vagrant-mesos-development-environment) - Vagrant script to set up a mesos development environment
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [miguno/wirbelsturm](https://github.com/miguno/wirbelsturm) - Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data tech like Kafka.
+- [miguno/wirbelsturm](https://github.com/miguno/wirbelsturm) - [PROJECT IS NO LONGER MAINTAINED] Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data tech like Kafka.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [fnichol/dvm](https://github.com/fnichol/dvm) - An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels.
 - [prey/prey-bash-client](https://github.com/prey/prey-bash-client) - DEPRECATED - Project no longer supported, please consider using https://github.com/prey/prey-node-client instead
