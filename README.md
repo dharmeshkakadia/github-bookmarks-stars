@@ -154,6 +154,7 @@
 
 ## C# # 
 
+- [microsoft/Forge](https://github.com/microsoft/Forge) - A Generic Low-Code Framework Built on a Config-Driven Tree Walker
 - [microsoft/synckusto](https://github.com/microsoft/synckusto) - Synchronize database schemas between a Kusto cluster and the local file system
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [microsoft/Trill](https://github.com/microsoft/Trill) - Trill is a single-node query processor for temporal or streaming data.
@@ -1601,7 +1602,7 @@
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
