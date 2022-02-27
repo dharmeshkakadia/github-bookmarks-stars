@@ -395,7 +395,7 @@
 - [numary/ledger](https://github.com/numary/ledger) - 🏛 A scriptable financial ledger, designed to make it easy to model complex financial transactions
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology and Geo-distributed System.
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
