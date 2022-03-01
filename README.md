@@ -211,7 +211,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [microsoft/ELL](https://github.com/microsoft/ELL) - Embedded Learning Library
-- [omnisci/omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - HeavyDB (formerly OmniSciDB)
 - [apache/incubator-retired-quickstep](https://github.com/apache/incubator-retired-quickstep) - Apache Quickstep Incubator - This project is retired
 - [anse1/sqlsmith](https://github.com/anse1/sqlsmith) - A random SQL query generator
 - [CD3/gsc](https://github.com/CD3/gsc) - Run guided scripts for command line demos.
@@ -1104,7 +1104,6 @@
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A repository of global open address data.
 - [lelandrichardson/react-primitives](https://github.com/lelandrichardson/react-primitives) - Primitive React Interfaces Across Targets
 - [streamplace/wheelhouse](https://github.com/streamplace/wheelhouse) - Swiss Army knife for Javascript + Kubernetes
-- [Vasile-Peste/Typefont](https://github.com/Vasile-Peste/Typefont) - The first open-source library that detects the font of a text in a image.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
