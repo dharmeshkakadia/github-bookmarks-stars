@@ -1039,7 +1039,7 @@
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - A next generation decentralised Ethereum proof of stake network and pool, currently in beta and built to be compatible with Ethereum 2.0 and the Beacon Chain.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
 - [full-stack-serverless/conference-app-in-a-box](https://github.com/full-stack-serverless/conference-app-in-a-box) - Full stack & cross platform app customizable & themeable for any event or conference.
@@ -1605,7 +1605,7 @@
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
-- [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data profiling, testing, and monitoring for SQL accessible data.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines.
 - [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
