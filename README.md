@@ -2424,7 +2424,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turn any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
