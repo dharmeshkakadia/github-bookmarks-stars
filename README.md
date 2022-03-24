@@ -1547,6 +1547,7 @@
 
 ## Python 
 
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [CZ-NIC/pz](https://github.com/CZ-NIC/pz) - Easily handle day to day CLI operation via Python instead of regular Bash programs. 🇺🇦 #supporting
 - [jacopotagliabue/you-dont-need-a-bigger-boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat) - An end-to-end implementation of intent prediction with Metaflow and other cool tools
@@ -1725,7 +1726,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [nteract/bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses
 - [tf-encrypted/tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - A Framework for Encrypted Machine Learning in TensorFlow
-- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [codesociety/friartuck](https://github.com/codesociety/friartuck) - Live Quant Trading Framework for Robinhood, using IEX Trading and AlphaVantage for Free Prices.
@@ -2424,7 +2425,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turn any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
