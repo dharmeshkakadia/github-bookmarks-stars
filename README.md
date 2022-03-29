@@ -770,7 +770,7 @@
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) - Iceberg is a table format for large, slow-moving tabular data
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
 - [vmware-archive/xenon](https://github.com/vmware-archive/xenon) - Xenon - Decentralized Control Plane Framework
-- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [omalley/depchecker](https://github.com/omalley/depchecker) - Working tool to analyze Hive's class structure
 - [qubole/rubix](https://github.com/qubole/rubix) - Cache File System optimized for columnar formats and object stores
 - [awslabs/aws-serverless-java-container](https://github.com/awslabs/aws-serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
@@ -1547,6 +1547,7 @@
 
 ## Python 
 
+- [minimaxir/imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [CZ-NIC/pz](https://github.com/CZ-NIC/pz) - Easily handle day to day CLI operation via Python instead of regular Bash programs. 🇺🇦 #supporting
