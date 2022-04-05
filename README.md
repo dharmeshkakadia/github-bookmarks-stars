@@ -2082,7 +2082,7 @@
 
 - [ForestFlow/ForestFlow](https://github.com/ForestFlow/ForestFlow) - ForestFlow is a policy-driven Machine Learning Model Server. It is an LF AI Foundation incubation project.
 - [mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql) - An encrypted data analytics platform
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
 - [Azure/azure-kusto-spark](https://github.com/Azure/azure-kusto-spark) - Apache Spark Connector for Azure Kusto
