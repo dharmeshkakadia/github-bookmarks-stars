@@ -574,7 +574,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [micro/micro](https://github.com/micro/micro) - API first cloud platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -1547,6 +1547,7 @@
 
 ## Python 
 
+- [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [minimaxir/imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
@@ -1590,7 +1591,7 @@
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [logicalclocks/maggy](https://github.com/logicalclocks/maggy) - Distribution transparent Machine Learning experiments on Apache Spark
-- [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: A Research Platform for Federated Learning in Natural Language Processing
+- [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: A Research Platform for Federated Learning in Natural Language Processing. Accepted to NAACL 2022
 - [apache/incubator-liminal](https://github.com/apache/incubator-liminal) - Apache Liminals goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validation, deployment and inference in production. Liminal provides a Domain Specific Language to build ML workflows on top of Apache Airflow.
 - [world-federation-of-advertisers/cardinality_estimation_evaluation_framework](https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework) - Evaluation framework and methods for estimating cardinalities of groups of sets
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
