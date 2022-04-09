@@ -381,6 +381,7 @@
 
 ## Go 
 
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -933,7 +934,6 @@
 - [OpenHFT/Java-Lang](https://github.com/OpenHFT/Java-Lang) - Java Language support
 - [peter-lawrey/HugeCollections-OLD](https://github.com/peter-lawrey/HugeCollections-OLD) - Huge Collections for Java using efficient off heap storage
 - [OpenHFT/Java-Runtime-Compiler](https://github.com/OpenHFT/Java-Runtime-Compiler) - Java Runtime Compiler
-- [deric/gitlab-ci-mesos](https://github.com/deric/gitlab-ci-mesos) - Mesos framework for scheduling and executing GitLab CI Jobs
 - [joestelmach/natty](https://github.com/joestelmach/natty) - Java natural language date parser
 - [klout/brickhouse](https://github.com/klout/brickhouse) - Hive UDF's for the data warehouse
 - [awslabs/amazon-kinesis-client](https://github.com/awslabs/amazon-kinesis-client) - Client library for Amazon Kinesis
