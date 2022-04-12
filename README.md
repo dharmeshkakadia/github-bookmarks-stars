@@ -593,7 +593,7 @@
 - [google/badwolf](https://github.com/google/badwolf) - Temporal graph store abstraction layer.
 - [AdRoll/hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [insomniacslk/dublin-traceroute](https://github.com/insomniacslk/dublin-traceroute) - Dublin Traceroute is a NAT-aware multipath tracerouting tool
-- [kubernetes-sigs/poseidon](https://github.com/kubernetes-sigs/poseidon) - A Firmament-based Kubernetes scheduler
+- [kubernetes-retired/poseidon](https://github.com/kubernetes-retired/poseidon) - A Firmament-based Kubernetes scheduler
 - [libopenstorage/openstorage](https://github.com/libopenstorage/openstorage) - A multi-host clustered implementation of the open storage specification
 - [whitepages/terraform-provider-dummy](https://github.com/whitepages/terraform-provider-dummy) - 
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
@@ -1547,6 +1547,7 @@
 
 ## Python 
 
+- [microsoft/msrflute](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [minimaxir/imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow
@@ -2206,7 +2207,7 @@
 - [lambci/lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [romana/romana](https://github.com/romana/romana) - The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.
 - [TheNewNormal/kube-cluster-osx](https://github.com/TheNewNormal/kube-cluster-osx) - Local development  multi node Kubernetes Cluster for macOS made very simple
-- [joyent/triton](https://github.com/joyent/triton) - Joyent Triton DataCenter: a cloud management platform with first class support for containers.
+- [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) - Triton DataCenter: a cloud management platform with first class support for containers.
 - [HazyResearch/deepdive](https://github.com/HazyResearch/deepdive) - DeepDive
 - [lightbend/mesos-spark-integration-tests](https://github.com/lightbend/mesos-spark-integration-tests) - Mesos Integration Tests on Docker/Ec2
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
