@@ -562,7 +562,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [hyperhq/runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
-- [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [sourcegraph/appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
 - [coreos/torus](https://github.com/coreos/torus) - Torus Distributed Storage
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
@@ -2041,7 +2041,7 @@
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
-- [gakonst/foundry](https://github.com/gakonst/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
 - [project-serum/anchor](https://github.com/project-serum/anchor) - ⚓ Solana Sealevel Framework
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -2088,7 +2088,6 @@
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
 - [Azure/azure-kusto-spark](https://github.com/Azure/azure-kusto-spark) - Apache Spark Connector for Azure Kusto
-- [enso-org/enso-archive](https://github.com/enso-org/enso-archive) - Looking for Enso, the visual programming language? ➡️ https://github.com/enso-org/enso
 - [qubole/spark-acid](https://github.com/qubole/spark-acid) - ACID Data Source for Apache Spark based on Hive ACID
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
