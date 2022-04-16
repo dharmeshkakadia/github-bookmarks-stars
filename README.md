@@ -95,7 +95,7 @@
 - [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
-- [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - c-lightning — a Lightning Network implementation in C
+- [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 - [openmv/openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
 - [facebookincubator/profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [immobiliare/sfs](https://github.com/immobiliare/sfs) - Asynchronous Filesystem Replication
