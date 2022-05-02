@@ -753,7 +753,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 - [linkedin/transport](https://github.com/linkedin/transport) - A framework for writing performant user-defined functions (UDFs) that are portable across a variety of engines including Apache Spark, Apache Hive, and Presto.
-- [pytorch/serve](https://github.com/pytorch/serve) - Serve PyTorch models in production
+- [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
 - [ExpediaGroup/beekeeper](https://github.com/ExpediaGroup/beekeeper) - Service for automatically managing and cleaning up unreferenced data
