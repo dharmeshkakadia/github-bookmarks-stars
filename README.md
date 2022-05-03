@@ -156,7 +156,7 @@
 
 - [microsoft/Forge](https://github.com/microsoft/Forge) - A Generic Low-Code Framework Built on a Config-Driven Tree Walker
 - [microsoft/synckusto](https://github.com/microsoft/synckusto) - Synchronize database schemas between a Kusto cluster and the local file system
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 - [microsoft/Trill](https://github.com/microsoft/Trill) - Trill is a single-node query processor for temporal or streaming data.
 - [TheLastSliceGame/TheLastSliceGame](https://github.com/TheLastSliceGame/TheLastSliceGame) - UPDATE: This challenge has ended. INSTRUCTIONS: Beat challenge 1 (download the game, change the code) here. Then beat challenge 2. First five to beat challenge 3 win $10,000 USD each. No joke.
 - [BrianPeek/OctoBot](https://github.com/BrianPeek/OctoBot) - Manage GitHub from a chat window with Bot Framework and LUIS.ai
@@ -1648,7 +1648,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
-- [Adapter-Hub/adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) - Huggingface Transformers + Adapters = ❤️
+- [adapter-hub/adapter-transformers](https://github.com/adapter-hub/adapter-transformers) - Huggingface Transformers + Adapters = ❤️
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
