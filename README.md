@@ -383,6 +383,7 @@
 
 ## Go 
 
+- [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -462,7 +463,7 @@
 - [pravega/pravega-operator](https://github.com/pravega/pravega-operator) - Pravega Kubernetes Operator
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [spotahome/kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
@@ -1551,6 +1552,8 @@
 
 ## Python 
 
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [mosaicml/composer](https://github.com/mosaicml/composer) - library of algorithms to speed up neural network training
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels
@@ -2082,6 +2085,7 @@
 
 ## SCSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
