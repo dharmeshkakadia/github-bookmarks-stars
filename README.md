@@ -69,14 +69,13 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
   - [Vue](#vue)
   - [Wikitext](#wikitext)
   - [XSLT](#xslt)
 
 ## Arc 
 
-- [bixo/bixo](https://github.com/bixo/bixo) - Bixo is an open source web mining toolkit that runs as a series of Cascading pipes on top of Hadoop. By building a customized Cascading pipe assembly, you can quickly create specialized web mining applications.
+- [bixo/bixo](https://github.com/bixo/bixo) - Bixo is an open source web mining toolkit that runs as a series of Cascading pipes on top of Hadoop. By building a customized Cascading pipe assembly, you can quickly create specialized web mining app
 
 ## Assembly 
 
@@ -94,7 +93,7 @@
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
-- [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
+- [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application cod
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 - [openmv/openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
@@ -157,7 +156,7 @@
 
 - [microsoft/Forge](https://github.com/microsoft/Forge) - A Generic Low-Code Framework Built on a Config-Driven Tree Walker
 - [microsoft/synckusto](https://github.com/microsoft/synckusto) - Synchronize database schemas between a Kusto cluster and the local file system
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
 - [microsoft/Trill](https://github.com/microsoft/Trill) - Trill is a single-node query processor for temporal or streaming data.
 - [TheLastSliceGame/TheLastSliceGame](https://github.com/TheLastSliceGame/TheLastSliceGame) - UPDATE: This challenge has ended. INSTRUCTIONS: Beat challenge 1 (download the game, change the code) here. Then beat challenge 2. First five to beat challenge 3 win $10,000 USD each. No joke.
 - [BrianPeek/OctoBot](https://github.com/BrianPeek/OctoBot) - Manage GitHub from a chat window with Bot Framework and LUIS.ai
@@ -244,13 +243,13 @@
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [TU-Berlin-DIMA/myriad-toolkit](https://github.com/TU-Berlin-DIMA/myriad-toolkit) - Myriad Parallel Data Generator Toolkit
 - [elodina/alligator](https://github.com/elodina/alligator) - Custom allocator modules for Apache Mesos
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
+- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [camsas/Musketeer](https://github.com/camsas/Musketeer) - The Musketeer workflow manager.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [mesos/modules](https://github.com/mesos/modules) - Mesos modules examples and open source modules outside of  the Apache Mesos source tree.
-- [dmlc/minerva](https://github.com/dmlc/minerva) - Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.
+- [dmlc/minerva](https://github.com/dmlc/minerva) - Minerva: a fast and flexible tool for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code ca
 - [cdapio/tigon](https://github.com/cdapio/tigon) - High Throughput Real-time Stream Processing Framework
 - [yahoo/mdbm](https://github.com/yahoo/mdbm) - MDBM a very fast memory-mapped key/value store.
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -266,7 +265,7 @@
 - [maidsafe-archive/MaidSafe](https://github.com/maidsafe-archive/MaidSafe) - This is the super-project in which each MaidSafe library resides. Some information is common to all libraries, and is detailed here. Library-specific information can be found in each library's wiki.
 - [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
 - [uwsampa/grappa](https://github.com/uwsampa/grappa) - Grappa: scaling irregular applications on commodity clusters
-- [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
+- [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [primecoin/primecoin](https://github.com/primecoin/primecoin) - Primecoin - Cryptocurrency with Useful PoW Consensus
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -393,13 +392,13 @@
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
-- [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation requests and applying different queuing policies, e.g., FIFO, Priority, (iii) dispatching the job to one of multiple clusters, where a queuing agent runs, using configurable dispatch policies, and (iv) auto-scaling pod sets balancing job demands and cluster availability.
+- [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation reques
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [numary/machine](https://github.com/numary/machine) - A virtual machine that keeps money flowing
 - [numary/ledger](https://github.com/numary/ledger) - 🏛 A scriptable financial ledger, designed to make it easy to model complex financial transactions
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for Low-latency Edge Computing applications, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology and Geo-distributed System.
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -412,7 +411,7 @@
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [s8sg/faas-flow](https://github.com/s8sg/faas-flow) - Function Composition for OpenFaaS
 - [RealImage/QLedger](https://github.com/RealImage/QLedger) - A general ledger, suitable for managing any system with financial events
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
 - [moov-io/fed](https://github.com/moov-io/fed) - Fuzzy FedACH and FedWire ABA Routing Number and Bank Name Lookup.
 - [moov-io/customers](https://github.com/moov-io/customers) - Customer registry supporting Know Your Customer (KYC), Customer Identification Program (CIP), and OFAC checks
 - [moov-io/watchman](https://github.com/moov-io/watchman) - AML/CTF/KYC/OFAC Search of global watchlist, sanctions, and politically exposed person (PEP)
@@ -478,7 +477,7 @@
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) - Assign Azure Active Directory Identities to Kubernetes applications.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minima
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [oracle/mysql-operator](https://github.com/oracle/mysql-operator) - Create, operate and scale self-healing MySQL clusters in Kubernetes
 - [stackanetes/kubernetes-entrypoint](https://github.com/stackanetes/kubernetes-entrypoint) - Used as a container entrypoint, it will wait for specified k8s dependencies, create files based on ConfigMaps, and much more - before running a given command.
@@ -530,7 +529,7 @@
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [kubeops/config-syncer](https://github.com/kubeops/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
+- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [atlassian/smith](https://github.com/atlassian/smith) - Smith is a Kubernetes workflow engine / resource manager
 - [oklog/oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
@@ -557,7 +556,7 @@
 - [Azure/acs-engine](https://github.com/Azure/acs-engine) - WE HAVE MOVED: Please join us at Azure/aks-engine!
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [supergiant/control](https://github.com/supergiant/control) - Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
+- [supergiant/control](https://github.com/supergiant/control) - Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kub
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [coreos/ksched](https://github.com/coreos/ksched) - Experimental flow-based Kubernetes scheduler
@@ -655,7 +654,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [QubitProducts/bamboo](https://github.com/QubitProducts/bamboo) - HAProxy auto configuration and auto service discovery for Mesos Marathon
 - [marmelab/gaudi](https://github.com/marmelab/gaudi) - Gaudi allows to share multi-component applications, based on Docker, Go, and YAML.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [opencredo/mesos_service_discovery](https://github.com/opencredo/mesos_service_discovery) - Service Discovery script for Mesos and Marathon
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -745,7 +744,6 @@
 
 ## Java 
 
-- [castledio/castled](https://github.com/castledio/castled) - Castled is an open source reverse ETL solution that helps you to periodically sync the data in your db/warehouse into sales, marketing, support or custom apps without any help from engineering teams
 - [rayokota/kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [CODAIT/stocator](https://github.com/CODAIT/stocator) - Stocator is high performing connector to object storage for Apache Spark, achieving performance by leveraging object storage semantics.
@@ -791,7 +789,7 @@
 - [spotify/spydra](https://github.com/spotify/spydra) - Ephemeral Hadoop clusters using Google Compute Platform
 - [zrlio/crail](https://github.com/zrlio/crail) - [Archived] A Fast Multi-tiered Distributed Storage System based on User-Level I/O
 - [prestodb/tempto](https://github.com/prestodb/tempto) - A testing framework for Presto
-- [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.
+- [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is license
 - [cmu-db/peloton-test](https://github.com/cmu-db/peloton-test) - SQL Testing Framework for the Peloton DBMS
 - [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
@@ -833,7 +831,7 @@
 - [ContainerSolutions/minimesos](https://github.com/ContainerSolutions/minimesos) - The experimentation and testing tool for Apache Mesos - NO LONGER MAINTANED!
 - [sakserv/hadoop-mini-clusters](https://github.com/sakserv/hadoop-mini-clusters) - hadoop-mini-clusters provides an easy way to test Hadoop projects directly in your IDE
 - [kennycason/kumo](https://github.com/kennycason/kumo) - Kumo - Java Word Cloud
-- [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
+- [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch
 - [stratosphere/stratosphere-sopremo](https://github.com/stratosphere/stratosphere-sopremo) - 
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [obiba/rserver-admin](https://github.com/obiba/rserver-admin) - R server REST controller
@@ -848,7 +846,7 @@
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [pulsarIO/realtime-analytics](https://github.com/pulsarIO/realtime-analytics) - Realtime analytics, this includes the core components of Pulsar pipeline.
 - [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
-- [LiveRamp/hank](https://github.com/LiveRamp/hank) - (DEPRECATED. This project is no longer used or maintained at LiveRamp.) Hank is a high performance distributed key-value NoSQL database that we built and use at LiveRamp. It is designed for very large data stores that dwarf the amount of available main memory and for randomly distributed read/write workloads that far exceed the capacity of memory-based caches. More specifically, it is optimized for very low latency random read queries and for very high throughput incremental batch writes.
+- [LiveRamp/hank](https://github.com/LiveRamp/hank) - (DEPRECATED. This project is no longer used or maintained at LiveRamp.) Hank is a high performance distributed key-value NoSQL database that we built and use at LiveRamp. It is designed for very large
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [amazon-archives/ecs-mesos-scheduler-driver](https://github.com/amazon-archives/ecs-mesos-scheduler-driver) - Amazon ECS Scheduler Driver
 - [carrotsearch/hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections for Java
@@ -881,7 +879,6 @@
 - [tehuti-io/tehuti](https://github.com/tehuti-io/tehuti) - A simple metrics library.
 - [hadooparchitecturebook/hadoop-arch-book](https://github.com/hadooparchitecturebook/hadoop-arch-book) - Code repository for O'Reilly Hadoop Application Architectures book
 - [hadooparchitecturebook/clickstream-tutorial](https://github.com/hadooparchitecturebook/clickstream-tutorial) - Code for Tutorial on designing clickstream analytics application using Hadoop
-- [hadooparchitecturebook/SparkOnALog](https://github.com/hadooparchitecturebook/SparkOnALog) - Examples of Integrating Spark Streaming, Flume, and HBase to solve Streaming problems
 - [kevints/mesos-framework-api](https://github.com/kevints/mesos-framework-api) - Pure-JVM implementation of the Mesos Framework API (Work In Progress)
 - [paulhoule/infovore](https://github.com/paulhoule/infovore) - RDF-Centric Map/Reduce Framework and Freebase data conversion tool
 - [Stratio/ingestion](https://github.com/Stratio/ingestion) - Flume - Ingestion, an Apache Flume distribution
@@ -899,20 +896,18 @@
 - [Netflix/Turbine](https://github.com/Netflix/Turbine) - SSE Stream Aggregator
 - [soabase/exhibitor](https://github.com/soabase/exhibitor) - ZooKeeper co-process for instance monitoring, backup/recovery, cleanup and visualization.
 - [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
-- [hortonworks/cloudbreak](https://github.com/hortonworks/cloudbreak) - CDP Public Cloud is an integrated analytics and data management platform deployed on cloud services. It offers broad data analytics and artificial intelligence functionality along with secure user access and data governance features.
+- [hortonworks/cloudbreak](https://github.com/hortonworks/cloudbreak) - CDP Public Cloud is an integrated analytics and data management platform deployed on cloud services. It offers broad data analytics and artificial intelligence functionality along with secure user acc
 - [Impetus/ankush](https://github.com/Impetus/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
 - [sequenceiq/sequenceiq-samples](https://github.com/sequenceiq/sequenceiq-samples) - SequenceIQ Hadoop examples
 - [OryxProject/oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
 - [livingsocial/HiveSwarm](https://github.com/livingsocial/HiveSwarm) - Helpful user defined fuctions / table generating functions for Hive
 - [bytedeco/javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
-- [eBay/oink](https://github.com/eBay/oink) - REST based interface for PIG execution
 - [apavlo/h-store](https://github.com/apavlo/h-store) - H-Store Distributed Main Memory OLTP Database System
-- [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
 - [oltpbenchmark/oltpbench](https://github.com/oltpbenchmark/oltpbench) - Database Benchmarking Framework
 - [Netflix/ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 - [yasserglez/pagerank-hadoop](https://github.com/yasserglez/pagerank-hadoop) - PageRank implementation in Hadoop
 - [spotify/helios](https://github.com/spotify/helios) - Docker container orchestration platform
-- [mongojack/mongojack](https://github.com/mongojack/mongojack) - Mongojack maps Java objects to MongoDB documents. Based on the Jackson JSON mapper, Mongojack allows you to easily handle your mongo objects as POJOs (insert, search by id or by any other field, update).
+- [mongojack/mongojack](https://github.com/mongojack/mongojack) - Mongojack maps Java objects to MongoDB documents. Based on the Jackson JSON mapper, Mongojack allows you to easily handle your mongo objects as POJOs (insert, search by id or by any other field, updat
 - [InMobi/grill](https://github.com/InMobi/grill) - 
 - [cartershanklin/hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
 - [t3rmin4t0r/tpch-gen](https://github.com/t3rmin4t0r/tpch-gen) - Wrap up TPC-h dbgen into a map-reduce task
@@ -921,11 +916,10 @@
 - [julianhyde/linq4j](https://github.com/julianhyde/linq4j) - A port of LINQ (Language-Integrated Query) to Java
 - [joshelser/slider](https://github.com/joshelser/slider) - 
 - [kishoreg/fullmatix](https://github.com/kishoreg/fullmatix) - Collection of distributed systems built using Apache Helix
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
+- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [metamx/java-util](https://github.com/metamx/java-util) - Utility code for java and jvm-based languages
 - [trinodb/tpch](https://github.com/trinodb/tpch) - Port of TPC-H dbgen to Java
-- [whym/wikihadoop](https://github.com/whym/wikihadoop) - Stream-based InputFormat for processing the compressed XML dumps of Wikipedia with Hadoop
 - [ivan-vasilev/neuralnetworks](https://github.com/ivan-vasilev/neuralnetworks) - java deep learning algorithms and deep neural networks with gpu acceleration
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [hanborq/hadoop](https://github.com/hanborq/hadoop) - A Hanborq optimized Hadoop Distribution, especially with high performance of MapReduce. It's the core part of HDH (Hanborq Distribution with Hadoop for Big Data Engineering).
@@ -971,7 +965,6 @@
 - [brooklyncentral/brooklyn](https://github.com/brooklyncentral/brooklyn) - This project has moved and is now part of the ASF
 - [huahin/huahin-manager](https://github.com/huahin/huahin-manager) - Simple Management System for Hadoop MapReduce Job
 - [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
-- [LinkedInAttic/datafu](https://github.com/LinkedInAttic/datafu) - Hadoop library for large-scale data processing, now an Apache Incubator project
 - [hiranya911/mdcc](https://github.com/hiranya911/mdcc) - An implementation of the MDCC (Multi-Data Center Commit) Protocol featuring Fast Paxos.
 - [nathanmarz/storm-mesos](https://github.com/nathanmarz/storm-mesos) - Run Storm on top of the Mesos cluster resource manager
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
@@ -1022,7 +1015,7 @@
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
-- [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
+- [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
@@ -1096,7 +1089,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [iamtrask/Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
-- [azuqua/notp](https://github.com/azuqua/notp) - A library for writing distributed systems that use a gossip protocol to communicate state management, consistent hash rings for sharding, and vector clocks for history. https://www.npmjs.com/package/clusterluck
+- [azuqua/notp](https://github.com/azuqua/notp) - A library for writing distributed systems that use a gossip protocol to communicate state management, consistent hash rings for sharding, and vector clocks for history. https://www.npmjs.com/package/c
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -1175,7 +1168,7 @@
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [uber-node/zero-config](https://github.com/uber-node/zero-config) - A zero configuration configuration loader
 - [uber-node/ringpop-node](https://github.com/uber-node/ringpop-node) - Scalable, fault-tolerant application-layer sharding for Node.js applications
-- [DemocracyOS/democracyos](https://github.com/DemocracyOS/democracyos) - Democracia en Red is focusing on specific implementations of DemocracyOS. We are working now working with governments and activists all over Latin America. If you are interested in our online participation tools you can check them out on our site.
+- [DemocracyOS/democracyos](https://github.com/DemocracyOS/democracyos) - Democracia en Red is focusing on specific implementations of DemocracyOS. We are working now working with governments and activists all over Latin America. If you are interested in our online particip
 - [datahuborg/datahub](https://github.com/datahuborg/datahub) - An experimental hosted platform (GitHub-like) for organizing, managing, sharing, collaborating, and making sense of data.
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [Shopify/dashing](https://github.com/Shopify/dashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
@@ -1214,7 +1207,6 @@
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 - [ngaut/tyrant](https://github.com/ngaut/tyrant) - distributed  job scheduler based on mesos powered by golang
 - [particle-iot/spark-server](https://github.com/particle-iot/spark-server) - UNMAINTAINED - An API compatible open source server for interacting with devices speaking the spark-protocol
-- [usergrid/usergrid](https://github.com/usergrid/usergrid) - Read-only Mirror of Apache Usergrid
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1252,7 +1244,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
-- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
+- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [mlrun/demo-github-actions](https://github.com/mlrun/demo-github-actions) - demo CI/CD pipeline using MLRun, Kubeflow and GitHub Actions
@@ -1368,7 +1360,7 @@
 
 ## Others 
 
-- [google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina) - The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. For each language, the dataset includes a large collection of native script Wikipedia text, a romanization lexicon of words in the native script with attested romanizations, and some full sentence parallel data in both a native script of the language and the basic Latin alphabet.
+- [google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina) - The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. For each language, the dataset includes a large collection of native script Wikipedia text,
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [jspahrsummers/effective-code-review](https://github.com/jspahrsummers/effective-code-review) - Presentation about my process for making code reviews as effective as possible
@@ -1378,7 +1370,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
-- [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.
+- [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adv
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome machine learning strategies & tools in financial market.
 - [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
@@ -1434,6 +1426,7 @@
 - [kelseyhightower/kubestack](https://github.com/kelseyhightower/kubestack) - Manage Kubernetes with Packer and Terraform on Google Compute Engine.
 - [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
 - [databricks/scala-style-guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide
+- [CiscoCloud/exhibitor-mesos-framework](https://github.com/CiscoCloud/exhibitor-mesos-framework) - Exhibitor on Apache Mesos for reliably running Zookeeper on Mesos
 - [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
@@ -1452,6 +1445,7 @@
 - [thefactory/cloudformation-mesos](https://github.com/thefactory/cloudformation-mesos) - [Moved] CloudFormation templates for a production-ready Mesos cluster
 - [mesos/myriad](https://github.com/mesos/myriad) - https://github.com/apache/incubator-myriad is our new home. See
 - [localytics/data-viz-challenge](https://github.com/localytics/data-viz-challenge) - 
+- [hadooparchitecturebook/SparkOnALog](https://github.com/hadooparchitecturebook/SparkOnALog) - Examples of Integrating Spark Streaming, Flume, and HBase to solve Streaming problems
 - [jasonm/reading-list](https://github.com/jasonm/reading-list) - reading list
 - [AnsibleShipyard/ansible-mesos](https://github.com/AnsibleShipyard/ansible-mesos) - Mesos Playbook for Ansible
 - [kyro/shelfies](https://github.com/kyro/shelfies) - Bookshelves of awesome people
@@ -1471,6 +1465,8 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [ocharles/papers](https://github.com/ocharles/papers) - A Git annex repository of papers
 - [henryr/cap-faq](https://github.com/henryr/cap-faq) - The CAP FAQ
+- [eBay/oink](https://github.com/eBay/oink) - REST based interface for PIG execution
+- [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
 - [sbinet/notes-and-todos](https://github.com/sbinet/notes-and-todos) - notes about stuff
 - [aphyr/partitions-post](https://github.com/aphyr/partitions-post) - A blog post on network partitions in practice
 - [mesosphere/kubernetes-mesos](https://github.com/mesosphere/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
@@ -1480,6 +1476,7 @@
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
+- [usergrid/usergrid](https://github.com/usergrid/usergrid) - Read-only Mirror of Apache Usergrid
 - [tillt/xcode-mesos](https://github.com/tillt/xcode-mesos) - Xcode Workspace for Apache Mesos
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [stealthly/kafka-mesos](https://github.com/stealthly/kafka-mesos) - Kafka on Mesos
@@ -1493,17 +1490,20 @@
 - [henryr/distributed-systems-readings](https://github.com/henryr/distributed-systems-readings) - Readings in distributed systems
 - [monitoringsucks/tool-repos](https://github.com/monitoringsucks/tool-repos) - Tracking various tools that fit in the monitoring and metrics space
 - [ariejan/imdb](https://github.com/ariejan/imdb) - 
+- [LinkedInAttic/datafu](https://github.com/LinkedInAttic/datafu) - Hadoop library for large-scale data processing, now an Apache Incubator project
 - [etsy/ipcat](https://github.com/etsy/ipcat) - Categorization of IP Addresses
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
+- [project-open-data/api-umbrella](https://github.com/project-open-data/api-umbrella) - a platform for exposing web service APIs. The basic goal of API Umbrella is to make life easier for both API creators and API consumers.
 - [rackerlabs/stacktach](https://github.com/rackerlabs/stacktach) - Event-based Monitoring & Billing solution for OpenStack
 - [PharkMillups/killer-talks](https://github.com/PharkMillups/killer-talks) - A list of talks that are worth watching.
 - [twitter-archive/twitter-text-java](https://github.com/twitter-archive/twitter-text-java) - A Java implementation of Twitter's text processing library
 - [stackforge/MRaaS](https://github.com/stackforge/MRaaS) - MapReduce as a Service
-- [stackforge/healthnmon](https://github.com/stackforge/healthnmon) - Healthnmon aims to deliver 'Cloud Resource Monitor', an extensible service to OpenStack Cloud Operating system by providing monitoring service for Cloud Resources and Infrastructure with a pluggable framework for 'Inventory Management', 'Alerts and notifications' and 'Utilization Data.'
+- [stackforge/healthnmon](https://github.com/stackforge/healthnmon) - Healthnmon aims to deliver 'Cloud Resource Monitor', an extensible service to OpenStack Cloud Operating system by providing monitoring service for Cloud Resources and Infrastructure with a pluggable f
 - [openstack-archive/kwapi](https://github.com/openstack-archive/kwapi) - MOVED: now at https://opendev.org/x/kwapi
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [verma7/GeneticAlgorithmsUsingMapReduce](https://github.com/verma7/GeneticAlgorithmsUsingMapReduce) - Simple and compact genetic algorithms using MapReduce
 - [ApacheDrill/Brainstorm](https://github.com/ApacheDrill/Brainstorm) - 
+- [weilu/wikipedia-api](https://github.com/weilu/wikipedia-api) - Ruby wrapper over the Wikipedia API
 
 ## PHP 
 
@@ -1578,7 +1578,7 @@
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
 - [a-rahimi/python-checkpointing2](https://github.com/a-rahimi/python-checkpointing2) - Checkpoint the state of Python programs using Pythonic setjmp and longjmp
@@ -1589,7 +1589,7 @@
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics,
 - [yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix) - 
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
@@ -1605,7 +1605,7 @@
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [logicalclocks/maggy](https://github.com/logicalclocks/maggy) - Distribution transparent Machine Learning experiments on Apache Spark
 - [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: A Research Platform for Federated Learning in Natural Language Processing. Accepted to NAACL 2022
-- [apache/incubator-liminal](https://github.com/apache/incubator-liminal) - Apache Liminals goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validation, deployment and inference in production. Liminal provides a Domain Specific Language to build ML workflows on top of Apache Airflow.
+- [apache/incubator-liminal](https://github.com/apache/incubator-liminal) - Apache Liminals goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validati
 - [world-federation-of-advertisers/cardinality_estimation_evaluation_framework](https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework) - Evaluation framework and methods for estimating cardinalities of groups of sets
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1613,7 +1613,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [jmfernandes/robin_stocks](https://github.com/jmfernandes/robin_stocks) - This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the performance of your portfolio, and can also get tax documents, total dividends paid, and more. More info at
+- [jmfernandes/robin_stocks](https://github.com/jmfernandes/robin_stocks) - This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [xhlulu/dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
@@ -1638,7 +1638,7 @@
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [hackalog/easydata](https://github.com/hackalog/easydata) - A flexible template for doing reproducible data science in Python.
-- [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.ai.
+- [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - [awwong1/torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
@@ -1653,7 +1653,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [adapter-hub/adapter-transformers](https://github.com/adapter-hub/adapter-transformers) - Huggingface Transformers + Adapters = ❤️
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments.
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter s
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
 - [vaikkunth/PrivacyFL](https://github.com/vaikkunth/PrivacyFL) - A Simulator for Privacy Preserving Federated Learning
@@ -1665,8 +1665,8 @@
 - [naiveHobo/InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
 - [alpacahq/alpaca-backtrader-api](https://github.com/alpacahq/alpaca-backtrader-api) - Alpaca Trading API integrated with backtrader
-- [microsoft/OLive](https://github.com/microsoft/OLive) - OLive, meaning ONNX Runtime(ORT) Go Live, is a python package that automates the process of accelerating models with ONNX Runtime(ORT). It contains two parts including model conversion to ONNX with correctness checking and auto performance tuning with ORT. Users can run these two together through a single pipeline or run them independently as needed.
-- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
+- [microsoft/OLive](https://github.com/microsoft/OLive) - OLive, meaning ONNX Runtime(ORT) Go Live, is a python package that automates the process of accelerating models with ONNX Runtime(ORT). It contains two parts including model conversion to ONNX with co
+- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcemen
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
@@ -1713,7 +1713,7 @@
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [deepdrive/deepdrive](https://github.com/deepdrive/deepdrive) - Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving
@@ -1795,7 +1795,7 @@
 - [tensorflow/compression](https://github.com/tensorflow/compression) - Data compression in TensorFlow
 - [chiphuyen/sotawhat](https://github.com/chiphuyen/sotawhat) - Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday.
 - [ramtinms/ethereum-log](https://github.com/ramtinms/ethereum-log) - A native light weight implementation of log parser for Ethereum event logs
-- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, a
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
@@ -1847,7 +1847,7 @@
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [yahoo/lopq](https://github.com/yahoo/lopq) - Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
@@ -1866,7 +1866,7 @@
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
-- [nucypher/zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
+- [nucypher/zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted dat
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [probcomp/crosscat](https://github.com/probcomp/crosscat) - A domain-general, Bayesian method for analyzing high-dimensional data tables
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
@@ -1886,19 +1886,19 @@
 - [VIDA-NYU/reprozip](https://github.com/VIDA-NYU/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
 - [akshshar/QoSon](https://github.com/akshshar/QoSon) - Mesos Framework to tackle network degradation through Distributed Telemetry
 - [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [bolt-project/bolt](https://github.com/bolt-project/bolt) - Unified interface for local and distributed ndarrays
 - [freeman-lab/spark-ml-streaming](https://github.com/freeman-lab/spark-ml-streaming) - Visualize streaming machine learning in Spark
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
 - [autodesk-cloud/ochonetes](https://github.com/autodesk-cloud/ochonetes) - K8S/Ochopod web-shell + toolkit + CLI !
 - [XiaoMi/minos](https://github.com/XiaoMi/minos) - Minos is beyond a hadoop deployment system.
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [mesosphere/ANAGRAMMER](https://github.com/mesosphere/ANAGRAMMER) - An anagram finder for Apache Mesos
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
-- [GoogleCloudPlatform/PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.
+- [GoogleCloudPlatform/PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed
 - [amscanne/huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.
 - [thefactory/autoscale-python](https://github.com/thefactory/autoscale-python) - Python library to manage autoscaling logic and actions
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -1913,7 +1913,7 @@
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
 - [jhorey/ferry](https://github.com/jhorey/ferry) - Ferry lets you define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker
 - [kayousterhout/trace-analysis](https://github.com/kayousterhout/trace-analysis) - Scripts to analyze Spark's performance
-- [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster.
+- [danilop/yas3fs](https://github.com/danilop/yas3fs) - YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized
 - [mesosphere-backup/mesos-cli](https://github.com/mesosphere-backup/mesos-cli) - This project has been deprecated. Please use the DC/OS CLI.
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [duedil-ltd/portainer](https://github.com/duedil-ltd/portainer) - Apache Mesos framework for building Docker images on a cluster of machines
@@ -1930,9 +1930,10 @@
 - [numenta/nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [t3rmin4t0r/tez-swimlanes](https://github.com/t3rmin4t0r/tez-swimlanes) - Swimlane graphs from apache-tez AM logs
 - [wickman/compactor](https://github.com/wickman/compactor) - pure python libprocess implementation
-- [ceteri/exelixi](https://github.com/ceteri/exelixi) - Exelixi is a distributed framework based on Apache Mesos, mostly implemented in Python using gevent for high-performance concurrency. It is intended to run cluster computing jobs (partitioned batch jobs, which include some messaging) in pure Python. By default, it runs genetic algorithms at scale.
+- [ceteri/exelixi](https://github.com/ceteri/exelixi) - Exelixi is a distributed framework based on Apache Mesos, mostly implemented in Python using gevent for high-performance concurrency. It is intended to run cluster computing jobs (partitioned batch jo
 - [ericmoritz/crdt](https://github.com/ericmoritz/crdt) - CRDT toolbox
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
+- [whym/wikihadoop](https://github.com/whym/wikihadoop) - Stream-based InputFormat for processing the compressed XML dumps of Wikipedia with Hadoop
 - [softlayer/jumpgate](https://github.com/softlayer/jumpgate) - A simple library to make more clouds compatible with OpenStack.
 - [tomakehurst/saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience
 - [gunnery/gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
@@ -1951,7 +1952,7 @@
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [klbostee/dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs.
 - [jeffknupp/sandman](https://github.com/jeffknupp/sandman) - Sandman "makes things REST".
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [progrium/skypipe](https://github.com/progrium/skypipe) - A magic pipe in the sky for the command line
@@ -1960,7 +1961,7 @@
 - [toddlipcon/haatkit](https://github.com/toddlipcon/haatkit) - Toolkit of simple scripts useful for managing Hadoop
 - [Yelp/EMRio](https://github.com/Yelp/EMRio) - Elastic MapReduce instance optimizer
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is
 - [beloglazov/openstack-neat](https://github.com/beloglazov/openstack-neat) - OpenStack Neat: A Framework for Dynamic Consolidation of Virtual Machines in OpenStack Clouds
 - [redhat-openstack/packstack](https://github.com/redhat-openstack/packstack) - Install utility to deploy OpenStack on multiple hosts. This is the GitHub mirror for https://opendev.org/x/packstack.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -2020,7 +2021,7 @@
 - [harrystech/dynosaur](https://github.com/harrystech/dynosaur) - An auto-scaling engine for Heroku web dynos using pluggable API connections.
 - [aviator/aviator](https://github.com/aviator/aviator) - A Framework for Writing REST API Clients
 - [solidsnack/chronic](https://github.com/solidsnack/chronic) - Chronic is a pure Ruby natural language date parser.
-- [travisjeffery/timecop](https://github.com/travisjeffery/timecop) - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
+- [travisjeffery/timecop](https://github.com/travisjeffery/timecop) - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [everpeace/cookbook-mesos](https://github.com/everpeace/cookbook-mesos) - Cookbook for Mesos (http://mesos.apache.org/).
@@ -2038,7 +2039,6 @@
 - [infochimps-labs/swineherd](https://github.com/infochimps-labs/swineherd) - Swineherd with a magic ruby to make pig fly.
 - [infochimps-labs/big_data_for_chimps](https://github.com/infochimps-labs/big_data_for_chimps) - A Seriously Fun guide to Big Data Analytics in Practice
 - [applicationsonline/librarian-chef](https://github.com/applicationsonline/librarian-chef) - Librarian-Chef - A Bundler for your Chef Cookbooks. Librarian is at: https://github.com/applicationsonline/librarian.
-- [project-open-data/api-umbrella](https://github.com/project-open-data/api-umbrella) - a platform for exposing web service APIs. The basic goal of API Umbrella is to make life easier for both API creators and API consumers.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [airbnb/cloud-maker](https://github.com/airbnb/cloud-maker) - Building castles in the sky
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
@@ -2047,7 +2047,6 @@
 - [apache/buildr](https://github.com/apache/buildr) - Mirror of Apache Buildr
 - [plusjade/jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap) - The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.
 - [OpenKit/openkit-server](https://github.com/OpenKit/openkit-server) - OpenKit Server
-- [weilu/wikipedia-api](https://github.com/weilu/wikipedia-api) - Ruby wrapper over the Wikipedia API
 
 ## Rust 
 
@@ -2117,7 +2116,7 @@
 - [src-d/jgit-spark-connector](https://github.com/src-d/jgit-spark-connector) - jgit-spark-connector is a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.
 - [getnelson/nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
 - [zrlio/crail-spark-io](https://github.com/zrlio/crail-spark-io) - Fast I/O plugins for Spark
-- [apache-spark-on-k8s/spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end: NOTE this repository is being ARCHIVED as all new development for the kubernetes scheduler back-end is now on https://github.com/apache/spark/
+- [apache-spark-on-k8s/spark](https://github.com/apache-spark-on-k8s/spark) - Apache Spark enhanced with native Kubernetes scheduler back-end: NOTE this repository is being ARCHIVED as all new development for the kubernetes scheduler back-end is now on https://github.com/apache
 - [dbis-ilm/piglet](https://github.com/dbis-ilm/piglet) - A compiler for Pig Latin to Spark and Flink.
 - [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
 - [linkerd/linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
@@ -2127,7 +2126,6 @@
 - [sbt/sbt-native-packager](https://github.com/sbt/sbt-native-packager) - sbt Native Packager
 - [dalab/dissolve-struct](https://github.com/dalab/dissolve-struct) - Distributed solver library for large-scale structured output prediction, based on Spark. Project website:
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [CiscoCloud/exhibitor-mesos-framework](https://github.com/CiscoCloud/exhibitor-mesos-framework) - Exhibitor on Apache Mesos for reliably running Zookeeper on Mesos
 - [ottogroup/schedoscope](https://github.com/ottogroup/schedoscope) - Schedoscope is a scheduling framework for painfree agile development, testing, (re)loading, and monitoring of your datahub, lake, or whatever you choose to call your Hadoop data warehouse these days.
 - [amplab/velox-modelserver](https://github.com/amplab/velox-modelserver) - 
 - [peelframework/peel](https://github.com/peelframework/peel) - Peel is a framework that helps you to define, execute, analyze, and share experiments for distributed systems and algorithms.
@@ -2163,14 +2161,14 @@
 - [JerryLead/SparkLearning](https://github.com/JerryLead/SparkLearning) - Learning to write Spark examples
 - [h2oai/h2o-sparkling](https://github.com/h2oai/h2o-sparkling) - DEPRECATED! Use https://github.com/h2oai/sparkling-water repository! H2O and Spark interoperability based on Tachyon.
 - [coflow/varys](https://github.com/coflow/varys) - Varys: Efficient Clairvoyant Coflow Scheduler
-- [ooyala/spark-jobserver](https://github.com/ooyala/spark-jobserver) - REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo for Ooyala.
+- [ooyala/spark-jobserver](https://github.com/ooyala/spark-jobserver) - REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo
 - [mesosphere-backup/sssp](https://github.com/mesosphere-backup/sssp) - S3 Proxy Mesos Framework
 - [guenter/mesos-getting-started](https://github.com/guenter/mesos-getting-started) - A tutorial that explains how to build a simple distributed fault-tolerant framework on top of Mesos
 - [Comcast/sirius](https://github.com/Comcast/sirius) - A distributed system library for managing application reference data
 - [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [twitter-archive/kestrel](https://github.com/twitter-archive/kestrel) - simple, distributed message queue system (inactive)
 - [twitter/finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle
-- [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API) - An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.
+- [OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API) - An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of i
 - [radlab/SCADS](https://github.com/radlab/SCADS) - Scalable Consistency Adjustable Data Storage
 - [avibryant/simmer](https://github.com/avibryant/simmer) - Reduce your data. A unix filter for algebird-powered aggregation.
 - [boundary/ordasity](https://github.com/boundary/ordasity) - Ordasity is Boundary's library for building stateful clustered services on the JVM.
@@ -2198,7 +2196,6 @@
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [cnabio/cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
-- [fastai/fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [helaili/jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
@@ -2261,7 +2258,7 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [miguno/wirbelsturm](https://github.com/miguno/wirbelsturm) - [PROJECT IS NO LONGER MAINTAINED] Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data tech like Kafka.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [fnichol/dvm](https://github.com/fnichol/dvm) - An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels.
+- [fnichol/dvm](https://github.com/fnichol/dvm) - An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels
 - [prey/prey-bash-client](https://github.com/prey/prey-bash-client) - DEPRECATED - Project no longer supported, please consider using https://github.com/prey/prey-node-client instead
 - [redhat-cip/edeploy](https://github.com/redhat-cip/edeploy) - Linux systems provisioning and updating made easy
 - [analytically/hadoop-ansible](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana for monitoring and centralized log indexing.
@@ -2341,7 +2338,7 @@
 - [salto-io/salto](https://github.com/salto-io/salto) - Salto enables you to manage your business applications' configuration in code
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).
 - [allegro/turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
@@ -2434,11 +2431,8 @@
 ## Vim script 
 
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
-
-## VimL 
-
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+- [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 
 ## Vue 
 
