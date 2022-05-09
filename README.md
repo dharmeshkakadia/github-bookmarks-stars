@@ -587,7 +587,7 @@
 - [ahmetb/wagl](https://github.com/ahmetb/wagl) - :bee: DNS Service Discovery for Docker Swarm. Works out of the box. (NOW OBSOLETE, USE SWARM MODE)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [square/p2](https://github.com/square/p2) - Platypus Platform: Tools for Scalable Deployment
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [svent/sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [helm/helm-classic](https://github.com/helm/helm-classic) - ⚠️(OBSOLETE) Helm Classic v1
@@ -1061,7 +1061,6 @@
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [ferrucc-io/kit-crm](https://github.com/ferrucc-io/kit-crm) - A personal CRM built on Blockstack
 - [transmute-industries/transmute](https://github.com/transmute-industries/transmute) - Secure and Scalable Decentralized Application Framework
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [sonnylazuardi/react-komik](https://github.com/sonnylazuardi/react-komik) - :speech_balloon: ReactJS based comic strip creator using fabric.js canvas rendering
@@ -1553,6 +1552,7 @@
 
 ## Python 
 
+- [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [mosaicml/composer](https://github.com/mosaicml/composer) - library of algorithms to speed up neural network training
@@ -2391,6 +2391,7 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [UniLogin/UniLogin](https://github.com/UniLogin/UniLogin) - UniLogin Monorepo
 - [kern/gifty](https://github.com/kern/gifty) - :gift: Send NFTs via a URL/SMS (API & bridge service) — ETHSanFrancisco 2018
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
