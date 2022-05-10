@@ -1270,7 +1270,6 @@
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [reiinakano/neural-painters](https://github.com/reiinakano/neural-painters) - 
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
-- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -1755,6 +1754,7 @@
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [zipline-live/zipline](https://github.com/zipline-live/zipline) - Zipline-Live, a Pythonic Algorithmic Trading Library
 - [amzn/metalearn-leap](https://github.com/amzn/metalearn-leap) - Original PyTorch implementation of the Leap meta-learner (https://arxiv.org/abs/1812.01054) along with code for running the Omniglot experiment presented in the paper.
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [thinkingmachines/geomancer](https://github.com/thinkingmachines/geomancer) - Automated feature engineering for geospatial data
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
