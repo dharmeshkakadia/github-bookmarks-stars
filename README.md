@@ -220,7 +220,7 @@
 - [PolySync/oscc](https://github.com/PolySync/oscc) - Open Source Car Control 💻🚗🙌
 - [facebookarchive/beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [rescrv/Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
-- [facebook/bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
+- [facebookarchive/bistro](https://github.com/facebookarchive/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [eventql/eventql](https://github.com/eventql/eventql) - Distributed "massively parallel" SQL query engine
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [mldbai/mldb](https://github.com/mldbai/mldb) - MLDB is the Machine Learning Database
@@ -2316,6 +2316,7 @@
 
 ## TypeScript 
 
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
