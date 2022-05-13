@@ -1551,6 +1551,7 @@
 
 ## Python 
 
+- [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
@@ -2344,7 +2345,7 @@
 - [kobra-dev/Kobra](https://github.com/kobra-dev/Kobra) - Kobra is a visual programming language (like Scratch) for Machine Learning (currently under active development).
 - [allegro/turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for your backend. Airtable-like UI for your database meets cloud functions workflows, all in your browser ⚡️✨ Code in JS/TS, use any NPM, API.
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
