@@ -454,7 +454,6 @@
 - [ernoaapa/kubectl-warp](https://github.com/ernoaapa/kubectl-warp) - Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes
 - [uber/peloton](https://github.com/uber/peloton) - Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [kubedb/operator](https://github.com/kubedb/operator) - KubeDB Operator
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [vmware-archive/purser](https://github.com/vmware-archive/purser) - Kubernetes Cloud Native Applications visibility
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -1557,7 +1556,7 @@
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Auto parallelization for large-scale neural networks
 - [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered transforms =&gt; neural networks in JAX. https://docs.kidger.site/equinox/
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [mosaicml/composer](https://github.com/mosaicml/composer) - library of algorithms to speed up neural network training
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
@@ -2207,6 +2206,7 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [djrosanova/EventHubsMirrorMaker](https://github.com/djrosanova/EventHubsMirrorMaker) - Azure Event Hubs Kafka MirrorMaker ACI
+- [kubedb/docs](https://github.com/kubedb/docs) - KubeDB Docs
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [dwhitena/kubeflow_pachyderm](https://github.com/dwhitena/kubeflow_pachyderm) - experimental kubeflow + Pachyderm integration
