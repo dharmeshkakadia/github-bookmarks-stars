@@ -623,7 +623,7 @@
 - [netvarun/docket](https://github.com/netvarun/docket) - Docket - Custom docker registry that allows for lightning fast deploys through bittorrent
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [ehazlett/conduit](https://github.com/ehazlett/conduit) - Deployment system for Docker
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [gocircuit/circuit](https://github.com/gocircuit/circuit) - Circuit: Dynamic cloud orchestration http://gocircuit.org
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [duedil-ltd/discodns](https://github.com/duedil-ltd/discodns) - DNS Nameserver in Go backed by an etcd database of names and records
