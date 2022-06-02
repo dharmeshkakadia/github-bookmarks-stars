@@ -709,6 +709,7 @@
 - [uetchy/math-api](https://github.com/uetchy/math-api) - Put LaTeX Math equation on everywhere as &lt;img&gt; tag.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jlord/forkngo](https://github.com/jlord/forkngo) - A site about how awesome Fork-n-go is!
@@ -1284,7 +1285,6 @@
 - [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [jlewi/kubeflow-rl](https://github.com/jlewi/kubeflow-rl) - Repository for working with Kubeflow and RL
-- [kipoi/models](https://github.com/kipoi/models) - Model zoo for genomics
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
@@ -1395,7 +1395,6 @@
 - [jpantunes/awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - An awesome curated list of Cryptoeconomic research and learning materials
 - [fredexed/crypto-funding-ops](https://github.com/fredexed/crypto-funding-ops) - A handy guide to funding opportunities within the crypto-ecosystem
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
@@ -1825,6 +1824,7 @@
 - [zhoubolei/moments_models](https://github.com/zhoubolei/moments_models) - The pretrained models trained on Moments in Time Dataset
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [ucbdrive/skipnet](https://github.com/ucbdrive/skipnet) - Code for SkipNet: Learning Dynamic Routing in Convolutional Networks (ECCV 2018)
+- [kipoi/models](https://github.com/kipoi/models) - Model zoo for genomics
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [google-research/batch-ppo](https://github.com/google-research/batch-ppo) - Efficient Batched Reinforcement Learning in TensorFlow
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
