@@ -590,7 +590,7 @@
 - [ahmetb/wagl](https://github.com/ahmetb/wagl) - :bee: DNS Service Discovery for Docker Swarm. Works out of the box. (NOW OBSOLETE, USE SWARM MODE)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [square/p2](https://github.com/square/p2) - Platypus Platform: Tools for Scalable Deployment
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [svent/sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [helm/helm-classic](https://github.com/helm/helm-classic) - ⚠️(OBSOLETE) Helm Classic v1
@@ -1228,7 +1228,6 @@
 
 ## Jsonnet 
 
-- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
@@ -1682,6 +1681,7 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL 2020] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [pdpipe/pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
