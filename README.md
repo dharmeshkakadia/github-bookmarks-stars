@@ -1359,6 +1359,7 @@
 
 ## Others 
 
+- [poga/awesome-federated-learning](https://github.com/poga/awesome-federated-learning) - resources about federated learning and privacy in machine learning
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina) - The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. For each language, the dataset includes a large collection of native script Wikipedia text, 
