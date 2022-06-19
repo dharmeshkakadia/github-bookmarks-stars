@@ -995,6 +995,7 @@
 
 ## JavaScript 
 
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
