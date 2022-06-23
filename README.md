@@ -1321,7 +1321,7 @@
 
 ## Mustache 
 
-- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger that makes complex money flows easy
+- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [Hydrospheredata/hydro-serving](https://github.com/Hydrospheredata/hydro-serving) - MLOps Platform
 - [mesosphere/universe](https://github.com/mesosphere/universe) - The Mesosphere Universe package repository.
 
