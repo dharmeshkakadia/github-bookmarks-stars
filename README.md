@@ -398,7 +398,7 @@
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
 - [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation reques
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [numary/machine](https://github.com/numary/machine) - A virtual machine that keeps money flowing
+- [numary/machine](https://github.com/numary/machine) - A virtual machine for money movements
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
@@ -692,6 +692,7 @@
 
 ## HTML 
 
+- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free open source Tailwind CSS components 🐳
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
@@ -1327,7 +1328,6 @@
 
 ## NSIS 
 
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
 ## Nunjucks 
@@ -1417,7 +1417,6 @@
 - [Bloomberg-Beta/Manual](https://github.com/Bloomberg-Beta/Manual) - You were probably looking for our website... this is it. We moved our website here, so you can see the insides of how we work.
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
-- [autowarefoundation/autoware.ai](https://github.com/autowarefoundation/autoware.ai) - Open-source software for self-driving vehicles
 - [projectatomic/ContainerApplicationGenericLabels](https://github.com/projectatomic/ContainerApplicationGenericLabels) - Default Containerized Application Labels used to document the application and/or image
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [microsoft/DMTK](https://github.com/microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit
@@ -1565,7 +1564,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered transforms =&gt; neural networks in JAX. https://docs.kidger.site/equinox/
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
-- [mosaicml/composer](https://github.com/mosaicml/composer) - train neural networks &gt;2x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - train neural networks up to 7x faster
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models
@@ -1705,7 +1704,7 @@
 - [google-research/albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
-- [fepegar/torchio](https://github.com/fepegar/torchio) - TorchIO: medical imaging for deep learning.
+- [fepegar/torchio](https://github.com/fepegar/torchio) - Medical imaging toolkit for deep learning
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [QuantStack/ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
 - [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for novel coronavirus SARS-CoV-2
@@ -2238,6 +2237,7 @@
 - [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) - Triton DataCenter: a cloud management platform with first class support for containers.
 - [HazyResearch/deepdive](https://github.com/HazyResearch/deepdive) - DeepDive
 - [lightbend/mesos-spark-integration-tests](https://github.com/lightbend/mesos-spark-integration-tests) - Mesos Integration Tests on Docker/Ec2
+- [autowarefoundation/autoware.ai](https://github.com/autowarefoundation/autoware.ai) - Autoware - the world's leading open-source software project for autonomous driving
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
@@ -2427,6 +2427,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [standardnotes/desktop](https://github.com/standardnotes/desktop) - [Moved to https://github.com/standardnotes/app] A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
