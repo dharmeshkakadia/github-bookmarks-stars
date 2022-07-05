@@ -358,7 +358,6 @@
 
 ## Dockerfile 
 
-- [visualdatabase/fastdup](https://github.com/visualdatabase/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
 - [UrbanOS-Public/kdp](https://github.com/UrbanOS-Public/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
 - [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
@@ -1559,6 +1558,7 @@
 - [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,efficientnet,fbnet,gmlp,halonet,lcnet,levit,mlp-mixer,mobilevit,nat,nfnets,regnet,resmlp,res
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+- [visualdatabase/fastdup](https://github.com/visualdatabase/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Auto parallelization for large-scale neural networks
 - [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
@@ -2089,6 +2089,7 @@
 - [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [mike-engel/now-importer](https://github.com/mike-engel/now-importer) - Easily import your static websites into ZEIT's now platform
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [comnik/declarative-dataflow](https://github.com/comnik/declarative-dataflow) - A reactive query engine built on differential dataflow.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -2119,7 +2120,6 @@
 - [Azure/azure-kusto-spark](https://github.com/Azure/azure-kusto-spark) - Apache Spark Connector for Azure Kusto
 - [qubole/spark-acid](https://github.com/qubole/spark-acid) - ACID Data Source for Apache Spark based on Hive ACID
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [lightbend/flink-k8s-operator](https://github.com/lightbend/flink-k8s-operator) - An example of building kubernetes operator (Flink) using Abstract operator's framework
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
 - [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
