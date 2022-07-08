@@ -1001,7 +1001,6 @@
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [a16z/zkp-merkle-airdrop-lib](https://github.com/a16z/zkp-merkle-airdrop-lib) - 
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [aurora-opensource/xviz](https://github.com/aurora-opensource/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1013,7 +1012,6 @@
 - [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
 - [Halmesn/Hotflix](https://github.com/Halmesn/Hotflix) - 🍿 This project landed me an interview with Netflix!
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
@@ -1712,7 +1710,7 @@
 - [marvinbuss/MLDevOps](https://github.com/marvinbuss/MLDevOps) - ML DevOps using GitHub Actions and Azure Machine Learning
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
@@ -2115,7 +2113,7 @@
 
 - [ForestFlow/ForestFlow](https://github.com/ForestFlow/ForestFlow) - ForestFlow is a policy-driven Machine Learning Model Server. It is an LF AI Foundation incubation project.
 - [mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql) - An encrypted data analytics platform
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+- [delta-io/delta](https://github.com/delta-io/delta) - This connector allows Apache Spark™ to read from and write to Delta Lake.
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
 - [Azure/azure-kusto-spark](https://github.com/Azure/azure-kusto-spark) - Apache Spark Connector for Azure Kusto
@@ -2346,6 +2344,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -2370,6 +2369,7 @@
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [asyml/stave](https://github.com/asyml/stave) - An extensible framework for building visualization and annotation tools to enable better interaction with NLP and Artificial Intelligence. This is part of the CASL project: http://casl-project.ai/
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cadbox1/very-nested](https://github.com/cadbox1/very-nested) - Nested lists published on GitHub.
