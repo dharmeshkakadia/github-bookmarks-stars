@@ -1254,7 +1254,6 @@
 - [patil-suraj/onnx_transformers](https://github.com/patil-suraj/onnx_transformers) - Accelerated NLP pipelines for fast inference on CPU. Built with Transformers and ONNX runtime.
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
-- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [avanetten/cresi](https://github.com/avanetten/cresi) - Road network extraction from satellite imagery, with speed and travel time estimates
 - [opendp/smartnoise-samples](https://github.com/opendp/smartnoise-samples) - Code samples and documentation for SmartNoise differential privacy tools
 - [Santosh-Gupta/NaturalLanguageRecommendations](https://github.com/Santosh-Gupta/NaturalLanguageRecommendations) - Getting recommendations from natural language
@@ -1673,6 +1672,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [naiveHobo/InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [alpacahq/alpaca-backtrader-api](https://github.com/alpacahq/alpaca-backtrader-api) - Alpaca Trading API integrated with backtrader
 - [microsoft/OLive](https://github.com/microsoft/OLive) - OLive, meaning ONNX Runtime(ORT) Go Live, is a python package that automates the process of accelerating models with ONNX Runtime(ORT). It contains two parts including model conversion to ONNX with co
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcemen
