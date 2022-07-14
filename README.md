@@ -417,7 +417,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [moov-io/fed](https://github.com/moov-io/fed) - Fuzzy FedACH and FedWire ABA Routing Number and Bank Name Lookup.
 - [moov-io/customers](https://github.com/moov-io/customers) - Customer registry supporting Know Your Customer (KYC), Customer Identification Program (CIP), and OFAC checks
-- [moov-io/watchman](https://github.com/moov-io/watchman) - AML/CTF/KYC/OFAC Search of global watchlist, sanctions, and politically exposed person (PEP)
+- [moov-io/watchman](https://github.com/moov-io/watchman) - AML/CTF/KYC/OFAC Search of global watchlist and sanctions
 - [moov-io/paygate](https://github.com/moov-io/paygate) - A RESTful API enabling electronic payments to be submitted and received without a deep understanding payment file specification
 - [moov-io/ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
 - [moov-io/metro2](https://github.com/moov-io/metro2) - Open Source Metro 2 consumer credit history report for credit report file creation and validation
@@ -1364,6 +1364,7 @@
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
 - [google-research-datasets/dakshina](https://github.com/google-research-datasets/dakshina) - The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. For each language, the dataset includes a large collection of native script Wikipedia text, 
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [jspahrsummers/effective-code-review](https://github.com/jspahrsummers/effective-code-review) - Presentation about my process for making code reviews as effective as possible
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
@@ -2350,7 +2351,6 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [atek-cloud/spork](https://github.com/atek-cloud/spork) - [CLI app] Peer-to-peer socket magic in the air
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
-- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
