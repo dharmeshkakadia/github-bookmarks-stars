@@ -399,6 +399,7 @@
 - [IBM/multi-cluster-app-dispatcher](https://github.com/IBM/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation reques
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [numary/machine](https://github.com/numary/machine) - A virtual machine for money movements
+- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
@@ -693,7 +694,7 @@
 ## HTML 
 
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free open source Tailwind CSS components 🐳
+- [markmead/hyperui](https://github.com/markmead/hyperui) - 🐳 Free open source Tailwind CSS components for marketing and ecommece websites, as well as application UI
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
@@ -1321,7 +1322,6 @@
 
 ## Mustache 
 
-- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [Hydrospheredata/hydro-serving](https://github.com/Hydrospheredata/hydro-serving) - MLOps Platform
 - [mesosphere/universe](https://github.com/mesosphere/universe) - The Mesosphere Universe package repository.
 
