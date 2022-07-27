@@ -131,7 +131,7 @@
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
 - [dedis/Determinator](https://github.com/dedis/Determinator) - Experimental operating system for deterministic parallel computing
 - [buaazp/zimg](https://github.com/buaazp/zimg) - A lightweight and high performance image storage and processing system.
-- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: http://smartos.org/smartos-mailing-list/
+- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
@@ -1568,7 +1568,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered transforms =&gt; neural networks in JAX. https://docs.kidger.site/equinox/
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
-- [mosaicml/composer](https://github.com/mosaicml/composer) - train neural networks up to 7x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models
@@ -1866,7 +1866,7 @@
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
+- [ray-project/ray](https://github.com/ray-project/ray) - A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [yahoo/lopq](https://github.com/yahoo/lopq) - Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
