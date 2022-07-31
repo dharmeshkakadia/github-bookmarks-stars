@@ -36,6 +36,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
@@ -174,6 +175,7 @@
 
 ## C++ 
 
+- [jiazhihao/TASO](https://github.com/jiazhihao/TASO) - The Tensor Algebra SuperOptimizer for Deep Learning
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
@@ -747,6 +749,7 @@
 
 ## Java 
 
+- [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [rayokota/kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [CODAIT/stocator](https://github.com/CODAIT/stocator) - Stocator is high performing connector to object storage for Apache Spark, achieving performance by leveraging object storage semantics.
@@ -1285,7 +1288,7 @@
 - [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [jlewi/kubeflow-rl](https://github.com/jlewi/kubeflow-rl) - Repository for working with Kubeflow and RL
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -1319,6 +1322,10 @@
 - [k8guard/k8guard-start-from-here](https://github.com/k8guard/k8guard-start-from-here) - Build and deploy K8Guard. Run all Make commands from this repo.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
+
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## Mustache 
 
@@ -1814,7 +1821,6 @@
 - [ramtinms/ethereum-log](https://github.com/ramtinms/ethereum-log) - A native light weight implementation of log parser for Ethereum event logs
 - [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, a
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [src-d/ml](https://github.com/src-d/ml) - sourced.ml is a library and command line tools to build and apply machine learning models on top of Universal Abstract Syntax Trees
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
