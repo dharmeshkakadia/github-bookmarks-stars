@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -182,6 +183,7 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [mc2-project/mc2](https://github.com/mc2-project/mc2) - A Platform for Secure Analytics and Machine Learning
+- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
@@ -282,6 +284,10 @@
 - [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
 - [camsas/firmament](https://github.com/camsas/firmament) - The Firmament cluster scheduling platform
 
+## CMake 
+
+- [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
+
 ## CSS 
 
 - [thesephist/ycvibecheck](https://github.com/thesephist/ycvibecheck) - Semantic search across every YC company ever. Vibe check your idea?
@@ -346,7 +352,6 @@
 
 ## Cuda 
 
-- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 
@@ -1036,6 +1041,7 @@
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -2396,7 +2402,6 @@
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [frappe/books](https://github.com/frappe/books) - Free desktop accounting software for small-businesses and freelancers.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
