@@ -10,7 +10,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -36,6 +35,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
@@ -283,10 +283,6 @@
 - [rescrv/HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
 - [camsas/firmament](https://github.com/camsas/firmament) - The Firmament cluster scheduling platform
-
-## CMake 
-
-- [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
 
 ## CSS 
 
@@ -1322,6 +1318,10 @@
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
+## MLIR 
+
+- [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
+
 ## Makefile 
 
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
@@ -1676,7 +1676,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [adapter-hub/adapter-transformers](https://github.com/adapter-hub/adapter-transformers) - Huggingface Transformers + Adapters = ❤️
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter s
+- [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spa
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
 - [vaikkunth/PrivacyFL](https://github.com/vaikkunth/PrivacyFL) - A Simulator for Privacy Preserving Federated Learning
