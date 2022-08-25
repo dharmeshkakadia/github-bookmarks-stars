@@ -923,7 +923,7 @@
 - [julianhyde/linq4j](https://github.com/julianhyde/linq4j) - A port of LINQ (Language-Integrated Query) to Java
 - [joshelser/slider](https://github.com/joshelser/slider) - 
 - [kishoreg/fullmatix](https://github.com/kishoreg/fullmatix) - Collection of distributed systems built using Apache Helix
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
+- [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [metamx/java-util](https://github.com/metamx/java-util) - Utility code for java and jvm-based languages
 - [trinodb/tpch](https://github.com/trinodb/tpch) - Port of TPC-H dbgen to Java
