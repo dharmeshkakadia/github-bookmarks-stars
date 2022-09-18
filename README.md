@@ -1995,7 +1995,7 @@
 - [toddlipcon/haatkit](https://github.com/toddlipcon/haatkit) - Toolkit of simple scripts useful for managing Hadoop
 - [Yelp/EMRio](https://github.com/Yelp/EMRio) - Elastic MapReduce instance optimizer
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [beloglazov/openstack-neat](https://github.com/beloglazov/openstack-neat) - OpenStack Neat: A Framework for Dynamic Consolidation of Virtual Machines in OpenStack Clouds
 - [redhat-openstack/packstack](https://github.com/redhat-openstack/packstack) - Install utility to deploy OpenStack on multiple hosts. This is the GitHub mirror for https://opendev.org/x/packstack.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
