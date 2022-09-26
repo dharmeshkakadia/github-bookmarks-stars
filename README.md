@@ -1648,7 +1648,7 @@
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data reliability tools for SQL- and Spark-accessible data
