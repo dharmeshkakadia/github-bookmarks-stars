@@ -186,7 +186,7 @@
 - [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [tekezo/Karabiner](https://github.com/tekezo/Karabiner) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
@@ -1565,6 +1565,7 @@
 
 ## Python 
 
+- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
@@ -1607,7 +1608,7 @@
 - [ethpm/ethpm-spec](https://github.com/ethpm/ethpm-spec) - Ethereum Package Manager http://ethpm.github.io/ethpm-spec/
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark and Dask without any rewrites.
+- [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark, Dask and Ray without any rewrites.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
@@ -1654,7 +1655,7 @@
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data reliability tools for SQL- and Spark-accessible data
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [Lightning-AI/lightning-flash](https://github.com/Lightning-AI/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+- [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [agermanidis/pigeon](https://github.com/agermanidis/pigeon) - 🐦 Quickly annotate data from the comfort of your Jupyter notebook
 - [microsoft/hummingbird](https://github.com/microsoft/hummingbird) - Hummingbird compiles trained ML models into tensor computation for faster inference.
@@ -1843,6 +1844,7 @@
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [carlomazzaferro/kryptoflow](https://github.com/carlomazzaferro/kryptoflow) - Real-time analysis of bitcoin markets with Kafka and Tensorflow Serving
 - [openuado/niet](https://github.com/openuado/niet) - Parse/Read yaml or json files directly in your shell (sh, bash, ksh, ...)
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [cchen156/Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [Hexadite/acs-keyvault-agent](https://github.com/Hexadite/acs-keyvault-agent) - A Azure Key Vault agent container that grabs secrets from Azure Key Vault securely and passes them to other containers in its pod
 - [mlcommons/training](https://github.com/mlcommons/training) - Reference implementations of MLPerf™ training benchmarks
@@ -2237,7 +2239,6 @@
 - [djrosanova/EventHubsMirrorMaker](https://github.com/djrosanova/EventHubsMirrorMaker) - Azure Event Hubs Kafka MirrorMaker ACI
 - [kubedb/docs](https://github.com/kubedb/docs) - KubeDB Docs
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [dwhitena/kubeflow_pachyderm](https://github.com/dwhitena/kubeflow_pachyderm) - experimental kubeflow + Pachyderm integration
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [leblancd/kube-v6](https://github.com/leblancd/kube-v6) - Instructions on how to instantiate a multi-node, IPv6-only Kubernetes cluster.
