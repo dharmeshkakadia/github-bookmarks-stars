@@ -393,7 +393,7 @@
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [hsanjuan/ipfs-lite](https://github.com/hsanjuan/ipfs-lite) - IPFS-Lite is an embeddable, lightweight IPFS-network peer for IPLD applications
@@ -476,7 +476,7 @@
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 - [GoogleCloudPlatform/airflow-operator](https://github.com/GoogleCloudPlatform/airflow-operator) - Kubernetes custom controller and CRDs to managing Airflow
-- [kris-nova/klone](https://github.com/kris-nova/klone) - Taking you from a git repository to development in seconds
+- [krisnova/klone](https://github.com/krisnova/klone) - Taking you from a git repository to development in seconds
 - [CanopyTax/ckube](https://github.com/CanopyTax/ckube) - A cli to simplify working with kubectl for some common workflows
 - [kubeflow/mpi-operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
