@@ -540,7 +540,7 @@
 - [atlassian/smith](https://github.com/atlassian/smith) - Smith is a Kubernetes workflow engine / resource manager
 - [oklog/oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
+- [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [k8guard/k8guard-discover](https://github.com/k8guard/k8guard-discover) - Discover microservice. Discovers violations and provides metrics and also API endpoints for K8Guard.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [sky-uk/feed](https://github.com/sky-uk/feed) - Nginx based Kubernetes ingress controller for AWS
