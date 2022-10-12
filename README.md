@@ -892,7 +892,7 @@
 - [Stratio/ingestion](https://github.com/Stratio/ingestion) - Flume - Ingestion, an Apache Flume distribution
 - [posix4e/GraphiteMetrics2](https://github.com/posix4e/GraphiteMetrics2) - A hadoop context package for graphite that works with metrics2
 - [dboissier/mongo4idea](https://github.com/dboissier/mongo4idea) - MongoDB integration in Intellij
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.
 - [sigmoidanalytics/spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark
 - [jenkinsci/mesos-plugin](https://github.com/jenkinsci/mesos-plugin) - Mesos Cloud Jenkins Plugin
 - [HubSpot/Baragon](https://github.com/HubSpot/Baragon) - Load balancer API
@@ -1569,6 +1569,7 @@
 
 ## Python 
 
+- [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
