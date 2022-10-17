@@ -1085,7 +1085,7 @@
 - [chatch/hashed-timelock-contract-ethereum](https://github.com/chatch/hashed-timelock-contract-ethereum) - Hashed Timelock Contracts for ETH, ERC20 and ERC721 on Ethereum
 - [functionalfoundry/ethereum-htlc](https://github.com/functionalfoundry/ethereum-htlc) - HTLC for doing cross-chain atomic swaps
 - [trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
-- [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
+- [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [ElementsProject/paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning :zap:
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
