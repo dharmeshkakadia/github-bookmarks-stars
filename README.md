@@ -318,7 +318,7 @@
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [ctford/klangmeister](https://github.com/ctford/klangmeister) - A musical scratchpad.
 - [ezhulenev/distributo](https://github.com/ezhulenev/distributo) - ECS Scheduler for Running Massive Parallel Computations
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [xebia/VisualReview](https://github.com/xebia/VisualReview) - VisualReview, a human-friendly tool for testing and reviewing visual regressions.
 - [twosigma/satellite](https://github.com/twosigma/satellite) - Satellite monitors, alerts on, and self-heals your Mesos cluster.
 - [cognitect/transit-format](https://github.com/cognitect/transit-format) - A data interchange format.
@@ -1583,7 +1583,7 @@
 - [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Data engineering, simplified. LineaPy creates a frictionless path for taking your data science artifact from development to production.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
-- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,gmlp,halonet,hornet,lcnet,levit,mlp-mixer,
+- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,gmlp,halonet,hornet,lcnet,levit,maxvit,mlp
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [visualdatabase/fastdup](https://github.com/visualdatabase/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
