@@ -206,6 +206,7 @@
 - [pdlfs/deltafs](https://github.com/pdlfs/deltafs) - Transient file system service featuring highly paralleled indexing on both file data and file system metadata
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [hydro-project/fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [src-d/minhashcuda](https://github.com/src-d/minhashcuda) - Weighted MinHash implementation on CUDA (multi-gpu).
@@ -349,7 +350,6 @@
 
 ## Cuda 
 
-- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 
 ## DM 
@@ -489,7 +489,7 @@
 - [oracle/mysql-operator](https://github.com/oracle/mysql-operator) - Create, operate and scale self-healing MySQL clusters in Kubernetes
 - [stackanetes/kubernetes-entrypoint](https://github.com/stackanetes/kubernetes-entrypoint) - Used as a container entrypoint, it will wait for specified k8s dependencies, create files based on ConfigMaps, and much more - before running a given command.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kubernetes-sigs/application](https://github.com/kubernetes-sigs/application) - Application metadata descriptor CRD
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
@@ -1145,7 +1145,7 @@
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [TalAter/SpeechKITT](https://github.com/TalAter/SpeechKITT) - 🗣 A flexible GUI for Speech Recognition
-- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [yhat/rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
