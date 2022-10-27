@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [jiazhihao/TASO](https://github.com/jiazhihao/TASO) - The Tensor Algebra SuperOptimizer for Deep Learning
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
