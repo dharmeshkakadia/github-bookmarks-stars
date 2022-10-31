@@ -702,6 +702,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
@@ -1045,7 +1046,7 @@
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - A next generation decentralised Ethereum proof of stake network and pool, currently in beta and built to be compatible with Ethereum 2.0 and the Beacon Chain.
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum liquid staking protocol.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
 - [full-stack-serverless/conference-app-in-a-box](https://github.com/full-stack-serverless/conference-app-in-a-box) - Full stack & cross platform app customizable & themeable for any event or conference.
 - [SteinHQ/Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database
@@ -1249,7 +1250,6 @@
 - [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs) - A list of Machine Learning Art Colabs
 - [nateraw/huggingpics](https://github.com/nateraw/huggingpics) - 🤗🖼️ HuggingPics: Fine-tune Vision Transformers for anything using images found on the web.
 - [mrdbourke/airbnb-amenity-detection](https://github.com/mrdbourke/airbnb-amenity-detection) - Repo for 42 days project to replicate/improve Airbnb's amenity (object) detection pipeline.
-- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
@@ -1716,7 +1716,7 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
-- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
