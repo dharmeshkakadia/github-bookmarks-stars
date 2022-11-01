@@ -390,6 +390,7 @@
 
 ## Go 
 
+- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - An Open-Source Platform for Production Data Science
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
@@ -1581,7 +1582,7 @@
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
-- [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Data engineering, simplified. LineaPy creates a frictionless path for taking your data science artifact from development to production.
+- [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
 - [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,gmlp,halonet,hornet,lcnet,levit,maxvit,mlp
