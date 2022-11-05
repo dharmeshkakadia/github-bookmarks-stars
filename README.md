@@ -245,7 +245,7 @@
 - [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk) - A web runtime built on Chrome. This project is currently unmaintained.
 - [CharithYMendis/Helium](https://github.com/CharithYMendis/Helium) - Helium: Lifting High-Performance Stencil Kernels from Stripped x86 Binaries to Halide DSL Code
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [dmlc/wormhole](https://github.com/dmlc/wormhole) - Deprecated
 - [mesosphere/serenity](https://github.com/mesosphere/serenity) - Intel:Mesosphere oversubscription technologies for Apache Mesos
 - [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
@@ -2506,6 +2506,7 @@
 
 ## Zig 
 
+- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
