@@ -1570,6 +1570,7 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development toolkit
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
