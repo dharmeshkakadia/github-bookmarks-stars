@@ -1570,6 +1570,9 @@
 
 ## Python 
 
+- [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
+- [brentyi/tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects
+- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a sampling library designed for ease of use, speed and modularity.
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development toolkit
