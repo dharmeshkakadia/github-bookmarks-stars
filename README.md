@@ -313,7 +313,7 @@
 ## Clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [clojusc/mesomatic](https://github.com/clojusc/mesomatic) - A simple and idiomatic Clojure facade around the Mesos JAVA API
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -703,6 +703,7 @@
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
@@ -1328,7 +1329,6 @@
 
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [k8guard/k8guard-start-from-here](https://github.com/k8guard/k8guard-start-from-here) - Build and deploy K8Guard. Run all Make commands from this repo.
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
 ## Markdown 
@@ -1653,7 +1653,6 @@
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [facebookresearch/madgrad](https://github.com/facebookresearch/madgrad) - MADGRAD Optimization Method
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [jmfernandes/robin_stocks](https://github.com/jmfernandes/robin_stocks) - This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the
@@ -2103,7 +2102,7 @@
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
 - [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
@@ -2276,6 +2275,7 @@
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [redbooth/gockerize](https://github.com/redbooth/gockerize) - Package golang service into minimal docker containers.
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [eBayClassifiedsGroup/PanteraS](https://github.com/eBayClassifiedsGroup/PanteraS) - PanteraS - PaaS - Platform as a Service in a box
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [lachie83/kubernetes-with-contrail](https://github.com/lachie83/kubernetes-with-contrail) - 
