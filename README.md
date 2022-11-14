@@ -754,6 +754,7 @@
 
 ## Java 
 
+- [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [rayokota/kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
