@@ -1590,7 +1590,7 @@
 - [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
-- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,gmlp,halonet,hornet,lcnet,levit,maxvit,mlp
+- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,ghostnetv2,gmlp,halonet,hornet,lcnet,levit,maxvit,ml
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
@@ -1603,7 +1603,7 @@
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models
-- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Neural network inference engine that delivers GPU-class performance for sparsified models on CPUs
+- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application
 - [microsoft/msrflute](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
@@ -2099,6 +2099,7 @@
 
 ## Rust 
 
+- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
