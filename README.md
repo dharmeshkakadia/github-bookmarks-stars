@@ -1246,6 +1246,7 @@
 
 ## Jupyter Notebook 
 
+- [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - Waymo Open Dataset
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
@@ -1781,7 +1782,7 @@
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [microsoft/icecaps](https://github.com/microsoft/icecaps) - Intelligent Conversation Engine: Code and Pre-trained Systems. Version 0.2.0.
-- [microsoft/presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization SDK for text and images
+- [microsoft/presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [TarrySingh/ERNIE](https://github.com/TarrySingh/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
