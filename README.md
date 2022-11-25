@@ -1937,7 +1937,7 @@
 - [VIDA-NYU/reprozip](https://github.com/VIDA-NYU/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
 - [akshshar/QoSon](https://github.com/akshshar/QoSon) - Mesos Framework to tackle network degradation through Distributed Telemetry
 - [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [bolt-project/bolt](https://github.com/bolt-project/bolt) - Unified interface for local and distributed ndarrays
 - [freeman-lab/spark-ml-streaming](https://github.com/freeman-lab/spark-ml-streaming) - Visualize streaming machine learning in Spark
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
@@ -2371,6 +2371,7 @@
 
 ## TypeScript 
 
+- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
