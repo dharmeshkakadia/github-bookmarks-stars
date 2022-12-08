@@ -1026,7 +1026,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
-- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
@@ -1822,7 +1822,7 @@
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
-- [YadiraF/GAN](https://github.com/YadiraF/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
+- [yfeng95/GAN](https://github.com/yfeng95/GAN) - Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [Wikia/discreETLy](https://github.com/Wikia/discreETLy) - ETLy is an add-on dashboard service on top of Apache Airflow.
 - [openphilanthropy/unrestricted-adversarial-examples](https://github.com/openphilanthropy/unrestricted-adversarial-examples) - Contest Proposal and infrastructure for the Unrestricted Adversarial Examples Challenge
@@ -2448,7 +2448,7 @@
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [ryohlan/next-ts-template](https://github.com/ryohlan/next-ts-template) - Template for Next.js using parameterized typed routing
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
