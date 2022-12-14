@@ -290,6 +290,7 @@
 ## CSS 
 
 - [thesephist/ycvibecheck](https://github.com/thesephist/ycvibecheck) - Semantic search across every YC company ever. Vibe check your idea?
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ines/course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -404,7 +405,7 @@
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
-- [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes capable of (i) provides an abstraction for wrapping all resources of the job/application and treating them holistically, (ii) queuing job/application creation reques
+- [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [formancehq/machine](https://github.com/formancehq/machine) - A virtual machine for money movements
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build money-moving apps
@@ -1026,7 +1027,6 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, p
 - [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
@@ -2398,7 +2398,7 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [jferrer/expo-solana-wallet](https://github.com/jferrer/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [salto-io/salto](https://github.com/salto-io/salto) - Salto enables you to manage your business applications' configuration in code
@@ -2420,7 +2420,7 @@
 - [cadbox1/very-nested](https://github.com/cadbox1/very-nested) - Nested lists published on GitHub.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jupytercalpoly/jupyterlab-tabular-data-editor](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor) - Manipulate your tabular data responsively and effectively within JupyterLab.
-- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.
 - [sign-language-processing/detection-app](https://github.com/sign-language-processing/detection-app) - Sign Language Detection Web Application
 - [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from websites using TensorFlow JS.
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
