@@ -1577,6 +1577,7 @@
 
 ## Python 
 
+- [ianb/infinite-ai-array](https://github.com/ianb/infinite-ai-array) - Do you worry that you'll get to the end of a good list and have nothing more, leaving you sad and starved of data? Worry no more!
 - [commaai/comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
 - [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects
@@ -2373,6 +2374,7 @@
 
 ## TypeScript 
 
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
