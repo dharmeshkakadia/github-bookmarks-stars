@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [bark-simulator/bark](https://github.com/bark-simulator/bark) - Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [jiazhihao/TASO](https://github.com/jiazhihao/TASO) - The Tensor Algebra SuperOptimizer for Deep Learning
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -1577,6 +1578,8 @@
 
 ## Python 
 
+- [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading) - The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)
+- [opendilab/DI-drive](https://github.com/opendilab/DI-drive) - Decision Intelligence Platform for Autonomous Driving simulation.
 - [ianb/infinite-ai-array](https://github.com/ianb/infinite-ai-array) - Do you worry that you'll get to the end of a good list and have nothing more, leaving you sad and starved of data? Worry no more!
 - [commaai/comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
 - [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
