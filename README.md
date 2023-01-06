@@ -393,7 +393,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
-- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - An Open-Source Platform for Production Data Science
+- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - An open-source orchestration layer for machine learning
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
@@ -584,7 +584,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -1578,6 +1578,7 @@
 
 ## Python 
 
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading) - The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)
 - [opendilab/DI-drive](https://github.com/opendilab/DI-drive) - Decision Intelligence Platform for Autonomous Driving simulation.
 - [ianb/infinite-ai-array](https://github.com/ianb/infinite-ai-array) - Do you worry that you'll get to the end of a good list and have nothing more, leaving you sad and starved of data? Worry no more!
