@@ -569,7 +569,7 @@
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [coreos/ksched](https://github.com/coreos/ksched) - Experimental flow-based Kubernetes scheduler
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [hyperhq/runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [sourcegraph/appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
@@ -696,6 +696,7 @@
 
 ## HCL 
 
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
 - [coreos/tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 
 ## HTML 
@@ -781,7 +782,6 @@
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
 - [verdict-project/verdict](https://github.com/verdict-project/verdict) - Interactive-Speed Analytics: 200x Faster, 200x Fewer Cluster Resources, Approximate Query Processing
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
-- [hortonworks/registry](https://github.com/hortonworks/registry) - Schema Registry
 - [airbnb/reair](https://github.com/airbnb/reair) - ReAir is a collection of easy-to-use tools for replicating tables and partitions between Hive data warehouses.
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) - Iceberg is a table format for large, slow-moving tabular data
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
