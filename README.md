@@ -1601,7 +1601,7 @@
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
-- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,ghostnetv2,gmlp,halonet,hornet,lcnet,levit,maxvit,ml
+- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras/Tensorflow models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,flexivit,gcvit,ghostnet,gmlp,halonet,hornet,lcnet,levit,ma
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
