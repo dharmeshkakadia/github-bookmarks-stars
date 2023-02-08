@@ -779,7 +779,7 @@
 - [bullet-db/bullet-core](https://github.com/bullet-db/bullet-core) - Bullet is a streaming query engine that can be plugged into any singular data stream using a Stream Processing framework like Apache Storm, Spark or Flink.
 - [xgdsmileboy/SimFix](https://github.com/xgdsmileboy/SimFix) - Automatically fix programs by leveraging existing patches from other projects and similar code snippets from the faulty project.
 - [radanalyticsio/spark-operator](https://github.com/radanalyticsio/spark-operator) - Operator for managing the Spark clusters on Kubernetes and OpenShift.
-- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for metrics.
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
 - [verdict-project/verdict](https://github.com/verdict-project/verdict) - Interactive-Speed Analytics: 200x Faster, 200x Fewer Cluster Resources, Approximate Query Processing
 - [VertaAI/modeldb](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management
