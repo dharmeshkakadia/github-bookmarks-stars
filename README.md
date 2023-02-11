@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [openxla/xla](https://github.com/openxla/xla) - A community-driven and modular open source compiler for ML.
 - [bark-simulator/bark](https://github.com/bark-simulator/bark) - Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [jiazhihao/TASO](https://github.com/jiazhihao/TASO) - The Tensor Algebra SuperOptimizer for Deep Learning
@@ -1578,6 +1579,7 @@
 
 ## Python 
 
+- [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for progressive optimization of large deep learning model training
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
