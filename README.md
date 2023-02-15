@@ -738,6 +738,7 @@
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [odewahn/dds-field-guide](https://github.com/odewahn/dds-field-guide) - Project to track the distributed development stack (DDS).
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+- [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [ercoppa/HadoopInternals](https://github.com/ercoppa/HadoopInternals) - Diagrams describing Apache Hadoop internals (2.3.0 or later).
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -884,7 +885,6 @@
 - [Netflix/Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
 - [HiveRunner/HiveRunner](https://github.com/HiveRunner/HiveRunner) - An Open Source unit test framework for Hive queries based on JUnit 4 and 5
 - [XiaoMi/themis](https://github.com/XiaoMi/themis) - Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
-- [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.
 - [josephxsxn/moya](https://github.com/josephxsxn/moya) - Memcached on YARN
 - [hortonworks/simple-yarn-app](https://github.com/hortonworks/simple-yarn-app) - Simple YARN application
@@ -1582,7 +1582,7 @@
 - [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for progressive optimization of large deep learning model training
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
 - [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading) - The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)
 - [opendilab/DI-drive](https://github.com/opendilab/DI-drive) - Decision Intelligence Platform for Autonomous Driving simulation.
 - [ianb/infinite-ai-array](https://github.com/ianb/infinite-ai-array) - Do you worry that you'll get to the end of a good list and have nothing more, leaving you sad and starved of data? Worry no more!
