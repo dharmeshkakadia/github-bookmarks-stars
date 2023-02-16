@@ -1582,7 +1582,7 @@
 - [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for progressive optimization of large deep learning model training
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading) - The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)
 - [opendilab/DI-drive](https://github.com/opendilab/DI-drive) - Decision Intelligence Platform for Autonomous Driving simulation.
 - [ianb/infinite-ai-array](https://github.com/ianb/infinite-ai-array) - Do you worry that you'll get to the end of a good list and have nothing more, leaving you sad and starved of data? Worry no more!
@@ -1736,7 +1736,7 @@
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -1886,7 +1886,7 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [airbnb/omniduct](https://github.com/airbnb/omniduct) - A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).
 - [omgnetwork/plasma-mvp](https://github.com/omgnetwork/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [Cloud-CV/visual-chatbot](https://github.com/Cloud-CV/visual-chatbot) - :cloud: :eyes: :speech_balloon: Visual Chatbot
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
