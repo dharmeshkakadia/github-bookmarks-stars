@@ -1261,7 +1261,7 @@
 - [mrdbourke/airbnb-amenity-detection](https://github.com/mrdbourke/airbnb-amenity-detection) - Repo for 42 days project to replicate/improve Airbnb's amenity (object) detection pipeline.
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
-- [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
