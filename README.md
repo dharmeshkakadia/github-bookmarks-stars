@@ -95,7 +95,7 @@
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
-- [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
+- [BlockstreamResearch/simplicity](https://github.com/BlockstreamResearch/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application cod
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
@@ -196,7 +196,7 @@
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
 - [BYU-PCCL/holodeck-engine](https://github.com/BYU-PCCL/holodeck-engine) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
-- [openxla/iree](https://github.com/openxla/iree) - 👻
+- [openxla/iree](https://github.com/openxla/iree) - An MLIR-based end-to-end compiler and runtime that lowers Machine Learning models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special con
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
@@ -1577,6 +1577,7 @@
 
 ## Python 
 
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.
 - [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for progressive optimization of large deep learning model training
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
