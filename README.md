@@ -177,7 +177,7 @@
 
 ## C++ 
 
-- [openxla/xla](https://github.com/openxla/xla) - A community-driven and modular open source compiler for ML.
+- [openxla/xla](https://github.com/openxla/xla) - An open source machine learning compiler for GPUs, CPUs, and ML accelerators
 - [bark-simulator/bark](https://github.com/bark-simulator/bark) - Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [jiazhihao/TASO](https://github.com/jiazhihao/TASO) - The Tensor Algebra SuperOptimizer for Deep Learning
@@ -197,7 +197,7 @@
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
 - [BYU-PCCL/holodeck-engine](https://github.com/BYU-PCCL/holodeck-engine) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
-- [openxla/iree](https://github.com/openxla/iree) - An MLIR-based end-to-end compiler and runtime that lowers Machine Learning models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special con
+- [openxla/iree](https://github.com/openxla/iree) - An open source machine learning compiler technology based on MLIR
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
@@ -392,7 +392,7 @@
 
 ## Go 
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication system for the passkey era.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - An open-source orchestration layer for machine learning
@@ -495,7 +495,6 @@
 - [stackanetes/kubernetes-entrypoint](https://github.com/stackanetes/kubernetes-entrypoint) - Used as a container entrypoint, it will wait for specified k8s dependencies, create files based on ConfigMaps, and much more - before running a given command.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kubernetes-sigs/application](https://github.com/kubernetes-sigs/application) - Application metadata descriptor CRD
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -1611,7 +1610,7 @@
 - [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,flexivit,gcvit,ghostnet,gmlp,gpvit,halonet,hornet,iformer,lcnet,levit,maxvit,mlp-mixer
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
-- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data oper
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks
 - [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
@@ -1658,7 +1657,6 @@
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful ML workflow builder.  This is part of the CASL project: http://casl-project.ai/
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
@@ -2422,6 +2420,7 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [salto-io/salto](https://github.com/salto-io/salto) - Salto enables you to manage your business applications' configuration in code
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -2489,6 +2488,7 @@
 - [ConsenSys/ethql](https://github.com/ConsenSys/ethql) - A GraphQL interface to Ethereum :fire:
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [dharmaprotocol/charta](https://github.com/dharmaprotocol/charta) - New & improved contracts for Dharma protocol
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
