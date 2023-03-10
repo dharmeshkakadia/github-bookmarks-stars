@@ -2114,7 +2114,7 @@
 
 ## Rust 
 
-- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
+- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine, crawl & index websites/files you want with a simple set of rules
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
