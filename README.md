@@ -177,6 +177,7 @@
 
 ## C++ 
 
+- [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [bark-simulator/bark](https://github.com/bark-simulator/bark) - Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -1598,7 +1599,7 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -2131,7 +2132,7 @@
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
