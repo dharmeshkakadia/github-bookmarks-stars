@@ -395,7 +395,7 @@
 ## Go 
 
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The easiest way to run ML on any cloud infrastructure
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
@@ -1579,10 +1579,11 @@
 
 ## Python 
 
+- [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
 - [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
-- [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for progressive optimization of large deep learning model training
+- [awslabs/slapo](https://github.com/awslabs/slapo) - A schedule language for large model training
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AminHP/gym-anytrading](https://github.com/AminHP/gym-anytrading) - The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)
@@ -1727,7 +1728,7 @@
 - [linkedin/detext](https://github.com/linkedin/detext) - DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [alpacahq/alpaca-backtrader-api](https://github.com/alpacahq/alpaca-backtrader-api) - Alpaca Trading API integrated with backtrader
-- [microsoft/Olive](https://github.com/microsoft/Olive) - OLive, meaning ONNX Runtime(ORT) Go Live, is a python package that automates the process of accelerating models with ONNX Runtime(ORT). It contains two parts including model conversion to ONNX with co
+- [microsoft/Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcemen
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
@@ -2388,6 +2389,7 @@
 
 ## TypeScript 
 
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
