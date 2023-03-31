@@ -1054,7 +1054,7 @@
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum liquid staking protocol.
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
 - [full-stack-serverless/conference-app-in-a-box](https://github.com/full-stack-serverless/conference-app-in-a-box) - Full stack & cross platform app customizable & themeable for any event or conference.
 - [SteinHQ/Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database
@@ -1380,7 +1380,7 @@
 
 ## OpenQASM 
 
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+- [Qiskit/qiskit-metapackage](https://github.com/Qiskit/qiskit-metapackage) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
 
 ## Others 
 
