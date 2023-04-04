@@ -93,6 +93,7 @@
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
+- [bollu/bollu.github.io](https://github.com/bollu/bollu.github.io) - code + contents of my website, and programming life
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
@@ -396,7 +397,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The easiest way to run ML on any cloud
+- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The control center for AI in the cloud
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
@@ -718,7 +719,6 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [chrisjsewell/ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [uetchy/math-api](https://github.com/uetchy/math-api) - Put LaTeX Math equation on everywhere as &lt;img&gt; tag.
-- [bollu/bollu.github.io](https://github.com/bollu/bollu.github.io) - code + contents of my website, and programming life
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -1580,6 +1580,7 @@
 
 ## Python 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
 - [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
@@ -1643,7 +1644,7 @@
 - [ethpm/ethpm-spec](https://github.com/ethpm/ethpm-spec) - Ethereum Package Manager http://ethpm.github.io/ethpm-spec/
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark, Dask and Ray without any rewrites.
+- [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
