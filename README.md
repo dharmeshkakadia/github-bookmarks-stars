@@ -1612,7 +1612,7 @@
 - [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution
-- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,flexivit,gcvit,ghostnet,gmlp,gpvit,halonet,hornet,iformer,lcnet,levit,maxvit,mlp-mixer
+- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,botnet,caformer,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fasternet,fbnet,flexivit,gcvit,ghostnet,gmlp,gpvit,halonet,hornet,iformer,inception
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 - [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data oper
@@ -1914,7 +1914,7 @@
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [yahoo/lopq](https://github.com/yahoo/lopq) - Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
