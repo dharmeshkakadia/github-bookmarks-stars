@@ -1079,6 +1079,7 @@
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [ferrucc-io/kit-crm](https://github.com/ferrucc-io/kit-crm) - A personal CRM built on Blockstack
 - [transmute-industries/transmute](https://github.com/transmute-industries/transmute) - Secure and Scalable Decentralized Application Framework
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [sonnylazuardi/react-komik](https://github.com/sonnylazuardi/react-komik) - :speech_balloon: ReactJS based comic strip creator using fabric.js canvas rendering
@@ -1580,6 +1581,7 @@
 
 ## Python 
 
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
@@ -2480,7 +2482,6 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [UniLogin/UniLogin](https://github.com/UniLogin/UniLogin) - UniLogin Monorepo
 - [kern/gifty](https://github.com/kern/gifty) - :gift: Send NFTs via a URL/SMS (API & bridge service) — ETHSanFrancisco 2018
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
