@@ -1686,7 +1686,7 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Data Lake for Deep Learning. Multi-modal Vector Database for LLMs/LangChain. Store, query, version, & visualize datasets. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
-- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data reliability tools for SQL- and Spark-accessible data
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality management for SQL, Spark, and Pandas-accessible data
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [Lightning-Universe/lightning-flash](https://github.com/Lightning-Universe/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
