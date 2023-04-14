@@ -397,7 +397,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The control center for AI in the cloud
+- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The control center for ML in the cloud
 - [cashapp/pranadb](https://github.com/cashapp/pranadb) - 
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [textileio/textile](https://github.com/textileio/textile) - Textile hub services and buckets lib
@@ -414,7 +414,7 @@
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless Streaming Framework for low-latency geo-distributed system and realtime collaboration application, running atop QUIC protocol, as Metaverse infrastructure, engaging 5G technology.
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Streaming Serverless Framework for Software Edge Infra
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -1580,6 +1580,7 @@
 
 ## Python 
 
+- [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
