@@ -395,7 +395,6 @@
 
 ## Go 
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - The control center for ML in the cloud
@@ -1636,7 +1635,7 @@
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application
 - [microsoft/msrflute](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [minimaxir/imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
@@ -2403,6 +2402,7 @@
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
@@ -2485,7 +2485,7 @@
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [UniLogin/UniLogin](https://github.com/UniLogin/UniLogin) - UniLogin Monorepo
 - [kern/gifty](https://github.com/kern/gifty) - :gift: Send NFTs via a URL/SMS (API & bridge service) — ETHSanFrancisco 2018
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
