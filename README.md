@@ -102,7 +102,7 @@
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 - [openmv/openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
-- [facebookincubator/profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
+- [facebookarchive/profilo](https://github.com/facebookarchive/profilo) - A library for performance traces from production.
 - [immobiliare/sfs](https://github.com/immobiliare/sfs) - Asynchronous Filesystem Replication
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -862,7 +862,7 @@
 - [glowroot/glowroot](https://github.com/glowroot/glowroot) - Easy to use, very low overhead, Java APM
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [pulsarIO/realtime-analytics](https://github.com/pulsarIO/realtime-analytics) - Realtime analytics, this includes the core components of Pulsar pipeline.
-- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [LiveRamp/hank](https://github.com/LiveRamp/hank) - (DEPRECATED. This project is no longer used or maintained at LiveRamp.) Hank is a high performance distributed key-value NoSQL database that we built and use at LiveRamp. It is designed for very large
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [amazon-archives/ecs-mesos-scheduler-driver](https://github.com/amazon-archives/ecs-mesos-scheduler-driver) - Amazon ECS Scheduler Driver
@@ -2471,7 +2471,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [wix-incubator/quix](https://github.com/wix-incubator/quix) - Quix Notebook Manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
