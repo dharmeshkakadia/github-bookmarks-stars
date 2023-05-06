@@ -187,7 +187,7 @@
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
 - [facebookresearch/moolib](https://github.com/facebookresearch/moolib) - A library for distributed ML training with PyTorch
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [mc2-project/mc2](https://github.com/mc2-project/mc2) - A Platform for Secure Analytics and Machine Learning
 - [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
