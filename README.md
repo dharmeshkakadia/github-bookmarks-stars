@@ -1222,7 +1222,7 @@
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 - [ngaut/tyrant](https://github.com/ngaut/tyrant) - distributed  job scheduler based on mesos powered by golang
 - [particle-iot/spark-server](https://github.com/particle-iot/spark-server) - UNMAINTAINED - An API compatible open source server for interacting with devices speaking the spark-protocol
-- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
