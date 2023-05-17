@@ -1302,6 +1302,7 @@
 - [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [jlewi/kubeflow-rl](https://github.com/jlewi/kubeflow-rl) - Repository for working with Kubeflow and RL
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -1900,7 +1901,6 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [airbnb/omniduct](https://github.com/airbnb/omniduct) - A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).
 - [omgnetwork/plasma-mvp](https://github.com/omgnetwork/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [Cloud-CV/visual-chatbot](https://github.com/Cloud-CV/visual-chatbot) - :cloud: :eyes: :speech_balloon: Visual Chatbot
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
