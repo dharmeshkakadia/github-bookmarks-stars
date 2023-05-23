@@ -198,7 +198,6 @@
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
 - [BYU-PCCL/holodeck-engine](https://github.com/BYU-PCCL/holodeck-engine) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
 - [openxla/iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
@@ -439,6 +438,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
@@ -1400,6 +1400,7 @@
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
 - [FedML-AI/FedNLP](https://github.com/FedML-AI/FedNLP) - FedNLP: An Industry and Research Integrated Platform for Federated Learning in Natural Language Processing, Backed by FedML, Inc. The Previous Research Version is Accepted to NAACL 2022
 - [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 - [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversaria
@@ -1656,7 +1657,7 @@
 - [daviskirk/climatecontrol](https://github.com/daviskirk/climatecontrol) - Python library for loading settings and config data from files and environment variables
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [betodealmeida/gsheets-db-api](https://github.com/betodealmeida/gsheets-db-api) - A Python DB-API and SQLAlchemy dialect to Google Spreasheets
 - [a-rahimi/python-checkpointing2](https://github.com/a-rahimi/python-checkpointing2) - Checkpoint the state of Python programs using Pythonic setjmp and longjmp
