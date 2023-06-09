@@ -899,7 +899,7 @@
 - [Stratio/ingestion](https://github.com/Stratio/ingestion) - Flume - Ingestion, an Apache Flume distribution
 - [posix4e/GraphiteMetrics2](https://github.com/posix4e/GraphiteMetrics2) - A hadoop context package for graphite that works with metrics2
 - [dboissier/mongo4idea](https://github.com/dboissier/mongo4idea) - MongoDB integration in Intellij
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [sigmoidanalytics/spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark
 - [jenkinsci/mesos-plugin](https://github.com/jenkinsci/mesos-plugin) - Mesos Cloud Jenkins Plugin
 - [HubSpot/Baragon](https://github.com/HubSpot/Baragon) - Load balancer API
