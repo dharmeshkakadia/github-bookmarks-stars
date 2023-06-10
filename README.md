@@ -393,6 +393,7 @@
 
 ## Go 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
@@ -1582,6 +1583,7 @@
 
 ## Python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
@@ -1732,7 +1734,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
 - [vaikkunth/PrivacyFL](https://github.com/vaikkunth/PrivacyFL) - A Simulator for Privacy Preserving Federated Learning
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://woven.toyota
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [pcyin/tranX](https://github.com/pcyin/tranX) - A general-purpose neural semantic parser for mapping natural language queries into machine executable code
 - [paulfitz/mlsql](https://github.com/paulfitz/mlsql) - inferring sql queries from plain-text questions about tables
