@@ -1055,6 +1055,7 @@
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
+- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
 - [full-stack-serverless/conference-app-in-a-box](https://github.com/full-stack-serverless/conference-app-in-a-box) - Full stack & cross platform app customizable & themeable for any event or conference.
 - [SteinHQ/Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database
@@ -2365,7 +2366,6 @@
 
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!
-- [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 
 ## Starlark 
 
@@ -2499,7 +2499,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
-- [opticdev/optic](https://github.com/opticdev/optic) - Version Control for APIs. Optic makes it easy to document your APIs, prevent breaking changes, and follow an API style-guide
+- [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 - [coinbase/coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit) - DEPRECATED — The Coinbase Pro trading toolkit
 - [ConsenSys/ethql](https://github.com/ConsenSys/ethql) - A GraphQL interface to Ethereum :fire:
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
