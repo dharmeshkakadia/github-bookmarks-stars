@@ -565,7 +565,7 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [NetApp/trident](https://github.com/NetApp/trident) - Storage orchestrator for containers
 - [mhausenblas/cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [Azure/acs-engine](https://github.com/Azure/acs-engine) - WE HAVE MOVED: Please join us at Azure/aks-engine!
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -1091,7 +1091,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [ConsenSys/surya](https://github.com/ConsenSys/surya) - A set of utilities for exploring Solidity contracts
+- [Consensys/surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [endless-nameless-inc/cheshire](https://github.com/endless-nameless-inc/cheshire) - A sandbox for CryptoKitties dApp developers
 - [cslarsen/mandelbrot-js](https://github.com/cslarsen/mandelbrot-js) - Fast rendering of the Mandelbrot set in HTML5 canvas using JavaScript
@@ -1679,7 +1679,7 @@
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
@@ -1834,7 +1834,7 @@
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [zipline-live/zipline](https://github.com/zipline-live/zipline) - Zipline-Live, a Pythonic Algorithmic Trading Library
 - [amzn/metalearn-leap](https://github.com/amzn/metalearn-leap) - Original PyTorch implementation of the Leap meta-learner (https://arxiv.org/abs/1812.01054) along with code for running the Omniglot experiment presented in the paper.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [thinkingmachines/geomancer](https://github.com/thinkingmachines/geomancer) - Automated feature engineering for geospatial data
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
@@ -2501,7 +2501,7 @@
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 - [coinbase/coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit) - DEPRECATED — The Coinbase Pro trading toolkit
-- [ConsenSys/ethql](https://github.com/ConsenSys/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [dharmaprotocol/charta](https://github.com/dharmaprotocol/charta) - New & improved contracts for Dharma protocol
