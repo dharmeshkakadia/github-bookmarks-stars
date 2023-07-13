@@ -838,7 +838,7 @@
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
 - [palantir/giraffe](https://github.com/palantir/giraffe) - Gracefully Integrated Remote Access For Files and Execution
 - [palantir/atlasdb](https://github.com/palantir/atlasdb) - Transactional Distributed Database Layer
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform. Hazelcast is a real-time stream processing platform that lets you build applications that take action on data immediately.
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [crate/crate-mesos-framework](https://github.com/crate/crate-mesos-framework) - An integration framework that allows you to run and manage CrateDB via Apache Mesos.
