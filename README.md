@@ -392,6 +392,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1134,6 +1135,7 @@
 - [lipp/next-todos](https://github.com/lipp/next-todos) - 200 lines realtime todos app powered by next.js, preact, jet, redux and now
 - [zpnk/deploy.now](https://github.com/zpnk/deploy.now) - One click deploys to △ now
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [lumoslabs/aleph](https://github.com/lumoslabs/aleph) - Empower Curiosity / Redshift analytics platform
 - [amitkaps/visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
@@ -1182,7 +1184,7 @@
 - [berrberr/streamkeys](https://github.com/berrberr/streamkeys) - Global media player hotkeys for chrome
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
-- [mephux/envdb](https://github.com/mephux/envdb) - LEGACY use https://github.com/mephux/kolide -- Envdb - Ask your environment questions with osquery.
+- [djcas9/envdb](https://github.com/djcas9/envdb) - LEGACY use https://github.com/mephux/kolide -- Envdb - Ask your environment questions with osquery.
 - [naholyr/github-todos](https://github.com/naholyr/github-todos) - Git hook to convert your TODOs into Github issues
 - [uber-node/zero-config](https://github.com/uber-node/zero-config) - A zero configuration configuration loader
 - [uber-node/ringpop-node](https://github.com/uber-node/ringpop-node) - Scalable, fault-tolerant application-layer sharding for Node.js applications
@@ -1843,7 +1845,7 @@
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [3dperceptionlab/therobotrix](https://github.com/3dperceptionlab/therobotrix) - 
@@ -2524,7 +2526,6 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
