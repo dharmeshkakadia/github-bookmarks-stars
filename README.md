@@ -595,7 +595,7 @@
 - [micro/micro](https://github.com/micro/micro) - API first development platform
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [intelsdi-x/snap](https://github.com/intelsdi-x/snap) - The open telemetry framework
 - [pressly/sup](https://github.com/pressly/sup) - Super simple deployment tool - think of it like 'make' for a network of servers
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
@@ -1258,6 +1258,7 @@
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collectio
+- [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.
 - [FrancescoSaverioZuppichini/glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - High-quality Neural Networks for Computer Vision 😎
 - [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs) - A list of Machine Learning Art Colabs
 - [nateraw/huggingpics](https://github.com/nateraw/huggingpics) - 🤗🖼️ HuggingPics: Fine-tune Vision Transformers for anything using images found on the web.
@@ -1586,6 +1587,7 @@
 
 ## Python 
 
+- [google/learned_optimization](https://github.com/google/learned_optimization) - 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -1629,7 +1631,6 @@
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
-- [LineaLabs/lineapy](https://github.com/LineaLabs/lineapy) - Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution
 - [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,botnet,caformer,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fasternet,fbnet,flexivit,gcvit,ghostnet,gmlp,gpvit,halonet,hornet,iformer,inception
