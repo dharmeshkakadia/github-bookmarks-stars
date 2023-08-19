@@ -1586,6 +1586,8 @@
 
 ## Python 
 
+- [stanford-crfm/haliax](https://github.com/stanford-crfm/haliax) - Named Tensors for Legible Deep Learning in JAX
+- [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter) - Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
 - [google/learned_optimization](https://github.com/google/learned_optimization) - 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
