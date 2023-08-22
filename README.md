@@ -1586,6 +1586,7 @@
 
 ## Python 
 
+- [deepmind/tree](https://github.com/deepmind/tree) - tree is a library for working with nested data structures
 - [stanford-crfm/haliax](https://github.com/stanford-crfm/haliax) - Named Tensors for Legible Deep Learning in JAX
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter) - Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
