@@ -1465,7 +1465,6 @@
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
 - [t3rmin4t0r/notes](https://github.com/t3rmin4t0r/notes) - Random implementation notes
-- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [dennybritz/startupreadings](https://github.com/dennybritz/startupreadings) - Reading list for all things startup-related
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -2335,6 +2334,7 @@
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [pcingola/BigDataScript](https://github.com/pcingola/BigDataScript) - BigDataScript: Scirpting language for big data
 - [deric/mesos-deb-packaging](https://github.com/deric/mesos-deb-packaging) - Mesos package for Debian, Ubuntu
+- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
 - [Banno/vagrant-mesos](https://github.com/Banno/vagrant-mesos) - Local Mesos cluster in Vagrant
 - [att-innovate/charmander](https://github.com/att-innovate/charmander) - Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark
