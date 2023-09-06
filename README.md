@@ -290,7 +290,6 @@
 
 ## CSS 
 
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [thesephist/ycvibecheck](https://github.com/thesephist/ycvibecheck) - Semantic search across every YC company ever. Vibe check your idea?
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [ines/course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
@@ -839,7 +838,7 @@
 - [hopshadoop/hops](https://github.com/hopshadoop/hops) - Hops Hadoop is a distribution of Apache Hadoop with distributed metadata.
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
 - [palantir/giraffe](https://github.com/palantir/giraffe) - Gracefully Integrated Remote Access For Files and Execution
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform. Hazelcast is a real-time stream processing platform that lets you build applications that take action on data immediately.
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [crate/crate-mesos-framework](https://github.com/crate/crate-mesos-framework) - An integration framework that allows you to run and manage CrateDB via Apache Mesos.
@@ -1251,6 +1250,7 @@
 
 ## Jupyter Notebook 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
 - [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - Waymo Open Dataset
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -1606,7 +1606,6 @@
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
@@ -2427,6 +2426,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
