@@ -98,7 +98,7 @@
 - [microsoft/jericho](https://github.com/microsoft/jericho) - A learning environment for man-made Interactive Fiction games.
 - [BlockstreamResearch/simplicity](https://github.com/BlockstreamResearch/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/Freeflow](https://github.com/microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application cod
-- [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
+- [google-deepmind/lab](https://github.com/google-deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [ElementsProject/lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 - [openmv/openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
 - [facebookarchive/profilo](https://github.com/facebookarchive/profilo) - A library for performance traces from production.
@@ -438,6 +438,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -1279,7 +1280,7 @@
 - [pdpipe/pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
 - [opendp/smartnoise-samples](https://github.com/opendp/smartnoise-samples) - Code samples and documentation for SmartNoise differential privacy tools
 - [Santosh-Gupta/NaturalLanguageRecommendations](https://github.com/Santosh-Gupta/NaturalLanguageRecommendations) - Getting recommendations from natural language
-- [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
+- [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [Tiiiger/bert_score](https://github.com/Tiiiger/bert_score) - BERT score for text generation
 - [kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference](https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference) - Real Time Big Data / IoT Machine Learning (Model Training and Inference) with HiveMQ (MQTT), TensorFlow IO and Apache Kafka - no additional data store like S3, HDFS or Spark required
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
@@ -1589,7 +1590,7 @@
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
-- [deepmind/tree](https://github.com/deepmind/tree) - tree is a library for working with nested data structures
+- [google-deepmind/tree](https://github.com/google-deepmind/tree) - tree is a library for working with nested data structures
 - [stanford-crfm/haliax](https://github.com/stanford-crfm/haliax) - Named Tensors for Legible Deep Learning in JAX
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter) - Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [google/ml_collections](https://github.com/google/ml_collections) - ML Collections is a library of Python Collections designed for ML use cases.
@@ -1730,8 +1731,8 @@
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [hackalog/easydata](https://github.com/hackalog/easydata) - A flexible template for doing reproducible data science in Python.
 - [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.
-- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
-- [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
+- [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku) - JAX-based neural network library
+- [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [awwong1/torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [interpretml/interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
@@ -1799,9 +1800,8 @@
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
-- [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) - A set of 13 diverse machine-learning tasks that require memory to solve.
+- [google-deepmind/dm_memorytasks](https://github.com/google-deepmind/dm_memorytasks) - A set of 13 diverse machine-learning tasks that require memory to solve.
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
@@ -1821,7 +1821,7 @@
 - [SPFlow/SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [pronobis/libspn](https://github.com/pronobis/libspn) - Library for learning and inference with Sum-product Networks
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
+- [google-deepmind/graph_nets](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -1830,7 +1830,7 @@
 - [microsoft/icecaps](https://github.com/microsoft/icecaps) - Intelligent Conversation Engine: Code and Pre-trained Systems. Version 0.2.0.
 - [microsoft/presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+- [google-deepmind/bsuite](https://github.com/google-deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [TarrySingh/ERNIE](https://github.com/TarrySingh/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [nteract/bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses
@@ -1852,7 +1852,7 @@
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
+- [google-deepmind/mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [3dperceptionlab/therobotrix](https://github.com/3dperceptionlab/therobotrix) - 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning
