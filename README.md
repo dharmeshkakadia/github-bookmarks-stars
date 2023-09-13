@@ -526,7 +526,7 @@
 - [caicloud/nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [jetstack/tarmak](https://github.com/jetstack/tarmak) - A toolkit for Kubernetes cluster provisioning and lifecycle management
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [banzaicloud/pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
 - [newrelic/sidecar](https://github.com/newrelic/sidecar) - Gossip-based service discovery. Docker native, but supports static discovery, too.
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
@@ -1243,7 +1243,7 @@
 ## Jsonnet 
 
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring) - Cluster monitoring stack for clusters based on Prometheus Operator
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
+- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 
 ## Julia 
 
