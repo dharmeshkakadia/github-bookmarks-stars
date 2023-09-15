@@ -1251,7 +1251,6 @@
 
 ## Jupyter Notebook 
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
 - [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - Waymo Open Dataset
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -1608,6 +1607,7 @@
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
@@ -2166,11 +2166,11 @@
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
 - [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
-- [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
+- [Trow-Registry/trow](https://github.com/Trow-Registry/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [mike-engel/now-importer](https://github.com/mike-engel/now-importer) - Easily import your static websites into ZEIT's now platform
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
@@ -2423,7 +2423,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
-- [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
+- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
