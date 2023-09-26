@@ -588,7 +588,7 @@
 - [ciao-project/ciao](https://github.com/ciao-project/ciao) - Ciao - Cloud Integrated Advanced Orchestrator
 - [uber-archive/cpustat](https://github.com/uber-archive/cpustat) - high frequency performance measurements for Linux. This project is deprecated and not maintained.
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [redspread/spread](https://github.com/redspread/spread) - Docker to Kubernetes in one command
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
