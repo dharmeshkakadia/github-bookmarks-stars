@@ -1219,7 +1219,7 @@
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [SamyPesse/tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
 - [keenlabs/capillary](https://github.com/keenlabs/capillary) - Storm Spout + Kafka State Inspector
-- [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
+- [harthur/brain](https://github.com/harthur/brain) - Simple feed-forward neural network in JavaScript
 - [adobe-research/spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 - [Wizcorp/frontrunner](https://github.com/Wizcorp/frontrunner) - Automated HAProxy reconfiguration for Marathon
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
