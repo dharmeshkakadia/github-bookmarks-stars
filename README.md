@@ -2337,7 +2337,7 @@
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [pcingola/BigDataScript](https://github.com/pcingola/BigDataScript) - BigDataScript: Scirpting language for big data
 - [deric/mesos-deb-packaging](https://github.com/deric/mesos-deb-packaging) - Mesos package for Debian, Ubuntu
-- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
+- [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
 - [Banno/vagrant-mesos](https://github.com/Banno/vagrant-mesos) - Local Mesos cluster in Vagrant
 - [att-innovate/charmander](https://github.com/att-innovate/charmander) - Charmander Scheduler Lab - Mesos, Docker, InfluxDB, Spark
@@ -2423,7 +2423,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
-- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
