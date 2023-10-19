@@ -1070,7 +1070,6 @@
 - [jainsamyak/Stockifier](https://github.com/jainsamyak/Stockifier) - A notification and insights app for stock markets
 - [gillkyle/sol-journal](https://github.com/gillkyle/sol-journal) - ✎ Simple, personal journaling progressive web app
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [EYBlockchain/nightfall](https://github.com/EYBlockchain/nightfall) - Nightfall protocols for private transactions on the Ethereum blockchain using zk-snarks
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [ChristopherBiscardi/gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) - Gatsby+MDX • Transformers, CMS UI Extensions, and Ecosystem Components for ambitious projects
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
