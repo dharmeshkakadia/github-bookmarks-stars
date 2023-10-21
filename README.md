@@ -1657,7 +1657,7 @@
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models
-- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application
+- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
 - [microsoft/msrflute](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
