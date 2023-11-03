@@ -1865,7 +1865,7 @@
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
