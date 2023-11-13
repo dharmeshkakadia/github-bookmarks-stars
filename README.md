@@ -414,7 +414,7 @@
 - [apache/yunikorn-core](https://github.com/apache/yunikorn-core) - Apache YuniKorn Core
 - [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [formancehq/machine](https://github.com/formancehq/machine) - A virtual machine for money movements
+- [formancehq/machine](https://github.com/formancehq/machine) - A virtual machine for money movements (Move to the Stack repo)
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
@@ -1154,7 +1154,7 @@
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [mozilla/fathom](https://github.com/mozilla/fathom) - A framework for extracting meaning from web pages
 - [Haroenv/holmes](https://github.com/Haroenv/holmes) - Fast and easy searching inside a page
-- [jupyter-attic/dashboards_server](https://github.com/jupyter-attic/dashboards_server) - [RETIRED] Server that runs and renders Jupyter notebooks as interactive dashboards
+- [jupyter/dashboards_server](https://github.com/jupyter/dashboards_server) - [RETIRED] Server that runs and renders Jupyter notebooks as interactive dashboards
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [TalAter/SpeechKITT](https://github.com/TalAter/SpeechKITT) - 🗣 A flexible GUI for Speech Recognition
