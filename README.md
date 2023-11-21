@@ -892,7 +892,6 @@
 - [XiaoMi/themis](https://github.com/XiaoMi/themis) - Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
 - [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.
 - [josephxsxn/moya](https://github.com/josephxsxn/moya) - Memcached on YARN
-- [hortonworks/simple-yarn-app](https://github.com/hortonworks/simple-yarn-app) - Simple YARN application
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [segmentio/analytics-java](https://github.com/segmentio/analytics-java) - The hassle-free way to integrate analytics into any java application.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -1387,6 +1386,7 @@
 
 ## Others 
 
+- [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 - [colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers) - 
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
