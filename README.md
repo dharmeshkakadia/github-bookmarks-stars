@@ -803,7 +803,7 @@
 - [Mellanox/SparkRDMA](https://github.com/Mellanox/SparkRDMA) - This is archive of SparkRDMA project. The new repository with RDMA shuffle acceleration for Apache Spark is here: https://github.com/Nvidia/sparkucx
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
 - [Nextdoor/bender](https://github.com/Nextdoor/bender) - Bender - Serverless ETL Framework
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [divolte/divolte-collector](https://github.com/divolte/divolte-collector) - Divolte Collector
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
 - [dremio/dremio-oss](https://github.com/dremio/dremio-oss) - Dremio - the missing link in modern data
