@@ -1588,6 +1588,7 @@
 
 ## Python 
 
+- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax) - Tools for JAX
