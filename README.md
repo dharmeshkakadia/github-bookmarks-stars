@@ -667,7 +667,6 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
-- [hortonworks/gohadoop](https://github.com/hortonworks/gohadoop) - 
 - [BrentNoorda/slfsrv](https://github.com/BrentNoorda/slfsrv) - Create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser.
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
@@ -2338,7 +2337,6 @@
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [hortonworks/cloudbreak-openstack-ansible](https://github.com/hortonworks/cloudbreak-openstack-ansible) - Setting up a production ready OpenStack installation
 - [coursehero/slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
 - [pcingola/BigDataScript](https://github.com/pcingola/BigDataScript) - BigDataScript: Scirpting language for big data
