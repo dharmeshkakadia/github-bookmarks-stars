@@ -1774,7 +1774,7 @@
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python with MCMC and VI
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -1798,7 +1798,7 @@
 - [marvinbuss/MLDevOps](https://github.com/marvinbuss/MLDevOps) - ML DevOps using GitHub Actions and Azure Machine Learning
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, finetune and deploy AI models
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
