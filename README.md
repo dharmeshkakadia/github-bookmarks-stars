@@ -87,6 +87,7 @@
 
 ## C 
 
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
@@ -420,7 +421,7 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
@@ -1596,7 +1597,6 @@
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
-- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [google-deepmind/tree](https://github.com/google-deepmind/tree) - tree is a library for working with nested data structures
 - [stanford-crfm/haliax](https://github.com/stanford-crfm/haliax) - Named Tensors for Legible Deep Learning in JAX
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter) - Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
