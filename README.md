@@ -770,7 +770,7 @@
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [rayokota/kcache](https://github.com/rayokota/kcache) - An In-Memory Cache Backed by Apache Kafka
-- [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [CODAIT/stocator](https://github.com/CODAIT/stocator) - Stocator is high performing connector to object storage for Apache Spark, achieving performance by leveraging object storage semantics.
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
