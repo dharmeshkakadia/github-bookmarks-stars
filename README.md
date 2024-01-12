@@ -802,7 +802,7 @@
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [omalley/depchecker](https://github.com/omalley/depchecker) - Working tool to analyze Hive's class structure
 - [qubole/rubix](https://github.com/qubole/rubix) - Cache File System optimized for columnar formats and object stores
-- [awslabs/aws-serverless-java-container](https://github.com/awslabs/aws-serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
 - [teiid/teiid](https://github.com/teiid/teiid) - Teiid is a data virtualization system that allows applications to use data from multiple, heterogenous data stores.
 - [Mellanox/SparkRDMA](https://github.com/Mellanox/SparkRDMA) - This is archive of SparkRDMA project. The new repository with RDMA shuffle acceleration for Apache Spark is here: https://github.com/Nvidia/sparkucx
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
