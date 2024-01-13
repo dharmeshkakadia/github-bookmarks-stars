@@ -1052,6 +1052,7 @@
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [reflexjs/reflexjs](https://github.com/reflexjs/reflexjs) - A library for rapid UI development with style props, color modes, themes and variants + starter kits, themes and blocks to help you build Gatsby and Next.js sites faster.
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -1273,6 +1274,7 @@
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
+- [interpretml/interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 - [LexPredict/lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) - LexNLP by LexPredict
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [mlrun/demo-github-actions](https://github.com/mlrun/demo-github-actions) - demo CI/CD pipeline using MLRun, Kubeflow and GitHub Actions
@@ -1748,7 +1750,6 @@
 - [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [awwong1/torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [interpretml/interpret-text](https://github.com/interpretml/interpret-text) - A library that incorporates state-of-the-art explainers for text-based machine learning models and visualizes the result with a built-in dashboard.
 - [CharlieDinh/FEDL_pytorch](https://github.com/CharlieDinh/FEDL_pytorch) - This repository implements FEDL using pytorch
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [google/gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
@@ -2089,7 +2090,7 @@
 
 ## Ruby 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [LedgerSync/ledger_sync](https://github.com/LedgerSync/ledger_sync) - Sync to QuickBooks, Xero, NetSuite, and more.
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [slackhq/magic-cli](https://github.com/slackhq/magic-cli) - 
@@ -2487,7 +2488,6 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
 - [microsoft/vsts-extension-retrospectives](https://github.com/microsoft/vsts-extension-retrospectives) - An Azure DevOps extension for efficient retrospectives
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [PayString/paystring](https://github.com/PayString/paystring) - Reference implementation of the PayString Protocol.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
