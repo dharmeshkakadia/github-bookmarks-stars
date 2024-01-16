@@ -193,7 +193,7 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [mc2-project/mc2](https://github.com/mc2-project/mc2) - A Platform for Secure Analytics and Machine Learning
-- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework.
+- [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - FlexFlow Serve: Low-Latency, High-Performance LLM Serving
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
@@ -1352,7 +1352,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache 
 
