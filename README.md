@@ -2432,7 +2432,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
