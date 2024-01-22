@@ -427,7 +427,7 @@
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -1637,7 +1637,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [commaai/comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
 - [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
-- [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
+- [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a Bayesian Inference library designed for ease of use, speed and modularity.
