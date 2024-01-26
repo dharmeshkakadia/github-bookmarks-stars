@@ -258,7 +258,7 @@
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [TU-Berlin-DIMA/myriad-toolkit](https://github.com/TU-Berlin-DIMA/myriad-toolkit) - Myriad Parallel Data Generator Toolkit
 - [elodina/alligator](https://github.com/elodina/alligator) - Custom allocator modules for Apache Mesos
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [camsas/Musketeer](https://github.com/camsas/Musketeer) - The Musketeer workflow manager.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomahawk-player/tomahawk](https://github.com/tomahawk-player/tomahawk) - Tomahawk, the multi-source music player
