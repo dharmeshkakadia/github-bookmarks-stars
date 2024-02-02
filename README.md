@@ -1597,6 +1597,7 @@
 
 ## Python 
 
+- [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
 - [google/orbax](https://github.com/google/orbax) - Orbax provides common utility libraries for JAX users.
 - [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox) - JAX-Toolbox
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
