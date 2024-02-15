@@ -1599,6 +1599,7 @@
 
 ## Python 
 
+- [NVlabs/trajdata](https://github.com/NVlabs/trajdata) - A unified interface to many trajectory forecasting datasets.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
 - [google/orbax](https://github.com/google/orbax) - Orbax provides common utility libraries for JAX users.
