@@ -836,7 +836,7 @@
 - [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) - Machine Learning Platform and Recommendation Engine built on Kubernetes
 - [ground-context/ground](https://github.com/ground-context/ground) - An open-source, vendor-neutral data context service.
 - [linkedin/dr-elephant](https://github.com/linkedin/dr-elephant) - Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
 - [crashub/crash](https://github.com/crashub/crash) - The shell for the Java Platform
 - [qubole/quark](https://github.com/qubole/quark) - Quark is a data virtualization engine over analytic databases.
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform
