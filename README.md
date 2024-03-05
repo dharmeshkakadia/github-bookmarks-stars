@@ -1989,7 +1989,7 @@
 - [probcomp/crosscat](https://github.com/probcomp/crosscat) - A domain-general, Bayesian method for analyzing high-dimensional data tables
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [hatching/vmcloak](https://github.com/hatching/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
-- [CounterpartyXCP/counterparty-lib](https://github.com/CounterpartyXCP/counterparty-lib) - Counterparty Protocol Reference Implementation
+- [CounterpartyXCP/counterparty-core](https://github.com/CounterpartyXCP/counterparty-core) - Counterparty Protocol Reference Implementation
 - [projectatomic/container-best-practices](https://github.com/projectatomic/container-best-practices) - Container Best Practices
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [kubernauts/kploy](https://github.com/kubernauts/kploy) - An opinionated Kubernetes deployment system for appops
