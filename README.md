@@ -1296,7 +1296,7 @@
 - [kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference](https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference) - Real Time Big Data / IoT Machine Learning (Model Training and Inference) with HiveMQ (MQTT), TensorFlow IO and Apache Kafka - no additional data store like S3, HDFS or Spark required
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [google/modem](https://github.com/google/modem) - 
-- [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [kubeflow/code-intelligence](https://github.com/kubeflow/code-intelligence) - ML-Powered Developer Tools, using Kubeflow
 - [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) - A Collection of GitHub Actions That Facilitate MLOps
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -2199,7 +2199,6 @@
 - [Trow-Registry/trow](https://github.com/Trow-Registry/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [mike-engel/now-importer](https://github.com/mike-engel/now-importer) - Easily import your static websites into ZEIT's now platform
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [comnik/declarative-dataflow](https://github.com/comnik/declarative-dataflow) - A reactive query engine built on differential dataflow.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -2228,6 +2227,7 @@
 - [Azure/azure-kusto-spark](https://github.com/Azure/azure-kusto-spark) - Apache Spark Connector for Azure Kusto
 - [qubole/spark-acid](https://github.com/qubole/spark-acid) - ACID Data Source for Apache Spark based on Hive ACID
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [lightbend/flink-k8s-operator](https://github.com/lightbend/flink-k8s-operator) - An example of building kubernetes operator (Flink) using Abstract operator's framework
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
 - [qubole/sparklens](https://github.com/qubole/sparklens) - Qubole Sparklens tool for performance tuning Apache Spark
