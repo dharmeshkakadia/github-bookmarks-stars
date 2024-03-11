@@ -1811,7 +1811,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
 - [fepegar/torchio](https://github.com/fepegar/torchio) - Medical imaging toolkit for deep learning
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [jupyter-widgets-contrib/ipysheet](https://github.com/jupyter-widgets-contrib/ipysheet) - Jupyter handsontable integration
 - [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for novel coronavirus SARS-CoV-2
 - [marvinbuss/MLDevOps](https://github.com/marvinbuss/MLDevOps) - ML DevOps using GitHub Actions and Azure Machine Learning
