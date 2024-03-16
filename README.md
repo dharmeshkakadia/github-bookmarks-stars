@@ -1031,6 +1031,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [a16z/zkp-merkle-airdrop-lib](https://github.com/a16z/zkp-merkle-airdrop-lib) - 
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [aurora-opensource/xviz](https://github.com/aurora-opensource/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1601,6 +1602,7 @@
 
 ## Python 
 
+- [apple/axlearn](https://github.com/apple/axlearn) - 
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [NVlabs/trajdata](https://github.com/NVlabs/trajdata) - A unified interface to many trajectory forecasting datasets.
@@ -2467,7 +2469,6 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
