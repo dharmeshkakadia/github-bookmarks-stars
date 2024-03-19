@@ -763,6 +763,7 @@
 - [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
+- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [sebastien/wwwclient](https://github.com/sebastien/wwwclient) - Advanced web browsing, scraping and automation
 
 ## Haskell 
@@ -996,7 +997,6 @@
 - [hiranya911/mdcc](https://github.com/hiranya911/mdcc) - An implementation of the MDCC (Multi-Data Center Commit) Protocol featuring Fast Paxos.
 - [nathanmarz/storm-mesos](https://github.com/nathanmarz/storm-mesos) - Run Storm on top of the Mesos cluster resource manager
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [xebialabs/overthere](https://github.com/xebialabs/overthere) - Runs something "Over there"
 - [gschueler/rundeck-jclouds](https://github.com/gschueler/rundeck-jclouds) - Jclouds resources model provider for RunDeck
 - [cbeust/jcommander](https://github.com/cbeust/jcommander) - Command line parsing framework for Java
@@ -1259,6 +1259,7 @@
 
 ## Jupyter Notebook 
 
+- [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader) - Pytorch-like dataloaders in JAX.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
@@ -1601,6 +1602,7 @@
 
 ## Python 
 
+- [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
 - [apple/axlearn](https://github.com/apple/axlearn) - 
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
@@ -1625,7 +1627,7 @@
 - [google/learned_optimization](https://github.com/google/learned_optimization) - 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [facebookresearch/hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
@@ -2445,6 +2447,7 @@
 
 ## TypeScript 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
