@@ -306,7 +306,6 @@
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [koudelka/visualixir](https://github.com/koudelka/visualixir) - A process/message visualizer for BEAM nodes.💪👁
 - [milinda/kappa-architecture.com](https://github.com/milinda/kappa-architecture.com) - A repository of information, implementations and examples around the Kappa Architecture
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
@@ -1031,7 +1030,6 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [a16z/zkp-merkle-airdrop-lib](https://github.com/a16z/zkp-merkle-airdrop-lib) - 
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [aurora-opensource/xviz](https://github.com/aurora-opensource/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1602,6 +1600,7 @@
 
 ## Python 
 
+- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
@@ -1737,7 +1736,7 @@
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [jmfernandes/robin_stocks](https://github.com/jmfernandes/robin_stocks) - This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
-- [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Translation library built on 🤗 transformers supporting 200 languages
+- [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Library for translating between 200 languages. Built on 🤗 transformers.
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
@@ -2215,6 +2214,7 @@
 
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Sass 
@@ -2472,6 +2472,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
