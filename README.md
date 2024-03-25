@@ -1232,7 +1232,6 @@
 - [particle-iot/spark-server](https://github.com/particle-iot/spark-server) - UNMAINTAINED - An API compatible open source server for interacting with devices speaking the spark-protocol
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [MeoMix/Streamus](https://github.com/MeoMix/Streamus) - [Deprecated -- See MeoMix/StreamusChromeExtension]
 - [deployd/deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs
@@ -1294,7 +1293,7 @@
 - [kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference](https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference) - Real Time Big Data / IoT Machine Learning (Model Training and Inference) with HiveMQ (MQTT), TensorFlow IO and Apache Kafka - no additional data store like S3, HDFS or Spark required
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [google/modem](https://github.com/google/modem) - 
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
 - [kubeflow/code-intelligence](https://github.com/kubeflow/code-intelligence) - ML-Powered Developer Tools, using Kubeflow
 - [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) - A Collection of GitHub Actions That Facilitate MLOps
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -2580,6 +2579,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 
 ## V 
 
