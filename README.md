@@ -715,7 +715,7 @@
 
 ## HCL 
 
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
 - [coreos/tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 
 ## HTML 
@@ -1600,6 +1600,7 @@
 
 ## Python 
 
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
