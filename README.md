@@ -2460,7 +2460,7 @@
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a platform to ship collaborative features like comments, notifications, text editors in minutes instead of months.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
