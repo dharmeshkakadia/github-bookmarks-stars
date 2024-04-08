@@ -1600,6 +1600,7 @@
 
 ## Python 
 
+- [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
