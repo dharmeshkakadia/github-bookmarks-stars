@@ -959,7 +959,6 @@
 - [peter-lawrey/HugeCollections-OLD](https://github.com/peter-lawrey/HugeCollections-OLD) - Huge Collections for Java using efficient off heap storage
 - [OpenHFT/Java-Runtime-Compiler](https://github.com/OpenHFT/Java-Runtime-Compiler) - Java Runtime Compiler
 - [joestelmach/natty](https://github.com/joestelmach/natty) - Java natural language date parser
-- [klout/brickhouse](https://github.com/klout/brickhouse) - Hive UDF's for the data warehouse
 - [awslabs/amazon-kinesis-client](https://github.com/awslabs/amazon-kinesis-client) - Client library for Amazon Kinesis
 - [amazon-archives/kinesis-storm-spout](https://github.com/amazon-archives/kinesis-storm-spout) - Kinesis spout for Storm
 - [ldbc-dev/ldbc_snb_datagen_deprecated2015](https://github.com/ldbc-dev/ldbc_snb_datagen_deprecated2015) - LDBC-SNB Data Generator
@@ -2483,7 +2482,7 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
 - [moviendome/expo-solana-wallet](https://github.com/moviendome/expo-solana-wallet) - Cross-Platform Solana Wallet built with Expo and Solana/web3.js
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [salto-io/salto](https://github.com/salto-io/salto) - Salto enables you to manage your business applications' configuration in code
