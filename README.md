@@ -284,6 +284,7 @@
 - [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
 - [uwsampa/grappa](https://github.com/uwsampa/grappa) - Grappa: scaling irregular applications on commodity clusters
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
+- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [primecoin/primecoin](https://github.com/primecoin/primecoin) - Primecoin - Cryptocurrency with Useful PoW Consensus
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -1334,7 +1335,6 @@
 - [hishamhm/userland-prototype](https://github.com/hishamhm/userland-prototype) - Proof-of-concept prototype for Userland
 - [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) - Torch implementation of DeepMask and SharpMask
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
@@ -2452,7 +2452,7 @@
 
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
