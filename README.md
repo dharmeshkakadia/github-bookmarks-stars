@@ -204,7 +204,7 @@
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
 - [BYU-PCCL/holodeck-engine](https://github.com/BYU-PCCL/holodeck-engine) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
-- [openxla/iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
@@ -1598,6 +1598,7 @@
 
 ## Python 
 
+- [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to iterate and deploy AI workloads on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
