@@ -1516,7 +1516,7 @@
 - [sbinet/notes-and-todos](https://github.com/sbinet/notes-and-todos) - notes about stuff
 - [aphyr/partitions-post](https://github.com/aphyr/partitions-post) - A blog post on network partitions in practice
 - [mesosphere/kubernetes-mesos](https://github.com/mesosphere/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
