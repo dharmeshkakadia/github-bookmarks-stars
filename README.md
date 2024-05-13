@@ -1176,7 +1176,6 @@
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [aredee/accumulo-mesos](https://github.com/aredee/accumulo-mesos) - 
 - [gritzko/swarm](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [handsontable/hot-table](https://github.com/handsontable/hot-table) - Handsontable - Best Data Grid Web Component with Spreadsheet Look and Feel.
 - [kubernetes-retired/kubedash](https://github.com/kubernetes-retired/kubedash) - [EOL] Analytics dashboard for Kubernetes
 - [hammerlab/spree](https://github.com/hammerlab/spree) - Live-updating Spark UI built with Meteor
@@ -1350,6 +1349,7 @@
 ## Markdown 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Mustache 
 
