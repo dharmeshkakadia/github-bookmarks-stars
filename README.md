@@ -181,6 +181,7 @@
 
 ## C++ 
 
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
@@ -1599,6 +1600,8 @@
 
 ## Python 
 
+- [kscalelabs/sim](https://github.com/kscalelabs/sim) - Training in simulation
+- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [thuml/depyf](https://github.com/thuml/depyf) - depyf is a tool to help you understand and adapt to PyTorch compiler torch.compile.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
