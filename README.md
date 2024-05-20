@@ -455,7 +455,7 @@
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
@@ -1642,7 +1642,7 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [facebookresearch/hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
