@@ -1255,6 +1255,7 @@
 
 ## Jupyter Notebook 
 
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader) - Pytorch-like dataloaders in JAX.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox) - JAX-Toolbox
@@ -2182,6 +2183,7 @@
 
 ## Rust 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [dora-rs/dora](https://github.com/dora-rs/dora) - Dataflow-Oriented Robotic Application is middleware that streamlines and simplifies the creation of AI-based robotic applications with low latency, composable, and distributed dataflow.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
