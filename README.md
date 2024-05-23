@@ -1025,7 +1025,6 @@
 
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -1649,6 +1648,7 @@
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [NVIDIA/framework-reproducibility](https://github.com/NVIDIA/framework-reproducibility) - Providing reproducibility in deep learning frameworks
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
