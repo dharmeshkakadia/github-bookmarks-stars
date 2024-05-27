@@ -1600,6 +1600,8 @@
 
 ## Python 
 
+- [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
+- [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
 - [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Inference engine powering open source models on OpenRouter
 - [kscalelabs/sim](https://github.com/kscalelabs/sim) - Training in simulation
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
@@ -1615,7 +1617,6 @@
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
-- [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
@@ -2461,6 +2462,7 @@
 ## TypeScript 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
