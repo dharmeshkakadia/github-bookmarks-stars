@@ -1254,6 +1254,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/big_vision](https://github.com/google-research/big_vision) - Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader) - Pytorch-like dataloaders in JAX.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
