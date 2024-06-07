@@ -1609,7 +1609,7 @@
 - [kscalelabs/sim](https://github.com/kscalelabs/sim) - Training in simulation
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [thuml/depyf](https://github.com/thuml/depyf) - depyf is a tool to help you understand and adapt to PyTorch compiler torch.compile.
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
