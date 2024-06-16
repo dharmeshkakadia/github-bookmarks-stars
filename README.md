@@ -1842,7 +1842,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
-- [timkpaine/pyEX](https://github.com/timkpaine/pyEX) - Python interface to IEX and IEX cloud APIs
+- [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
@@ -1858,7 +1858,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [vinayak-mehta/nbcommands](https://github.com/vinayak-mehta/nbcommands) - Unix commands for Jupyter notebooks.
-- [timkpaine/paperboy](https://github.com/timkpaine/paperboy) - A web frontend for scheduling Jupyter notebook reports
+- [tkp-archive/paperboy](https://github.com/tkp-archive/paperboy) - A web frontend for scheduling Jupyter notebook reports
 - [gnes-ai/gnes](https://github.com/gnes-ai/gnes) - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network.
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning
