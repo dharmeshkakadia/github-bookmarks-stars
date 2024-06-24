@@ -1603,6 +1603,7 @@
 
 ## Python 
 
+- [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [mti-lab/SVGEditBench](https://github.com/mti-lab/SVGEditBench) - A benchmark dataset for evaluating LLM's SVG editing capabilities
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
