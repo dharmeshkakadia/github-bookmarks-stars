@@ -90,7 +90,6 @@
 ## C 
 
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
@@ -185,6 +184,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [bark-simulator/bark](https://github.com/bark-simulator/bark) - Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving
