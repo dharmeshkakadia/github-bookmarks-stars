@@ -1608,6 +1608,7 @@
 
 ## Python 
 
+- [sjmikler/progress-table](https://github.com/sjmikler/progress-table) - Display progress as a pretty table in the command line.
 - [apple/ml-4m](https://github.com/apple/ml-4m) - 4M: Massively Multimodal Masked Modeling
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
