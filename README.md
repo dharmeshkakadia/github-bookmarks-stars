@@ -409,7 +409,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system optimized for passkeys
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [RunLLM/aqueduct](https://github.com/RunLLM/aqueduct) - Aqueduct is no longer being maintained. Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
@@ -1322,7 +1322,6 @@
 - [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
 - [henripal/labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
 - [jlewi/kubeflow-rl](https://github.com/jlewi/kubeflow-rl) - Repository for working with Kubeflow and RL
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -1972,6 +1971,7 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [airbnb/omniduct](https://github.com/airbnb/omniduct) - A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).
 - [omgnetwork/plasma-mvp](https://github.com/omgnetwork/plasma-mvp) - OmiseGO's research implementation of Minimal Viable Plasma
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [Cloud-CV/visual-chatbot](https://github.com/Cloud-CV/visual-chatbot) - :cloud: :eyes: :speech_balloon: Visual Chatbot
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
