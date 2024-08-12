@@ -618,7 +618,7 @@
 - [ahmetb/wagl](https://github.com/ahmetb/wagl) - :bee: DNS Service Discovery for Docker Swarm. Works out of the box. (NOW OBSOLETE, USE SWARM MODE)
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [square/p2](https://github.com/square/p2) - Platypus Platform: Tools for Scalable Deployment
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [svent/sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [helm/helm-classic](https://github.com/helm/helm-classic) - ⚠️(OBSOLETE) Helm Classic v1
