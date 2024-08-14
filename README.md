@@ -2562,7 +2562,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript
-- [transmute-industries/transmute](https://github.com/transmute-industries/transmute) - The Transmute Command
+- [transmute-industries/transmute](https://github.com/transmute-industries/transmute) - Transmute
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [UniLogin/UniLogin](https://github.com/UniLogin/UniLogin) - UniLogin Monorepo
