@@ -127,7 +127,7 @@
 - [sharklinux/shark](https://github.com/sharklinux/shark) - We're building a better performance management system
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [seccomp/libseccomp](https://github.com/seccomp/libseccomp) - The main libseccomp repository
-- [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
+- [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
 - [hyperic/sigar](https://github.com/hyperic/sigar) - System Information Gatherer And Reporter
 - [tsgates/mbox](https://github.com/tsgates/mbox) - A lightweight sandbox tool for non-root users
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
