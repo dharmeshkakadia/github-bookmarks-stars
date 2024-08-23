@@ -323,6 +323,7 @@
 
 ## Clojure 
 
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
@@ -1549,7 +1550,6 @@
 - [etsy/ipcat](https://github.com/etsy/ipcat) - Categorization of IP Addresses
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [project-open-data/api-umbrella](https://github.com/project-open-data/api-umbrella) - a platform for exposing web service APIs. The basic goal of API Umbrella is to make life easier for both API creators and API consumers.
-- [rackerlabs/stacktach](https://github.com/rackerlabs/stacktach) - Event-based Monitoring & Billing solution for OpenStack
 - [PharkMillups/killer-talks](https://github.com/PharkMillups/killer-talks) - A list of talks that are worth watching.
 - [twitter-archive/twitter-text-java](https://github.com/twitter-archive/twitter-text-java) - A Java implementation of Twitter's text processing library
 - [stackforge/MRaaS](https://github.com/stackforge/MRaaS) - MapReduce as a Service
@@ -1879,7 +1879,6 @@
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - DeepPrivacy: A Generative Adversarial Network for Face Anonymization
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [microsoft/icecaps](https://github.com/microsoft/icecaps) - Intelligent Conversation Engine: Code and Pre-trained Systems. Version 0.2.0.
 - [microsoft/presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
