@@ -1821,7 +1821,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [uber/fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
