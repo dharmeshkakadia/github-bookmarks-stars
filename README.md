@@ -378,6 +378,7 @@
 - [UrbanOS-Public/kdp](https://github.com/UrbanOS-Public/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
 - [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
+- [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 
 ## Eagle 
 
@@ -2374,7 +2375,6 @@
 - [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) - Triton DataCenter: a cloud management platform with first class support for containers.
 - [HazyResearch/deepdive](https://github.com/HazyResearch/deepdive) - DeepDive
 - [lightbend/mesos-spark-integration-tests](https://github.com/lightbend/mesos-spark-integration-tests) - Mesos Integration Tests on Docker/Ec2
-- [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
