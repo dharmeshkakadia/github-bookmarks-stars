@@ -1224,7 +1224,7 @@
 - [kenfox/gc-viz](https://github.com/kenfox/gc-viz) - Animated visualizations of several garbage collection algorithms
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [SamyPesse/tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
@@ -2009,7 +2009,7 @@
 - [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
 - [b12io/orchestra](https://github.com/b12io/orchestra) - Orchestra is a human-in-the-loop AI system for orchestrating project teams of experts and machines.
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
