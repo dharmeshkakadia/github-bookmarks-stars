@@ -1644,7 +1644,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax) - Tools for JAX
 - [google/paxml](https://github.com/google/paxml) - Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading
-- [google/maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
