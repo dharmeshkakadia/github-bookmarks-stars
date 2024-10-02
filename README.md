@@ -1374,7 +1374,6 @@
 ## Nunjucks 
 
 - [ipld/ipld](https://github.com/ipld/ipld) - InterPlanetary Linked Data
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 ## OCaml 
 
@@ -2215,7 +2214,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
 - [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -2628,6 +2627,7 @@
 
 ## XSLT 
 
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [romainr/hadoop-tutorials-examples](https://github.com/romainr/hadoop-tutorials-examples) - Source, data and turotials of the blog post video series of Hue, the Web UI for Hadoop.
 
 ## Zig 
