@@ -757,7 +757,6 @@
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [odewahn/dds-field-guide](https://github.com/odewahn/dds-field-guide) - Project to track the distributed development stack (DDS).
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
-- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [ercoppa/HadoopInternals](https://github.com/ercoppa/HadoopInternals) - Diagrams describing Apache Hadoop internals (2.3.0 or later).
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -907,6 +906,7 @@
 - [Netflix/Prana](https://github.com/Netflix/Prana) - A sidecar for your NetflixOSS based services.
 - [HiveRunner/HiveRunner](https://github.com/HiveRunner/HiveRunner) - An Open Source unit test framework for Hive queries based on JUnit 4 and 5
 - [XiaoMi/themis](https://github.com/XiaoMi/themis) - Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
+- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.
 - [josephxsxn/moya](https://github.com/josephxsxn/moya) - Memcached on YARN
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
@@ -1607,11 +1607,12 @@
 
 ## Python 
 
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [magicproduct/hash-hop](https://github.com/magicproduct/hash-hop) - Long context evaluation for large language models
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design.
 - [sjmikler/progress-table](https://github.com/sjmikler/progress-table) - Display progress as a pretty table in the command line.
 - [apple/ml-4m](https://github.com/apple/ml-4m) - 4M: Massively Multimodal Masked Modeling
-- [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
+- [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [mti-lab/SVGEditBench](https://github.com/mti-lab/SVGEditBench) - A benchmark dataset for evaluating LLM's SVG editing capabilities
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
@@ -2470,6 +2471,7 @@
 
 ## TypeScript 
 
+- [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
