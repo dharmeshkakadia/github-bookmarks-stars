@@ -1526,7 +1526,7 @@
 - [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
 - [sbinet/notes-and-todos](https://github.com/sbinet/notes-and-todos) - notes about stuff
 - [aphyr/partitions-post](https://github.com/aphyr/partitions-post) - A blog post on network partitions in practice
-- [mesosphere/kubernetes-mesos](https://github.com/mesosphere/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
+- [d2iq-archive/kubernetes-mesos](https://github.com/d2iq-archive/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -1914,7 +1914,7 @@
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
 - [BYU-PCCL/holodeck](https://github.com/BYU-PCCL/holodeck) - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -2071,7 +2071,7 @@
 - [Dobiasd/programming-language-subreddits-and-their-choice-of-words](https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words) - How do the different communities talk?
 - [facebookarchive/hblog](https://github.com/facebookarchive/hblog) - A log parser for clusters
 - [wickman/pesos](https://github.com/wickman/pesos) - pesos is a pure python implementation of the mesos framework api
-- [mesosphere/RENDLER](https://github.com/mesosphere/RENDLER) - A rendering web crawler for Apache Mesos.
+- [d2iq-archive/RENDLER](https://github.com/d2iq-archive/RENDLER) - A rendering web crawler for Apache Mesos.
 - [bspaans/improviser](https://github.com/bspaans/improviser) - Musical content generation software in Python
 - [ClusterHQ/flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application
 - [numenta/nupic-legacy](https://github.com/numenta/nupic-legacy) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
