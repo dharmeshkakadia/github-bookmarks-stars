@@ -2141,7 +2141,7 @@
 - [alehander92/hivemind](https://github.com/alehander92/hivemind) - a multi-syntax language
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [kontena/kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
-- [codekitchen/dinghy](https://github.com/codekitchen/dinghy) - faster, friendlier Docker on OS X
+- [codekitchen/dinghy](https://github.com/codekitchen/dinghy) - faster, friendlier Docker on OS X. Deprecated.
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
 - [fairfaxmedia/cloudcycler](https://github.com/fairfaxmedia/cloudcycler) - Cycle AWS cloud resources on and off based on time of day
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
