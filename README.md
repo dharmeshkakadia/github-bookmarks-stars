@@ -255,7 +255,7 @@
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [dmlc/wormhole](https://github.com/dmlc/wormhole) - Deprecated
-- [mesosphere/serenity](https://github.com/mesosphere/serenity) - Intel:Mesosphere oversubscription technologies for Apache Mesos
+- [d2iq-archive/serenity](https://github.com/d2iq-archive/serenity) - Intel:Mesosphere oversubscription technologies for Apache Mesos
 - [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
@@ -665,7 +665,7 @@
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
-- [mesosphere/mesos-dns](https://github.com/mesosphere/mesos-dns) - DNS-based service discovery for Mesos.
+- [d2iq-archive/mesos-dns](https://github.com/d2iq-archive/mesos-dns) - DNS-based service discovery for Mesos.
 - [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
 - [bobrik/marathoner](https://github.com/bobrik/marathoner) - Service discovery for marathon
 - [google/novm](https://github.com/google/novm) - Experimental KVM-based VMM for containers, written in Go.
@@ -1304,6 +1304,7 @@
 - [kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference](https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference) - Real Time Big Data / IoT Machine Learning (Model Training and Inference) with HiveMQ (MQTT), TensorFlow IO and Apache Kafka - no additional data store like S3, HDFS or Spark required
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [google/modem](https://github.com/google/modem) - 
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [kubeflow/code-intelligence](https://github.com/kubeflow/code-intelligence) - ML-Powered Developer Tools, using Kubeflow
 - [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) - A Collection of GitHub Actions That Facilitate MLOps
@@ -1366,7 +1367,7 @@
 ## Mustache 
 
 - [Hydrospheredata/hydro-serving](https://github.com/Hydrospheredata/hydro-serving) - MLOps Platform
-- [mesosphere/universe](https://github.com/mesosphere/universe) - The Mesosphere Universe package repository.
+- [d2iq-archive/universe](https://github.com/d2iq-archive/universe) - The Mesosphere Universe package repository.
 
 ## NSIS 
 
@@ -1852,7 +1853,6 @@
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
-- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
@@ -1981,7 +1981,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [alexellis/repaint-the-past](https://github.com/alexellis/repaint-the-past) - Full instructions for repainting the past
 - [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) - This tool lets you Dockerize your applications using best practices to define your Dockerfile and Docker entry point files.
-- [mesosphere/marathon-autoscale](https://github.com/mesosphere/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
+- [d2iq-archive/marathon-autoscale](https://github.com/d2iq-archive/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [Azure/simdem](https://github.com/Azure/simdem) - Tool for Simulating Demo's, delivering Tutorials and using documentation as tests.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
@@ -2043,7 +2043,7 @@
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
-- [mesosphere/ANAGRAMMER](https://github.com/mesosphere/ANAGRAMMER) - An anagram finder for Apache Mesos
+- [d2iq-archive/ANAGRAMMER](https://github.com/d2iq-archive/ANAGRAMMER) - An anagram finder for Apache Mesos
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [GoogleCloudPlatform/PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed 
 - [amscanne/huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.
@@ -2293,13 +2293,13 @@
 - [velvia/ScalaStorm](https://github.com/velvia/ScalaStorm) - Harness the power and elegance of Scala with nathanmarz's Storm real-time system
 - [Banno/samza-mesos](https://github.com/Banno/samza-mesos) - This project allows to run Samza jobs on Mesos cluster
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-- [mesosphere/scala-sbt-mesos-framework.g8](https://github.com/mesosphere/scala-sbt-mesos-framework.g8) - 
-- [mesosphere/mesos-state-backed-collections](https://github.com/mesosphere/mesos-state-backed-collections) - Persistent collection types backed by implementations of the Mesos state API.
+- [d2iq-archive/scala-sbt-mesos-framework.g8](https://github.com/d2iq-archive/scala-sbt-mesos-framework.g8) - 
+- [d2iq-archive/mesos-state-backed-collections](https://github.com/d2iq-archive/mesos-state-backed-collections) - Persistent collection types backed by implementations of the Mesos state API.
 - [tresata/spark-kafka](https://github.com/tresata/spark-kafka) - Low level integration of Spark and Kafka
 - [stripe-archive/brushfire](https://github.com/stripe-archive/brushfire) - Distributed decision tree ensemble learning in Scala
 - [tumblr/colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala
 - [databricks/spark-perf](https://github.com/databricks/spark-perf) - Performance tests for Apache Spark
-- [mesosphere/mesos-utils](https://github.com/mesosphere/mesos-utils) - Utilities for building distributed systems on top of mesos
+- [d2iq-archive/mesos-utils](https://github.com/d2iq-archive/mesos-utils) - Utilities for building distributed systems on top of mesos
 - [jboner/akka-crdt](https://github.com/jboner/akka-crdt) - Server-managed CRDTs based on Akka
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [ooyala/scamr](https://github.com/ooyala/scamr) - A Hadoop map reduce framework for Scala.
@@ -2311,10 +2311,10 @@
 - [bigdatagenomics/adam](https://github.com/bigdatagenomics/adam) - ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - [tuplejump/calliope-release](https://github.com/tuplejump/calliope-release) - The repository for the G.A. codebase for Calliope. For the E.A. codebase request an early access to the development repo, http://tuplejump.github.io/calliope/
 - [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language
-- [mesosphere/tachyon-mesos](https://github.com/mesosphere/tachyon-mesos) - A Mesos Framework for Tachyon, a memory-centric distributed file system.
+- [d2iq-archive/tachyon-mesos](https://github.com/d2iq-archive/tachyon-mesos) - A Mesos Framework for Tachyon, a memory-centric distributed file system.
 - [mesosphere-backup/elasticsearch-mesos](https://github.com/mesosphere-backup/elasticsearch-mesos) - Elastic Search on Mesos
 - [andyk/cluster-scheduler-simulator](https://github.com/andyk/cluster-scheduler-simulator) - A Cluster Scheduling Simulator written in Scala. This is a clone of https://code.google.com/p/cluster-scheduler-simulator/
-- [mesosphere/mesosaurus](https://github.com/mesosphere/mesosaurus) - Mesos task load simulator framework for (cluster and Mesos) performance analysis
+- [d2iq-archive/mesosaurus](https://github.com/d2iq-archive/mesosaurus) - Mesos task load simulator framework for (cluster and Mesos) performance analysis
 - [JerryLead/SparkLearning](https://github.com/JerryLead/SparkLearning) - Learning to write Spark examples
 - [h2oai/h2o-sparkling](https://github.com/h2oai/h2o-sparkling) - DEPRECATED! Use https://github.com/h2oai/sparkling-water repository! H2O and Spark interoperability based on Tachyon.
 - [coflow/varys](https://github.com/coflow/varys) - Varys: Efficient Clairvoyant Coflow Scheduler
@@ -2333,7 +2333,7 @@
 - [rhavyn/norbert](https://github.com/rhavyn/norbert) - Norbert is a cluster manager and networking layer built on top of Zookeeper.
 - [FlowForwarding/warp](https://github.com/FlowForwarding/warp) - OpenFlow Driver in Java
 - [amplab/MLI](https://github.com/amplab/MLI) - An API for Distributed Machine Learning
-- [mesosphere/marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
+- [d2iq-archive/marathon](https://github.com/d2iq-archive/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [twitter/summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm
 - [charlesreiss/trace-analysis](https://github.com/charlesreiss/trace-analysis) - 
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
@@ -2402,7 +2402,7 @@
 - [mesosphere-backup/docker-containers](https://github.com/mesosphere-backup/docker-containers) - Dockerfiles and assets for building Docker containers
 - [theclaymethod/Foundry-vagrant-mesos-kafka-cluster](https://github.com/theclaymethod/Foundry-vagrant-mesos-kafka-cluster) - A Vagrant/Ansible =&gt; Kafka, Mesos (w/ Marathon/Docker), ZK, Hadoop, and Spark. Service discovery via HAProxy and Bamboo.
 - [sheepkiller/presto-marathon-docker](https://github.com/sheepkiller/presto-marathon-docker) - On demand presto cluster with mesos, marathon and docker.
-- [mesosphere/docker-mesos-marathon-screencast](https://github.com/mesosphere/docker-mesos-marathon-screencast) - The scripts used in the Docker Clustering on Mesos with Marathon screencast.
+- [d2iq-archive/docker-mesos-marathon-screencast](https://github.com/d2iq-archive/docker-mesos-marathon-screencast) - The scripts used in the Docker Clustering on Mesos with Marathon screencast.
 - [sdnhub/lorispack](https://github.com/sdnhub/lorispack) - Network Microsegmentation for Docker container deployments
 - [rarchk/docklock](https://github.com/rarchk/docklock) - Securing your containers... Beyond Default
 - [amplab/datascience-sp14](https://github.com/amplab/datascience-sp14) - Repository for data science course Spring 14
@@ -2419,7 +2419,7 @@
 - [prey/prey-bash-client](https://github.com/prey/prey-bash-client) - DEPRECATED - Project no longer supported, please consider using https://github.com/prey/prey-node-client instead
 - [redhat-cip/edeploy](https://github.com/redhat-cip/edeploy) - Linux systems provisioning and updating made easy
 - [analytically/hadoop-ansible](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana for monitoring and centralized log indexing.
-- [mesosphere/playa-mesos](https://github.com/mesosphere/playa-mesos) - Quickly build Mesos sandbox environments using Vagrant.  Run apps on top!
+- [d2iq-archive/playa-mesos](https://github.com/d2iq-archive/playa-mesos) - Quickly build Mesos sandbox environments using Vagrant.  Run apps on top!
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [barryclark/bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up your terminal in OSX.
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
