@@ -1608,6 +1608,7 @@
 
 ## Python 
 
+- [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
@@ -2302,7 +2303,7 @@
 - [databricks/spark-perf](https://github.com/databricks/spark-perf) - Performance tests for Apache Spark
 - [d2iq-archive/mesos-utils](https://github.com/d2iq-archive/mesos-utils) - Utilities for building distributed systems on top of mesos
 - [jboner/akka-crdt](https://github.com/jboner/akka-crdt) - Server-managed CRDTs based on Akka
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [ooyala/scamr](https://github.com/ooyala/scamr) - A Hadoop map reduce framework for Scala.
 - [gearpump/gearpump](https://github.com/gearpump/gearpump) - Lightweight real-time big data streaming engine over Akka
 - [databricks/reference-apps](https://github.com/databricks/reference-apps) - Spark reference applications
