@@ -1042,7 +1042,6 @@
 - [aurora-opensource/xviz](https://github.com/aurora-opensource/xviz) - A protocol for real-time transfer and visualization of autonomy data
 - [odyslam/ethtools](https://github.com/odyslam/ethtools) - A collection of useful tools for Ethereum users and developers alike
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
-- [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [airswap/airswap-protocols](https://github.com/airswap/airswap-protocols) - AirSwap DEX and DAO Smart Contracts and Developer Tools
@@ -1414,6 +1413,7 @@
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
+- [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - Repository archived and moved to monorepo
 - [holman/extended-exercise-windows](https://github.com/holman/extended-exercise-windows) - A list of startups that have employee-friendly terms for exercising your options past 90 days.
 - [jspahrsummers/effective-code-review](https://github.com/jspahrsummers/effective-code-review) - Presentation about my process for making code reviews as effective as possible
 - [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
@@ -1603,6 +1603,7 @@
 
 ## Python 
 
+- [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
 - [zugexiaodui/torch_flops](https://github.com/zugexiaodui/torch_flops) - A library for calculating the FLOPs in the forward() process based on torch.fx
 - [cartesia-ai/edge](https://github.com/cartesia-ai/edge) - On-device intelligence.
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
