@@ -39,6 +39,7 @@
 - [Lua](#lua)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
@@ -536,7 +537,7 @@
 - [vmware-archive/dispatch](https://github.com/vmware-archive/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [GoogleCloudPlatform/metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) - Lightweight Kubernetes controllers as a service
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [theupdateframework/go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF)
 - [lifadev/archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
@@ -1359,6 +1360,10 @@
 - [k8guard/k8guard-start-from-here](https://github.com/k8guard/k8guard-start-from-here) - Build and deploy K8Guard. Run all Make commands from this repo.
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
+## Markdown 
+
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+
 ## Mustache 
 
 - [Hydrospheredata/hydro-serving](https://github.com/Hydrospheredata/hydro-serving) - MLOps Platform
@@ -1855,7 +1860,7 @@
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [google-deepmind/dm_memorytasks](https://github.com/google-deepmind/dm_memorytasks) - A set of 13 diverse machine-learning tasks that require memory to solve.
@@ -2144,7 +2149,6 @@
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [kontena/kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
 - [codekitchen/dinghy](https://github.com/codekitchen/dinghy) - faster, friendlier Docker on OS X. Deprecated.
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
 - [fairfaxmedia/cloudcycler](https://github.com/fairfaxmedia/cloudcycler) - Cycle AWS cloud resources on and off based on time of day
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -2202,7 +2206,7 @@
 
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Purpose-built, Rust-native software engine for robotics
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -2494,7 +2498,7 @@
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks provides customizable pre‑built features that boost user engagement by adding collaboration to your product. All without derailing your roadmap.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
