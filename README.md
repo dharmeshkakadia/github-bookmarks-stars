@@ -1305,7 +1305,7 @@
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [google/modem](https://github.com/google/modem) - 
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel/BigDL](https://github.com/intel/BigDL) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [kubeflow/code-intelligence](https://github.com/kubeflow/code-intelligence) - ML-Powered Developer Tools, using Kubeflow
 - [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) - A Collection of GitHub Actions That Facilitate MLOps
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -2509,7 +2509,7 @@
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
-- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
