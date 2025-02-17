@@ -198,6 +198,7 @@
 - [mc2-project/mc2](https://github.com/mc2-project/mc2) - A Platform for Secure Analytics and Machine Learning
 - [flexflow/flexflow-train](https://github.com/flexflow/flexflow-train) - Automatically Discovering Fast Parallelization Strategies for Distributed Deep Neural Network Training
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
@@ -241,7 +242,7 @@
 - [rescrv/Consus](https://github.com/rescrv/Consus) - Consus is a geo-replicated transactional key-value store.
 - [facebookarchive/bistro](https://github.com/facebookarchive/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [eventql/eventql](https://github.com/eventql/eventql) - Distributed "massively parallel" SQL query engine
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [mldbai/mldb](https://github.com/mldbai/mldb) - MLDB is the Machine Learning Database
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [microsoft/rDSN](https://github.com/microsoft/rDSN) - Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems.
@@ -1616,7 +1617,7 @@
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 - [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - We are on a mission to make robotics available to the regular software engineers, by decoupling it from ROS and physical hardware.
-- [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
+- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
 - [zugexiaodui/torch_flops](https://github.com/zugexiaodui/torch_flops) - A library for calculating the FLOPs in the forward() process based on torch.fx
@@ -1778,7 +1779,6 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [facebookresearch/madgrad](https://github.com/facebookresearch/madgrad) - MADGRAD Optimization Method
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [jmfernandes/robin_stocks](https://github.com/jmfernandes/robin_stocks) - This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Library for translating between 200 languages. Built on 🤗 transformers.
@@ -2127,7 +2127,7 @@
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [beloglazov/openstack-neat](https://github.com/beloglazov/openstack-neat) - OpenStack Neat: A Framework for Dynamic Consolidation of Virtual Machines in OpenStack Clouds
 - [redhat-openstack/packstack](https://github.com/redhat-openstack/packstack) - Install utility to deploy OpenStack on multiple hosts. This is the GitHub mirror for https://opendev.org/x/packstack.
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [ceph/ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
 - [packetloop/packetpig](https://github.com/packetloop/packetpig) - Packetpig - Open Source Big Data Security Analytics
 
@@ -2508,7 +2508,7 @@
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
