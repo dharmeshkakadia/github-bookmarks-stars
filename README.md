@@ -112,7 +112,7 @@
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo) - DarkForest, the Facebook Go engine.
 - [ix-project/ix](https://github.com/ix-project/ix) - IX a protected dataplane operating system project
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [libos-nuse/net-next-nuse](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -207,7 +207,6 @@
 - [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [facebookresearch/rela](https://github.com/facebookresearch/rela) - Reinforcement Learning Assembly
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [StanfordSNR/gg](https://github.com/StanfordSNR/gg) - The Stanford Builder
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [trustwallet/wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -467,6 +466,7 @@
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
 - [grailbio/bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [emirozer/kubectl-doctor](https://github.com/emirozer/kubectl-doctor) - kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)
 - [lyft/flinkk8soperator](https://github.com/lyft/flinkk8soperator) - Kubernetes operator that provides control plane for managing Apache Flink applications
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -1129,7 +1129,7 @@
 - [lelandrichardson/react-primitives](https://github.com/lelandrichardson/react-primitives) - Primitive React Interfaces Across Targets
 - [streamplace/wheelhouse](https://github.com/streamplace/wheelhouse) - Swiss Army knife for Javascript + Kubernetes
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [mathieudutour/scroll-through-time](https://github.com/mathieudutour/scroll-through-time) - :hourglass: :tophat: :rabbit2: Two fingers scroll moves through time instead of space
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
@@ -1259,6 +1259,7 @@
 
 ## Jupyter Notebook 
 
+- [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 - [bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer) - This repo contains the code for 1D tokenizer and generator
 - [google-research/big_vision](https://github.com/google-research/big_vision) - Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -1867,7 +1868,7 @@
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
 - [tkp-archive/pyEX](https://github.com/tkp-archive/pyEX) - Python interface to IEX and IEX cloud APIs
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Open Source AI/ML Platform
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Deploy and Manage AI/ML Systems
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [google-deepmind/dm_memorytasks](https://github.com/google-deepmind/dm_memorytasks) - A set of 13 diverse machine-learning tasks that require memory to solve.
@@ -2494,7 +2495,7 @@
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
