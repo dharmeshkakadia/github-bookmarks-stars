@@ -37,6 +37,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -742,7 +743,6 @@
 - [BlockstreamResearch/simplicity](https://github.com/BlockstreamResearch/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jlord/forkngo](https://github.com/jlord/forkngo) - A site about how awesome Fork-n-go is!
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
@@ -1350,6 +1350,10 @@
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
+## MDX 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 ## MLIR 
 
 - [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
@@ -1614,7 +1618,7 @@
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
-- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
+- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 - [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - We are on a mission to make robotics available to the regular software engineers, by decoupling it from ROS and physical hardware.
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
@@ -1650,7 +1654,7 @@
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [NVlabs/trajdata](https://github.com/NVlabs/trajdata) - A unified interface to many trajectory forecasting datasets.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
