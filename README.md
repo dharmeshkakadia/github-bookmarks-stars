@@ -90,6 +90,7 @@
 
 ## C 
 
+- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
@@ -1109,7 +1110,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [Consensys/surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
+- [ConsenSysDiligence/surya](https://github.com/ConsenSysDiligence/surya) - A set of utilities for exploring Solidity contracts
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [endless-nameless-inc/cheshire](https://github.com/endless-nameless-inc/cheshire) - A sandbox for CryptoKitties dApp developers
 - [cslarsen/mandelbrot-js](https://github.com/cslarsen/mandelbrot-js) - Fast rendering of the Mandelbrot set in HTML5 canvas using JavaScript
@@ -2245,7 +2246,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [parallel-finance/parallel](https://github.com/parallel-finance/parallel) - A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
-- [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
+- [solana-foundation/anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
