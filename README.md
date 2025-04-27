@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [google/array_record](https://github.com/google/array_record) - 
 - [dentiny/duck-read-cache-fs](https://github.com/dentiny/duck-read-cache-fs) - This repository is made as read-only filesystem for remote access.
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [facebookresearch/momentum](https://github.com/facebookresearch/momentum) - A library for human kinematic motion and numerical optimization solvers to apply human motion
@@ -611,7 +612,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [micro/micro](https://github.com/micro/micro) - A Go microservices platform
+- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
 - [mesos/cloudfoundry-mesos](https://github.com/mesos/cloudfoundry-mesos) - Cloud Foundry on Mesos Framework
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
@@ -1611,6 +1612,7 @@
 
 ## Python 
 
+- [embodiedreasoning/ERQA](https://github.com/embodiedreasoning/ERQA) - Embodied Reasoning Question Answer (ERQA) Benchmark
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
 - [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - Motion-Controllable Video Diffusion via Warped Noise
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -1625,6 +1627,7 @@
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
+- [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - We are on a mission to make robotics available to the regular software engineers, by decoupling it from ROS and physical hardware.
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
@@ -2221,6 +2224,7 @@
 
 ## Rust 
 
+- [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [dreadnode/tensor-man](https://github.com/dreadnode/tensor-man) - A utility to inspect, validate, sign and verify machine learning model files.
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Purpose-built, Rust-native software engine for robotics
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
@@ -2375,7 +2379,6 @@
 
 ## Shell 
 
-- [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - We are on a mission to make robotics available to the regular software engineers, by decoupling it from ROS and physical hardware.
 - [NVIDIA/DL4AGX](https://github.com/NVIDIA/DL4AGX) - Deep Learning tools and applications for NVIDIA AGX platforms.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
