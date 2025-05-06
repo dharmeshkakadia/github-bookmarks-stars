@@ -1271,7 +1271,6 @@
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader) - Pytorch-like dataloaders for JAX.
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
-- [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox) - JAX-Toolbox
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1669,6 +1668,7 @@
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
 - [google/orbax](https://github.com/google/orbax) - Orbax provides common checkpointing and persistence utilities for JAX users
+- [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox) - JAX-Toolbox
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
