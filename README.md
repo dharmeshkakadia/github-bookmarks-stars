@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [google/array_record](https://github.com/google/array_record) - 
 - [dentiny/duck-read-cache-fs](https://github.com/dentiny/duck-read-cache-fs) - This repository is made as read-only filesystem for remote access.
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
@@ -1615,7 +1616,7 @@
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL) - Accelerate, Optimize performance with streamlined training and serving options with JAX.
 - [embodiedreasoning/ERQA](https://github.com/embodiedreasoning/ERQA) - Embodied Reasoning Question Answer (ERQA) Benchmark
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
-- [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - Motion-Controllable Video Diffusion via Warped Noise
+- [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ARXIV'25] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
