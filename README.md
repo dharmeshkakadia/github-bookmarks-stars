@@ -235,7 +235,7 @@
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [microsoft/ELL](https://github.com/microsoft/ELL) - Embedded Learning Library
-- [heavyai/heavydb](https://github.com/heavyai/heavydb) - HeavyDB (formerly OmniSciDB)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - HeavyDB (formerly MapD/OmniSciDB)
 - [apache/incubator-retired-quickstep](https://github.com/apache/incubator-retired-quickstep) - Apache Quickstep Incubator - This project is retired
 - [anse1/sqlsmith](https://github.com/anse1/sqlsmith) - A random SQL query generator
 - [CD3/gsc](https://github.com/CD3/gsc) - Run guided scripts for command line demos.
@@ -1617,6 +1617,8 @@
 
 ## Python 
 
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
 - [irom-princeton/dppo](https://github.com/irom-princeton/dppo) - Official implementation of Diffusion Policy Policy Optimization, arxiv 2024
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
