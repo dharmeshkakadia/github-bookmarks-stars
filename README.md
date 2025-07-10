@@ -442,7 +442,7 @@
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source ledger for fintechs
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
