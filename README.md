@@ -37,6 +37,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -417,12 +418,11 @@
 - [HyperbolicLabs/Hyper-dOS](https://github.com/HyperbolicLabs/Hyper-dOS) - Hyperbolic Distributed Operating System
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [RunLLM/aqueduct](https://github.com/RunLLM/aqueduct) - Aqueduct is no longer being maintained. Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
@@ -674,7 +674,7 @@
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [d2iq-archive/mesos-dns](https://github.com/d2iq-archive/mesos-dns) - DNS-based service discovery for Mesos.
 - [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
 - [bobrik/marathoner](https://github.com/bobrik/marathoner) - Service discovery for marathon
@@ -690,7 +690,7 @@
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
-- [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
+- [docker-archive-public/docker.libchan](https://github.com/docker-archive-public/docker.libchan) - Like Go channels over the network
 - [BrentNoorda/slfsrv](https://github.com/BrentNoorda/slfsrv) - Create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser.
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
@@ -731,7 +731,7 @@
 
 ## HCL 
 
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
 - [coreos/tectonic-installer](https://github.com/coreos/tectonic-installer) - Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 
 ## HTML 
@@ -1236,7 +1236,7 @@
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
-- [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [SamyPesse/tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
 - [keenlabs/capillary](https://github.com/keenlabs/capillary) - Storm Spout + Kafka State Inspector
@@ -1361,6 +1361,10 @@
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
+## MDX 
+
+- [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
+
 ## MLIR 
 
 - [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
@@ -1416,7 +1420,6 @@
 ## Others 
 
 - [philfung/awesome-reliable-robotics](https://github.com/philfung/awesome-reliable-robotics) - Robotics research demonstrating reliability and robustness in the real world (continuously updated)
-- [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [PJLab-ADG/awesome-knowledge-driven-AD](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD) - A curated list of awesome knowledge-driven autonomous driving (continually updated)
@@ -1622,6 +1625,8 @@
 
 ## Python 
 
+- [fal-ai/isolate](https://github.com/fal-ai/isolate) - 🛡️ Managed isolated environments for Python
+- [eth-easl/mixtera](https://github.com/eth-easl/mixtera) - A lightweight, user-friendly data-plane for LLM training.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
@@ -1645,7 +1650,7 @@
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
 - [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-- [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ICCV'25] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
+- [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ICCV'25 Oral] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -2215,7 +2220,6 @@
 - [cloudpassage/cloudpassage-chef-cookbook](https://github.com/cloudpassage/cloudpassage-chef-cookbook) - Chef cookbook for installing the CloudPassage Halo agent
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [interagent/prmd](https://github.com/interagent/prmd) - JSON Schema tools and doc generation for HTTP APIs
-- [mhamrah/ansible-mesos-playbook](https://github.com/mhamrah/ansible-mesos-playbook) - An ansible playbook for launching a mesos cluster with docker and marathon support.
 - [sarahhodne-abandoned/context-io](https://github.com/sarahhodne-abandoned/context-io) - ContextIO is a Ruby wrapper for the Context.IO web service.
 - [scribtex/clsi](https://github.com/scribtex/clsi) - An implementation of the Common LaTeX Service Interface using Ruby on Rails
 - [mdsol/marathon_cookbook](https://github.com/mdsol/marathon_cookbook) - Application cookbook for installing Mesosphere's Marathon. Marathon is an Apache Mesos framework for long-running services.
@@ -2546,11 +2550,13 @@
 
 ## TypeScript 
 
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
