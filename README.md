@@ -1625,10 +1625,11 @@
 
 ## Python 
 
+- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework aiming for RL Scaling.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
-- [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python.
+- [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~300 lines) event loop for Python.
 - [fal-ai/isolate](https://github.com/fal-ai/isolate) - 🛡️ Managed isolated environments for Python
 - [eth-easl/mixtera](https://github.com/eth-easl/mixtera) - A lightweight, user-friendly data-plane for LLM training.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -1652,7 +1653,7 @@
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL) - Accelerate, Optimize performance with streamlined training and serving options with JAX.
 - [embodiedreasoning/ERQA](https://github.com/embodiedreasoning/ERQA) - Embodied Reasoning Question Answer (ERQA) Benchmark
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
-- [Eyeline-Research/Go-with-the-Flow](https://github.com/Eyeline-Research/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
+- [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ICCV'25 Oral] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
