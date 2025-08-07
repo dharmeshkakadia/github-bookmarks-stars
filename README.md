@@ -92,7 +92,7 @@
 ## C 
 
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
-- [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Business Operating System
+- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
@@ -1051,7 +1051,7 @@
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding with CSS
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [a16z/zkp-merkle-airdrop-lib](https://github.com/a16z/zkp-merkle-airdrop-lib) - 
 - [a16z/zkdrops](https://github.com/a16z/zkdrops) - Private airdrops for Ethereum.
@@ -1625,6 +1625,7 @@
 
 ## Python 
 
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is a LLM post-training framework aiming for RL Scaling.
@@ -2267,6 +2268,7 @@
 
 ## Rust 
 
+- [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
