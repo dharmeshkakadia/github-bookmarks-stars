@@ -36,6 +36,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [MLIR](#mlir)
@@ -736,6 +737,7 @@
 
 ## HTML 
 
+- [Kai-46/minFM](https://github.com/Kai-46/minFM) - 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
@@ -1272,6 +1274,7 @@
 
 ## Jupyter Notebook 
 
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [ByteDance-Seed/Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL) - Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning, achieving state-of-the-art performance on 38 out of 60 public benchmarks.
 - [bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer) - This repo contains the code for 1D tokenizer and generator
 - [google-research/big_vision](https://github.com/google-research/big_vision) - Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.
@@ -1281,7 +1284,7 @@
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [huggingface/setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collectio
@@ -1352,6 +1355,10 @@
 - [KronicDeth/intellij-elixir](https://github.com/KronicDeth/intellij-elixir) - Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
 - [orbit/orbit](https://github.com/orbit/orbit) - Orbit - Virtual actor framework for building distributed systems
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+## Lean 
+
+- [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 
 ## Lua 
 
@@ -1637,7 +1644,6 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [google-deepmind/gemini-robotics-sdk](https://github.com/google-deepmind/gemini-robotics-sdk) - 
@@ -1646,7 +1652,7 @@
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [breuleux/ovld](https://github.com/breuleux/ovld) - Advanced multiple dispatch for Python functions
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
@@ -1757,7 +1763,7 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -1895,7 +1901,7 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [google-parfait/tensorflow-federated](https://github.com/google-parfait/tensorflow-federated) - An open-source framework for machine learning and other computations on decentralized data.
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
