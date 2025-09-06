@@ -486,7 +486,6 @@
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [palantir/k8s-spark-scheduler-lib](https://github.com/palantir/k8s-spark-scheduler-lib) - Kubernetes CRDs and API definitions used by the k8s-spark-scheduler and other related services
-- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 - [kubeflow/mxnet-operator](https://github.com/kubeflow/mxnet-operator) - A Kubernetes operator for mxnet jobs
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
@@ -1688,7 +1687,7 @@
 - [mti-lab/SVGEditBench](https://github.com/mti-lab/SVGEditBench) - A benchmark dataset for evaluating LLM's SVG editing capabilities
 - [stanfordnlp/pyreft](https://github.com/stanfordnlp/pyreft) - Stanford NLP Python library for Representation Finetuning (ReFT)
 - [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
-- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Inference engine powering open source models on OpenRouter
+- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Deprecated inference engine
 - [kscalelabs/sim](https://github.com/kscalelabs/sim) - Training in simulation
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 - [thuml/depyf](https://github.com/thuml/depyf) - depyf is a tool to help you understand and adapt to PyTorch compiler torch.compile.
