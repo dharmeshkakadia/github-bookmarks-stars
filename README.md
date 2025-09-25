@@ -91,6 +91,7 @@
 
 ## C 
 
+- [facebookresearch/moodist](https://github.com/facebookresearch/moodist) - moodist
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
@@ -563,6 +564,7 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -1626,6 +1628,9 @@
 
 ## Python 
 
+- [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen) - Simple high-throughput inference library
+- [facebookresearch/cwm](https://github.com/facebookresearch/cwm) - Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [kvfrans/lmpo](https://github.com/kvfrans/lmpo) - 
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward diffusion models.
 - [NousResearch/atropos](https://github.com/NousResearch/atropos) - Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments
@@ -2051,7 +2056,6 @@
 - [yunjey/stargan](https://github.com/yunjey/stargan) - StarGAN - Official PyTorch Implementation (CVPR 2018)
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [alexellis/repaint-the-past](https://github.com/alexellis/repaint-the-past) - Full instructions for repainting the past
-- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
 - [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) - This tool lets you Dockerize your applications using best practices to define your Dockerfile and Docker entry point files.
 - [d2iq-archive/marathon-autoscale](https://github.com/d2iq-archive/marathon-autoscale) - Simple Proof-of-Concept for Scaling Application running on Marathon based on Utilization
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
@@ -2272,6 +2276,7 @@
 
 ## Rust 
 
+- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
