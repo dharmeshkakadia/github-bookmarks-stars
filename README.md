@@ -1131,7 +1131,7 @@
 - [cslarsen/mandelbrot-js](https://github.com/cslarsen/mandelbrot-js) - Fast rendering of the Mandelbrot set in HTML5 canvas using JavaScript
 - [chatch/hashed-timelock-contract-ethereum](https://github.com/chatch/hashed-timelock-contract-ethereum) - Hashed Timelock Contracts for ETH, ERC20 and ERC721 on Ethereum
 - [functionalfoundry/ethereum-htlc](https://github.com/functionalfoundry/ethereum-htlc) - HTLC for doing cross-chain atomic swaps
-- [trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
+- [ConsenSys-archive/ganache-cli-archive](https://github.com/ConsenSys-archive/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [ElementsProject/paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning :zap:
@@ -1365,6 +1365,7 @@
 
 - [hishamhm/userland-prototype](https://github.com/hishamhm/userland-prototype) - Proof-of-concept prototype for Userland
 - [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) - Torch implementation of DeepMask and SharpMask
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
@@ -1509,7 +1510,6 @@
 - [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [t3rmin4t0r/notes](https://github.com/t3rmin4t0r/notes) - Random implementation notes
 - [dennybritz/startupreadings](https://github.com/dennybritz/startupreadings) - Reading list for all things startup-related
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
@@ -1766,7 +1766,7 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -1789,7 +1789,7 @@
 - [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
 - [microsoft/msrflute](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation
-- [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
+- [meta-pytorch/captum](https://github.com/meta-pytorch/captum) - Model interpretability and understanding for PyTorch
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [minimaxir/imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -1825,7 +1825,7 @@
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful ML workflow builder.  This is part of the CASL project: http://casl-project.ai/
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1850,7 +1850,7 @@
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality testing for the modern data stack (SQL, Spark, and Pandas) https://www.soda.io
-- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps for Reliable AI: from Classical AI to Agents. https://zenml.io.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps for Reliable AI: from Classical ML to Agents. https://zenml.io.
 - [Lightning-Universe/lightning-flash](https://github.com/Lightning-Universe/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
@@ -2682,7 +2682,7 @@
 - [coinbase/coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit) - DEPRECATED — The Coinbase Pro trading toolkit
 - [Consensys/ethql](https://github.com/Consensys/ethql) - A GraphQL interface to Ethereum :fire:
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
-- [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
+- [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [dharmaprotocol/charta](https://github.com/dharmaprotocol/charta) - New & improved contracts for Dharma protocol
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
