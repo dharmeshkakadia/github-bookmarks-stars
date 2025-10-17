@@ -471,7 +471,6 @@
 - [moov-io/ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
 - [moov-io/metro2](https://github.com/moov-io/metro2) - Open Source Metro 2 consumer credit history report for credit report file creation and validation
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -914,6 +913,7 @@
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [amazon-archives/ecs-mesos-scheduler-driver](https://github.com/amazon-archives/ecs-mesos-scheduler-driver) - Amazon ECS Scheduler Driver
 - [carrotsearch/hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections for Java
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [codelibs/fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see
@@ -1516,7 +1516,6 @@
 - [dennybritz/startupreadings](https://github.com/dennybritz/startupreadings) - Reading list for all things startup-related
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [HelloGrayson/compose-mesos](https://github.com/HelloGrayson/compose-mesos) - Run Mesos in Docker with Docker Compose!
 - [GoogleCloudPlatform/DataflowJavaSDK](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) - Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -1908,6 +1907,7 @@
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [google-parfait/tensorflow-federated](https://github.com/google-parfait/tensorflow-federated) - An open-source framework for machine learning and other computations on decentralized data.
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
