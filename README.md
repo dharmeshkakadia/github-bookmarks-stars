@@ -98,7 +98,6 @@
 
 - [facebookresearch/moodist](https://github.com/facebookresearch/moodist) - moodist
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
-- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
@@ -194,6 +193,7 @@
 - [facebookresearch/momentum](https://github.com/facebookresearch/momentum) - A library for human kinematic motion and numerical optimization solvers to apply human motion
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
+- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -913,7 +913,6 @@
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [amazon-archives/ecs-mesos-scheduler-driver](https://github.com/amazon-archives/ecs-mesos-scheduler-driver) - Amazon ECS Scheduler Driver
 - [carrotsearch/hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections for Java
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [codelibs/fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see
@@ -1516,6 +1515,7 @@
 - [dennybritz/startupreadings](https://github.com/dennybritz/startupreadings) - Reading list for all things startup-related
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [HelloGrayson/compose-mesos](https://github.com/HelloGrayson/compose-mesos) - Run Mesos in Docker with Docker Compose!
 - [GoogleCloudPlatform/DataflowJavaSDK](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) - Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -1834,7 +1834,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
-- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [logicalclocks/maggy](https://github.com/logicalclocks/maggy) - Distribution transparent Machine Learning experiments on Apache Spark
 - [apache/incubator-liminal](https://github.com/apache/incubator-liminal) - Apache Liminals goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validati
 - [world-federation-of-advertisers/cardinality_estimation_evaluation_framework](https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework) - Evaluation framework and methods for estimating cardinalities of groups of sets
@@ -2129,7 +2129,7 @@
 - [thefactory/autoscale-python](https://github.com/thefactory/autoscale-python) - Python library to manage autoscaling logic and actions
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [dirkneumann/deepdist](https://github.com/dirkneumann/deepdist) - Distributed Deep Learning on Spark
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [ceteri/jem-video](https://github.com/ceteri/jem-video) - A companion wiki + code repository for the O'Reilly Media video "Just Enough Math". This site provides additional links, sample code, and other addenda.
 - [pybrain/pybrain](https://github.com/pybrain/pybrain) - 
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
@@ -2696,7 +2696,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
