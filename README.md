@@ -1834,7 +1834,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
-- [baserow/baserow](https://github.com/baserow/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to creat
 - [logicalclocks/maggy](https://github.com/logicalclocks/maggy) - Distribution transparent Machine Learning experiments on Apache Spark
 - [apache/incubator-liminal](https://github.com/apache/incubator-liminal) - Apache Liminals goal is to operationalise the machine learning process, allowing data scientists to quickly transition from a successful experiment to an automated pipeline of model training, validati
 - [world-federation-of-advertisers/cardinality_estimation_evaluation_framework](https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework) - Evaluation framework and methods for estimating cardinalities of groups of sets
