@@ -96,6 +96,7 @@
 
 ## C 
 
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [facebookresearch/moodist](https://github.com/facebookresearch/moodist) - moodist
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
@@ -447,7 +448,7 @@
 - [project-codeflare/multi-cluster-app-dispatcher](https://github.com/project-codeflare/multi-cluster-app-dispatcher) - Holistic job manager on Kubernetes
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [formancehq/machine](https://github.com/formancehq/machine) - A virtual machine for money movements (Move to the Stack repo)
-- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source ledger for fintechs
+- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
@@ -1715,7 +1716,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [google-deepmind/penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
-- [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/kubetorch](https://github.com/run-house/kubetorch) - Distribute and run AI workloads on Kubernetes magically in Python, like PyTorch for ML infra.
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
