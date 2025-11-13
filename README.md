@@ -1678,7 +1678,7 @@
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
 - [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-- [KwaiVGI/ReCamMaster](https://github.com/KwaiVGI/ReCamMaster) - [ICCV'25 Best Paper Finalist] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
+- [KlingTeam/ReCamMaster](https://github.com/KlingTeam/ReCamMaster) - [ICCV'25 Best Paper Finalist] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -1838,7 +1838,7 @@
 - [dask-contrib/dask-sql](https://github.com/dask-contrib/dask-sql) - Distributed SQL Engine in Python using Dask
 - [asyml/forte](https://github.com/asyml/forte) - Forte is a flexible and powerful ML workflow builder.  This is part of the CASL project: http://casl-project.ai/
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -2042,7 +2042,7 @@
 - [algorithmiaio/danku](https://github.com/algorithmiaio/danku) - Exchange ML models in a trustless manner!
 - [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [carlomazzaferro/kryptoflow](https://github.com/carlomazzaferro/kryptoflow) - Real-time analysis of bitcoin markets with Kafka and Tensorflow Serving
 - [openuado/niet](https://github.com/openuado/niet) - Parse/Read yaml or json files directly in your shell (sh, bash, ksh, ...)
@@ -2310,7 +2310,7 @@
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
@@ -2581,6 +2581,7 @@
 
 ## TypeScript 
 
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
@@ -2668,7 +2669,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [wix-incubator/quix](https://github.com/wix-incubator/quix) - Quix Notebook Manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
@@ -2705,7 +2706,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
