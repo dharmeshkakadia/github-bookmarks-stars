@@ -196,7 +196,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
-- [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
+- [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++20 GPU numerical computing library with Python-like syntax
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
@@ -454,7 +454,7 @@
 - [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -856,7 +856,7 @@
 - [cmu-db/peloton-test](https://github.com/cmu-db/peloton-test) - SQL Testing Framework for the Peloton DBMS
 - [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
-- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [rawls238/Scientist4J](https://github.com/rawls238/Scientist4J) - A port of Github's Refactoring tool Scientist in Java
 - [ratpack/ratpack](https://github.com/ratpack/ratpack) - Lean & powerful HTTP apps
@@ -2288,7 +2288,7 @@
 
 ## Rust 
 
-- [portofcontext/pctx](https://github.com/portofcontext/pctx) - The pctx framework replaces LLM tool calling with a Code Mode that runs in secure sandboxes.
+- [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for production agentic AI. Secure, token-efficient connections to tools, data, and APIs.
 - [reductstore/reductstore](https://github.com/reductstore/reductstore) - High Performance Storage and Streaming Solution for Data Acquisition Systems
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
@@ -2562,7 +2562,7 @@
 - [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [agens-no/swiff](https://github.com/agens-no/swiff) - Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [pixelspark/catena](https://github.com/pixelspark/catena) - Catena is a distributed database based on a blockchain, accessible using SQL.
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 
 ## TeX 
 
