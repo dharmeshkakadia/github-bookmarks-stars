@@ -1631,6 +1631,10 @@
 
 ## Python 
 
+- [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.
+- [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - 
 - [davidkim205/nox](https://github.com/davidkim205/nox) - Efficient fine-tuning for ko-llm models
 - [getsentry/snuba](https://github.com/getsentry/snuba) - Search the seas for your lost treasure.
 - [morphicfilms/frames-to-video](https://github.com/morphicfilms/frames-to-video) - 
@@ -1779,7 +1783,7 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -1935,7 +1939,7 @@
 - [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for SARS-CoV-2
 - [marvinbuss/MLDevOps](https://github.com/marvinbuss/MLDevOps) - ML DevOps using GitHub Actions and Azure Machine Learning
 - [reiinakano/scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
-- [kubeflow-kale/kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
+- [kubeflow/kale](https://github.com/kubeflow/kale) - Kubeflow’s superfood for Data Scientists
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel) - A simple and efficient tool to parallelize Pandas operations on all available CPUs
@@ -2604,7 +2608,7 @@
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks gives you the building blocks and infrastructure to enable people and AI to work together inside your app.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
