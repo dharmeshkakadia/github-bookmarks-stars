@@ -707,7 +707,7 @@
 - [QubitProducts/bamboo](https://github.com/QubitProducts/bamboo) - HAProxy auto configuration and auto service discovery for Mesos Marathon
 - [marmelab/gaudi](https://github.com/marmelab/gaudi) - Gaudi allows to share multi-component applications, based on Docker, Go, and YAML.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
+- [YelpArchive/dockersh](https://github.com/YelpArchive/dockersh) - A shell which places users into individual docker containers
 - [opencredo/mesos_service_discovery](https://github.com/opencredo/mesos_service_discovery) - Service Discovery script for Mesos and Marathon
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -1645,9 +1645,9 @@
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
 - [pytorch/helion](https://github.com/pytorch/helion) - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
+- [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - [ICLR 2026] Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
 - [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen) - Simple high-throughput inference library
 - [facebookresearch/cwm](https://github.com/facebookresearch/cwm) - Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -1671,7 +1671,7 @@
 - [google-deepmind/gemini-robotics-sdk](https://github.com/google-deepmind/gemini-robotics-sdk) - 
 - [hgaurav2k/hop](https://github.com/hgaurav2k/hop) - Hand-object interaction Pretraining From Videos
 - [alibaba/ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - Build. Observe. Iterate. Ship.
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
@@ -1696,7 +1696,7 @@
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
 - [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - Realtime API for Lucky World simulator with ROS-like interface
-- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+- [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
 - [zugexiaodui/torch_flops](https://github.com/zugexiaodui/torch_flops) - A library for calculating the FLOPs in the forward() process based on torch.fx
@@ -1868,7 +1868,7 @@
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [samuelcolvin/notbook](https://github.com/samuelcolvin/notbook) - An argument that Jupyter Notebooks are flawed and the world needs a successor.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
-- [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality testing for the modern data stack (SQL, Spark, and Pandas) https://www.soda.io
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data Contracts engine for the modern data stack. https://www.soda.io
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
 - [Lightning-Universe/lightning-flash](https://github.com/Lightning-Universe/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
@@ -2095,7 +2095,7 @@
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [deepgram/kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
+- [YelpArchive/elastalert](https://github.com/YelpArchive/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [douban/tfmesos](https://github.com/douban/tfmesos) - Tensorflow in Docker on Mesos #tfmesos #tensorflow #mesos
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) - A batch-optimized scaling manager for Kubernetes
@@ -2309,7 +2309,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [dreadnode/tensor-man](https://github.com/dreadnode/tensor-man) - A utility to inspect, validate, sign and verify machine learning model files.
-- [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is to robots what a game engine is to games - build, run, and replay your entire robot deterministically.
+- [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
