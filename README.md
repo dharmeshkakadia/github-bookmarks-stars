@@ -295,7 +295,7 @@
 - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [maidsafe-archive/MaidSafe](https://github.com/maidsafe-archive/MaidSafe) - This is the super-project in which each MaidSafe library resides. Some information is common to all libraries, and is detailed here. Library-specific information can be found in each library's wiki.
-- [Yelp/MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
+- [YelpArchive/MOE](https://github.com/YelpArchive/MOE) - A global, black box optimization engine for real world metric optimization.
 - [uwsampa/grappa](https://github.com/uwsampa/grappa) - Grappa: scaling irregular applications on commodity clusters
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
@@ -571,7 +571,7 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
-- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
@@ -2200,7 +2200,7 @@
 - [ibmcb/cbtool](https://github.com/ibmcb/cbtool) - Cloud Rapid Experimentation and Analysis Toolkit
 - [dfm/osrc](https://github.com/dfm/osrc) - The Open Source Report Card
 - [toddlipcon/haatkit](https://github.com/toddlipcon/haatkit) - Toolkit of simple scripts useful for managing Hadoop
-- [Yelp/EMRio](https://github.com/Yelp/EMRio) - Elastic MapReduce instance optimizer
+- [YelpArchive/EMRio](https://github.com/YelpArchive/EMRio) - Elastic MapReduce instance optimizer
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [beloglazov/openstack-neat](https://github.com/beloglazov/openstack-neat) - OpenStack Neat: A Framework for Dynamic Consolidation of Virtual Machines in OpenStack Clouds
