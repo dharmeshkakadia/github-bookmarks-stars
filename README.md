@@ -1672,7 +1672,6 @@
 - [google-deepmind/gemini-robotics-sdk](https://github.com/google-deepmind/gemini-robotics-sdk) - 
 - [hgaurav2k/hop](https://github.com/hgaurav2k/hop) - Hand-object interaction Pretraining From Videos
 - [alibaba/ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
@@ -2591,10 +2590,11 @@
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 - [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
