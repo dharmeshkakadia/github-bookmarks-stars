@@ -1207,7 +1207,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [spark-notebook/spark-notebook](https://github.com/spark-notebook/spark-notebook) - Interactive and Reactive Data Science using Scala and Spark.
 - [yannrichet/rsession](https://github.com/yannrichet/rsession) - R sessions wrapping for Java
-- [chanian/hyperlogsandwich](https://github.com/chanian/hyperlogsandwich) - 
+- [chanian/hyperlogsandwich](https://github.com/chanian/hyperlogsandwich) - A probabilistic data structure for frequency/k-occurrence cardinality estimation of multisets.
 - [berrberr/streamkeys](https://github.com/berrberr/streamkeys) - Global media player hotkeys for chrome
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
@@ -1234,7 +1234,6 @@
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [bobrik/pupergrep](https://github.com/bobrik/pupergrep) - Real-time grep for your logs right in your favorite modern browser made with Twitter Bootstrap.
 - [nqn/angstrom](https://github.com/nqn/angstrom) - Ångström: Scalable, self-hosted internal metrics collection for Mesos
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [stefanjudis/perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [genomejs/gql](https://github.com/genomejs/gql) - Genome query language
@@ -1779,7 +1778,7 @@
 - [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a Bayesian Inference library designed for ease of use, speed and modularity.
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development platform
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
@@ -1991,7 +1990,7 @@
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [zipline-live/zipline](https://github.com/zipline-live/zipline) - Zipline-Live, a Pythonic Algorithmic Trading Library
 - [amzn/metalearn-leap](https://github.com/amzn/metalearn-leap) - Original PyTorch implementation of the Leap meta-learner (https://arxiv.org/abs/1812.01054) along with code for running the Omniglot experiment presented in the paper.
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [thinkingmachines/geomancer](https://github.com/thinkingmachines/geomancer) - Automated feature engineering for geospatial data
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
@@ -2231,7 +2230,7 @@
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [LedgerSync/ledger_sync](https://github.com/LedgerSync/ledger_sync) - Sync to QuickBooks, Xero, NetSuite, and more.
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [slackhq/magic-cli](https://github.com/slackhq/magic-cli) - 
 - [bloomberg/chef-bach](https://github.com/bloomberg/chef-bach) - Chef recipes for Bloomberg's deployment of Hadoop and related components
 - [reenhanced/gitreflow](https://github.com/reenhanced/gitreflow) - Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.
@@ -2739,6 +2738,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## V 
