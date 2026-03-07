@@ -1422,6 +1422,7 @@
 
 ## Others 
 
+- [seelikat/neuro-visual-reconstruction-dataset-index](https://github.com/seelikat/neuro-visual-reconstruction-dataset-index) - Index and overview of neuroimaging datasets for visual perception reconstruction.
 - [philfung/awesome-reliable-robotics](https://github.com/philfung/awesome-reliable-robotics) - Robotics research demonstrating reliability and robustness in the real world (continuously updated)
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -2592,7 +2593,7 @@
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
