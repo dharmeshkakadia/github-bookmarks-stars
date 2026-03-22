@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [facontidavide/cloudini](https://github.com/facontidavide/cloudini) - Pointcloud compression library
 - [run-ai/runai-model-streamer](https://github.com/run-ai/runai-model-streamer) - 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [google/array_record](https://github.com/google/array_record) - 
@@ -214,7 +215,7 @@
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
@@ -456,7 +457,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
@@ -1600,7 +1601,7 @@
 
 ## Perl 
 
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [RexOps/Rex](https://github.com/RexOps/Rex) - Rex, the friendly automation framework
 
@@ -1630,6 +1631,7 @@
 
 ## Python 
 
+- [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
 - [dbreunig/plumb](https://github.com/dbreunig/plumb) - A tool for keeping things true.
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
 - [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
@@ -1700,7 +1702,7 @@
 - [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
 - [zugexiaodui/torch_flops](https://github.com/zugexiaodui/torch_flops) - A library for calculating the FLOPs in the forward() process based on torch.fx
 - [cartesia-ai/edge](https://github.com/cartesia-ai/edge) - On-device intelligence.
-- [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+- [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
@@ -2294,6 +2296,7 @@
 
 ## Rust 
 
+- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
@@ -2307,7 +2310,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [dreadnode/tensor-man](https://github.com/dreadnode/tensor-man) - A utility to inspect, validate, sign and verify machine learning model files.
@@ -2463,7 +2466,6 @@
 
 ## Shell 
 
-- [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [NVIDIA/DL4AGX](https://github.com/NVIDIA/DL4AGX) - Deep Learning tools and applications for NVIDIA AGX platforms.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
@@ -2596,6 +2598,7 @@
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+- [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -2701,7 +2704,7 @@
 - [kern/gifty](https://github.com/kern/gifty) - :gift: Send NFTs via a URL/SMS (API & bridge service) — ETHSanFrancisco 2018
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
