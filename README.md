@@ -215,7 +215,7 @@
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) - A library for building an in-memory, Adaptive Learned indEX
@@ -426,7 +426,7 @@
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [HyperbolicLabs/Hyper-dOS](https://github.com/HyperbolicLabs/Hyper-dOS) - Hyperbolic Distributed Operating System
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -757,7 +757,6 @@
 - [lethain/staff-eng](https://github.com/lethain/staff-eng) - Collection of stories of how folks have reached Staff-plus roles in technology.
 - [renatoviolin/T5-paraphrase-generation](https://github.com/renatoviolin/T5-paraphrase-generation) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [chrisjsewell/ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [uetchy/math-api](https://github.com/uetchy/math-api) - Put LaTeX Math equation on everywhere as &lt;img&gt; tag.
@@ -1054,6 +1053,7 @@
 
 ## JavaScript 
 
+- [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native macOS micro-UI for scripts and agents — sub-50ms WKWebView windows with bidirectional JSON communication
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -1639,6 +1639,7 @@
 - [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [davidkim205/nox](https://github.com/davidkim205/nox) - Efficient fine-tuning for ko-llm models
 - [getsentry/snuba](https://github.com/getsentry/snuba) - Search the seas for your lost treasure.
 - [morphicfilms/frames-to-video](https://github.com/morphicfilms/frames-to-video) - 
@@ -1661,7 +1662,6 @@
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [patrick-kidger/tinyio](https://github.com/patrick-kidger/tinyio) - Ever used asyncio and wished you hadn't? A tiny (~400 lines) event loop for Python.
-- [fal-ai/isolate](https://github.com/fal-ai/isolate) - 🛡️ Managed isolated environments for Python
 - [eth-easl/mixtera](https://github.com/eth-easl/mixtera) - A lightweight, user-friendly data-plane for LLM training.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
@@ -1695,7 +1695,7 @@
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
-- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
+- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
 - [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - Python SDK for LuckyEngine robotics simulation
 - [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
@@ -1898,6 +1898,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
 - [adapter-hub/adapters](https://github.com/adapter-hub/adapters) - A Unified Library for Parameter-Efficient and Modular Transfer Learning
+- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spa
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -1938,6 +1939,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytorch/elastic](https://github.com/pytorch/elastic) - PyTorch elastic training
 - [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio) - Medical imaging processing for AI applications.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [jupyter-widgets-contrib/ipysheet](https://github.com/jupyter-widgets-contrib/ipysheet) - Jupyter handsontable integration
 - [nextstrain/ncov](https://github.com/nextstrain/ncov) - Nextstrain build for SARS-CoV-2
 - [marvinbuss/MLDevOps](https://github.com/marvinbuss/MLDevOps) - ML DevOps using GitHub Actions and Azure Machine Learning
@@ -1987,7 +1989,7 @@
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [codesociety/friartuck](https://github.com/codesociety/friartuck) - Live Quant Trading Framework for Robinhood, using IEX Trading and AlphaVantage for Free Prices.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [src-d/ml-core](https://github.com/src-d/ml-core) - source{d} MLonCode foundation - core algorithms and models.
 - [github/argo-ml](https://github.com/github/argo-ml) - Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -2310,7 +2312,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
 - [dreadnode/tensor-man](https://github.com/dreadnode/tensor-man) - A utility to inspect, validate, sign and verify machine learning model files.
@@ -2592,7 +2594,7 @@
 
 ## TypeScript 
 
-- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
