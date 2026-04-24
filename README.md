@@ -260,7 +260,6 @@
 - [eventql/eventql](https://github.com/eventql/eventql) - Distributed "massively parallel" SQL query engine
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [mldbai/mldb](https://github.com/mldbai/mldb) - MLDB is the Machine Learning Database
-- [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [microsoft/rDSN](https://github.com/microsoft/rDSN) - Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems.
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -456,7 +455,7 @@
 - [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [textileio/go-threads](https://github.com/textileio/go-threads) - Server-less p2p database built on libp2p
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-- [onflow/flow-go](https://github.com/onflow/flow-go) - A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
+- [onflow/flow-go](https://github.com/onflow/flow-go) - Reference implementation of the Flow network in Go. Layer 1 proof-of-stake protocol built for consumer apps, AI Agents, and DeFi at scale
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
@@ -618,7 +617,7 @@
 - [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [coreos/ksched](https://github.com/coreos/ksched) - Experimental flow-based Kubernetes scheduler
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [hyperhq/runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [sourcegraph/appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
@@ -748,7 +747,6 @@
 
 ## HTML 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Kai-46/minFM](https://github.com/Kai-46/minFM) - 
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -1620,7 +1618,7 @@
 - [ashishthaps/HDInsightClusterResizeWithDotNet-](https://github.com/ashishthaps/HDInsightClusterResizeWithDotNet-) - Sample C# console app to resize your cluster grammatically.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
-- [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+- [chocolatey-community/boxstarter](https://github.com/chocolatey-community/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 
 ## Prolog 
 
@@ -1637,6 +1635,14 @@
 
 ## Python 
 
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+- [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels) - A kernel library written in tilelang
+- [NVlabs/Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo) - [CVPR 2026] Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
+- [openxla/tokamax](https://github.com/openxla/tokamax) - Tokamax: A GPU and TPU kernel library.
+- [inclusionAI/cuLA](https://github.com/inclusionAI/cuLA) - CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++.
+- [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations for emerging model architectures
+- [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) - The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
+- [google/tunix](https://github.com/google/tunix) - A Lightweight LLM Post-Training Library
 - [RLinf/RLinf](https://github.com/RLinf/RLinf) - RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI
 - [mit-ll-responsible-ai/hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen) - Create powerful Hydra applications without the yaml files and boilerplate code.
 - [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
@@ -1704,7 +1710,7 @@
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
 - [luckyrobots/luckyrobots](https://github.com/luckyrobots/luckyrobots) - Python SDK for LuckyEngine robotics simulation
-- [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
+- [verl-project/verl](https://github.com/verl-project/verl) - verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [BasisResearch/chirho](https://github.com/BasisResearch/chirho) - An experimental language for causal reasoning
 - [zugexiaodui/torch_flops](https://github.com/zugexiaodui/torch_flops) - A library for calculating the FLOPs in the forward() process based on torch.fx
@@ -1763,7 +1769,7 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [facebookresearch/hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
@@ -1794,7 +1800,7 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -2001,7 +2007,7 @@
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [zipline-live/zipline](https://github.com/zipline-live/zipline) - Zipline-Live, a Pythonic Algorithmic Trading Library
 - [amzn/metalearn-leap](https://github.com/amzn/metalearn-leap) - Original PyTorch implementation of the Leap meta-learner (https://arxiv.org/abs/1812.01054) along with code for running the Omniglot experiment presented in the paper.
-- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [GeoNode/geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [thinkingmachines/geomancer](https://github.com/thinkingmachines/geomancer) - Automated feature engineering for geospatial data
 - [NVlabs/SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
@@ -2603,6 +2609,8 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
@@ -2615,7 +2623,7 @@
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
