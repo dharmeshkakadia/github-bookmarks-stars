@@ -188,6 +188,7 @@
 
 - [alibaba/tair-kvcache](https://github.com/alibaba/tair-kvcache) - Alibaba Cloud's high-performance KVCache system for LLM inference, with components for global cache management, inference simulation(HiSim), and more.
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
+- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [facontidavide/cloudini](https://github.com/facontidavide/cloudini) - Pointcloud compression library
 - [run-ai/runai-model-streamer](https://github.com/run-ai/runai-model-streamer) - 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -2313,7 +2314,6 @@
 ## Rust 
 
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
-- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
