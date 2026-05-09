@@ -30,7 +30,6 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
@@ -186,6 +185,7 @@
 
 ## C++ 
 
+- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [alibaba/tair-kvcache](https://github.com/alibaba/tair-kvcache) - Alibaba Cloud's high-performance KVCache system for LLM inference, with components for global cache management, inference simulation(HiSim), and more.
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
@@ -804,10 +804,6 @@
 - [kadena-io/juno](https://github.com/kadena-io/juno) - Smart Contracts Running on a BFT Hardened Raft
 - [hailstorm-hs/hailstorm](https://github.com/hailstorm-hs/hailstorm) - Haskell distributed stream processing with exactly-once semantics
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
@@ -872,7 +868,6 @@
 - [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) - Machine Learning Platform and Recommendation Engine built on Kubernetes
 - [ground-context/ground](https://github.com/ground-context/ground) - An open-source, vendor-neutral data context service.
 - [linkedin/dr-elephant](https://github.com/linkedin/dr-elephant) - Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [crashub/crash](https://github.com/crashub/crash) - The shell for the Java Platform
 - [qubole/quark](https://github.com/qubole/quark) - Quark is a data virtualization engine over analytic databases.
 - [CorfuDB/CorfuDB](https://github.com/CorfuDB/CorfuDB) - A cluster consistency platform
@@ -1385,6 +1380,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Mustache 
@@ -1482,7 +1478,7 @@
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -1653,7 +1649,7 @@
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
 - [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
 - [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
-- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - Declarative and incremental backend for multimodal AI applications
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
@@ -1669,7 +1665,7 @@
 - [nv-tlabs/lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 - [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen) - Simple high-throughput inference library
 - [facebookresearch/cwm](https://github.com/facebookresearch/cwm) - Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [kvfrans/lmpo](https://github.com/kvfrans/lmpo) - 
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward image/video/audio diffusion models.
 - [NousResearch/atropos](https://github.com/NousResearch/atropos) - Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments
@@ -1708,7 +1704,7 @@
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [thu-ml/RoboticsDiffusionTransformer](https://github.com/thu-ml/RoboticsDiffusionTransformer) - RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [hello-robot/stretch_ai](https://github.com/hello-robot/stretch_ai) - 
 - [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark
@@ -1724,7 +1720,7 @@
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [magicproduct/hash-hop](https://github.com/magicproduct/hash-hop) - Long context evaluation for large language models
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design.
-- [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line.
+- [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line
 - [apple/ml-4m](https://github.com/apple/ml-4m) - 4M: Massively Multimodal Masked Modeling
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
@@ -1797,7 +1793,7 @@
 - [google-research/cascades](https://github.com/google-research/cascades) - Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 - [brentyi/tyro](https://github.com/brentyi/tyro) - CLI interfaces & config objects, from types
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax) - BlackJAX is a Bayesian Inference library designed for ease of use, speed and modularity.
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development platform
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
@@ -1914,7 +1910,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
 - [adapter-hub/adapters](https://github.com/adapter-hub/adapters) - A Unified Library for Parameter-Efficient and Modular Transfer Learning
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle) - The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spa
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [SeldonIO/alibi](https://github.com/SeldonIO/alibi) - Algorithms for explaining machine learning models
@@ -1935,7 +1931,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [uber/fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
-- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [mit-han-lab/hardware-aware-transformers](https://github.com/mit-han-lab/hardware-aware-transformers) - [ACL'20] HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
@@ -2046,6 +2042,7 @@
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [google/kasane](https://github.com/google/kasane) - A simple kubernetes deployment manager
 - [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [facebookresearch/DME](https://github.com/facebookresearch/DME) - Dynamic Meta-Embeddings for Improved Sentence Representations
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
 - [anilshanbhag/RobinhoodShell](https://github.com/anilshanbhag/RobinhoodShell) - A command line shell for trading stocks using Robinhood
@@ -2125,6 +2122,7 @@
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [nucypher/zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted dat
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [probcomp/crosscat](https://github.com/probcomp/crosscat) - A domain-general, Bayesian method for analyzing high-dimensional data tables
@@ -2495,7 +2493,6 @@
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [djrosanova/EventHubsMirrorMaker](https://github.com/djrosanova/EventHubsMirrorMaker) - Azure Event Hubs Kafka MirrorMaker ACI
 - [kubedb/docs](https://github.com/kubedb/docs) - KubeDB Docs
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [dwhitena/kubeflow_pachyderm](https://github.com/dwhitena/kubeflow_pachyderm) - experimental kubeflow + Pachyderm integration
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [leblancd/kube-v6](https://github.com/leblancd/kube-v6) - Instructions on how to instantiate a multi-node, IPv6-only Kubernetes cluster.
@@ -2758,7 +2755,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [dalen/puppetexplorer](https://github.com/dalen/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
