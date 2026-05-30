@@ -38,6 +38,7 @@
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -840,7 +841,7 @@
 - [Mellanox/SparkRDMA](https://github.com/Mellanox/SparkRDMA) - This is archive of SparkRDMA project. The new repository with RDMA shuffle acceleration for Apache Spark is here: https://github.com/Nvidia/sparkucx
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
 - [Nextdoor/bender](https://github.com/Nextdoor/bender) - Bender - Serverless ETL Framework
-- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
+- [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The AI search platform
 - [divolte/divolte-collector](https://github.com/divolte/divolte-collector) - Divolte Collector
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
 - [dremio/dremio-oss](https://github.com/dremio/dremio-oss) - Dremio - the missing link in modern data
@@ -1367,6 +1368,10 @@
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [virgo-agent-toolkit/rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent) - Rackspace Cloud Monitoring Agent
 
+## MDX 
+
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+
 ## MLIR 
 
 - [openxla/stablehlo](https://github.com/openxla/stablehlo) - Backward compatible ML compute opset inspired by HLO/MHLO
@@ -1486,7 +1491,7 @@
 - [sysml/lightvm](https://github.com/sysml/lightvm) - 
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [the-laughing-monkey/cicada-platform](https://github.com/the-laughing-monkey/cicada-platform) - Home of the Cicada Direct Democracy and Dapp Platform
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [DDD-Moore/early-career-hawaii](https://github.com/DDD-Moore/early-career-hawaii) - 
 - [evnm/research-in-production](https://github.com/evnm/research-in-production) - A collection of research papers categorized by real-world systems that enact them
 - [zendesk/sunshine-conversations-web](https://github.com/zendesk/sunshine-conversations-web) - The Smooch Web SDK will add live web messaging to your website or web app.
@@ -1630,6 +1635,7 @@
 
 ## Python 
 
+- [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 - [verl-project/vexact](https://github.com/verl-project/vexact) - verl Zero-Mismatch Dense/MoE HuggingFace Rollout
 - [stackav-oss/conch](https://github.com/stackav-oss/conch) - A "standard library" of Triton kernels.
 - [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) - FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -1646,7 +1652,7 @@
 - [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
 - [dbreunig/plumb](https://github.com/dbreunig/plumb) - A tool for keeping things true.
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
-- [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
+- [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
 - [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - Declarative and Incremental Backend for Multimodal AI Applications
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
@@ -2646,7 +2652,6 @@
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
