@@ -390,6 +390,7 @@
 
 ## Dockerfile 
 
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [UrbanOS-Public/kdp](https://github.com/UrbanOS-Public/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
 - [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
@@ -1370,6 +1371,7 @@
 ## MDX 
 
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - AI Infra / AI Orchestration / AI Control Plane
 
 ## MLIR 
 
@@ -1490,7 +1492,6 @@
 - [sysml/lightvm](https://github.com/sysml/lightvm) - 
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [the-laughing-monkey/cicada-platform](https://github.com/the-laughing-monkey/cicada-platform) - Home of the Cicada Direct Democracy and Dapp Platform
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [DDD-Moore/early-career-hawaii](https://github.com/DDD-Moore/early-career-hawaii) - 
 - [evnm/research-in-production](https://github.com/evnm/research-in-production) - A collection of research papers categorized by real-world systems that enact them
 - [zendesk/sunshine-conversations-web](https://github.com/zendesk/sunshine-conversations-web) - The Smooch Web SDK will add live web messaging to your website or web app.
@@ -1803,7 +1804,6 @@
 - [Sea-Snell/JAXSeq](https://github.com/Sea-Snell/JAXSeq) - Train very large language models in Jax.
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [tensorflow/transform](https://github.com/tensorflow/transform) - Input pipeline framework
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) - A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -1849,7 +1849,6 @@
 - [a-rahimi/python-checkpointing2](https://github.com/a-rahimi/python-checkpointing2) - Checkpoint the state of Python programs using Pythonic setjmp and longjmp
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [ray-project/raydp](https://github.com/ray-project/raydp) - RayDP provides simple APIs for running Spark on Ray and integrating Spark with AI libraries.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
@@ -2398,6 +2397,7 @@
 
 - [ForestFlow/ForestFlow](https://github.com/ForestFlow/ForestFlow) - ForestFlow is a policy-driven Machine Learning Model Server. It is an LF AI Foundation incubation project.
 - [mc2-project/opaque-sql](https://github.com/mc2-project/opaque-sql) - An encrypted data analytics platform
+- [ray-project/raydp](https://github.com/ray-project/raydp) - RayDP provides simple APIs for running Spark on Ray and integrating Spark with AI libraries.
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [YotpoLtd/metorikku](https://github.com/YotpoLtd/metorikku) - A simplified, lightweight ETL Framework based on Apache Spark
 - [SETL-Framework/setl](https://github.com/SETL-Framework/setl) - A simple Spark-powered ETL framework that just works 🍺
@@ -2633,7 +2633,7 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
