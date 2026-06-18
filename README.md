@@ -390,7 +390,6 @@
 
 ## Dockerfile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [UrbanOS-Public/kdp](https://github.com/UrbanOS-Public/kdp) - Kubernetes deployment of PrestoDB, Hive Metastore, and Minio S3-standard object store
 - [jpetazzo/critmux](https://github.com/jpetazzo/critmux) - Docker + CRIU + tmux = magic!
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
@@ -1095,7 +1094,7 @@
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
 - [ericflo/mediasummon](https://github.com/ericflo/mediasummon) - Summon your photos and videos back to you
@@ -1378,6 +1377,7 @@
 
 ## Makefile 
 
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [k8guard/k8guard-start-from-here](https://github.com/k8guard/k8guard-start-from-here) - Build and deploy K8Guard. Run all Make commands from this repo.
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
@@ -1928,7 +1928,7 @@
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [alpacahq/alpaca-backtrader-api](https://github.com/alpacahq/alpaca-backtrader-api) - Alpaca Trading API integrated with backtrader
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [fivetran/great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
