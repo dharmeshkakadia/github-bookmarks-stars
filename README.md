@@ -519,7 +519,7 @@
 - [pravega/pravega-operator](https://github.com/pravega/pravega-operator) - Pravega Kubernetes Operator
 - [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [spotahome/kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
@@ -1343,7 +1343,7 @@
 - [evancchow/jazzml](https://github.com/evancchow/jazzml) - A (very incomplete) project that combines machine learning with music.
 - [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - Distributed deep learning on Hadoop and Spark clusters.
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
-- [nwhitehead/pineapple](https://github.com/nwhitehead/pineapple) - 
+- [amberwhitehead/pineapple](https://github.com/amberwhitehead/pineapple) - 
 - [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
 
 ## Kotlin 
