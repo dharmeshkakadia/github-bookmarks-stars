@@ -852,7 +852,7 @@
 - [prestodb/tempto](https://github.com/prestodb/tempto) - A testing framework for Presto
 - [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is license
 - [cmu-db/peloton-test](https://github.com/cmu-db/peloton-test) - SQL Testing Framework for the Peloton DBMS
-- [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
+- [btraceio/btrace](https://github.com/btraceio/btrace) - Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
