@@ -722,7 +722,6 @@
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [vladimirvivien/gomes](https://github.com/vladimirvivien/gomes) - Pure Go Framework API for Apache Mesos
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [nqn/mesos-chapel](https://github.com/nqn/mesos-chapel) - Cray Chapel scheduler for Apache Mesos
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [nytlabs/streamtools](https://github.com/nytlabs/streamtools) - tools for working with streams of data
@@ -1228,7 +1227,6 @@
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [bobrik/pupergrep](https://github.com/bobrik/pupergrep) - Real-time grep for your logs right in your favorite modern browser made with Twitter Bootstrap.
-- [nqn/angstrom](https://github.com/nqn/angstrom) - Ångström: Scalable, self-hosted internal metrics collection for Mesos
 - [stefanjudis/perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [genomejs/gql](https://github.com/genomejs/gql) - Genome query language
@@ -2320,7 +2318,7 @@
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes.
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
-- [reductstore/reductstore](https://github.com/reductstore/reductstore) - High Performance Data Backbone for Robotics and Industrial IoT
+- [reductstore/reductstore](https://github.com/reductstore/reductstore) - High-performance, time-indexed object storage for robotics and industrial IoT
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Pushdown cache for DataFusion
