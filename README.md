@@ -7,6 +7,7 @@
 
 - [Arc](#arc)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -90,13 +91,16 @@
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [ReturnInfinity/BareMetal-OS-legacy](https://github.com/ReturnInfinity/BareMetal-OS-legacy) - BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be written in Assembly, C/C++, and Rust.
 
+## Astro 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 ## Bikeshed 
 
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 
 ## C 
 
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [facebookresearch/moodist](https://github.com/facebookresearch/moodist) - moodist
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Puffing up reinforcement learning
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
@@ -765,7 +769,6 @@
 - [BlockstreamResearch/simplicity](https://github.com/BlockstreamResearch/simplicity) - Simplicity is a blockchain programming language designed as an alternative to Bitcoin script.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jlord/forkngo](https://github.com/jlord/forkngo) - A site about how awesome Fork-n-go is!
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -1630,6 +1633,7 @@
 
 ## Python 
 
+- [NVIDIA/flashdreams](https://github.com/NVIDIA/flashdreams) - high-performance inference and serving library for interactive autoregressive video and world models
 - [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 - [verl-project/vexact](https://github.com/verl-project/vexact) - verl Zero-Mismatch Dense/MoE HuggingFace Rollout
 - [stackav-oss/conch](https://github.com/stackav-oss/conch) - A "standard library" of Triton kernels.
@@ -1653,6 +1657,7 @@
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 - [davidkim205/nox](https://github.com/davidkim205/nox) - Efficient fine-tuning for ko-llm models
 - [getsentry/snuba](https://github.com/getsentry/snuba) - Search the seas for your lost treasure.
 - [morphicfilms/frames-to-video](https://github.com/morphicfilms/frames-to-video) - 
@@ -2311,6 +2316,7 @@
 
 ## Rust 
 
+- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC: Real-time latency at massive scale
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
