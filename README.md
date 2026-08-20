@@ -93,6 +93,7 @@
 
 ## Astro 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Bikeshed 
@@ -751,7 +752,6 @@
 
 - [Kai-46/minFM](https://github.com/Kai-46/minFM) - 
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
@@ -2063,7 +2063,7 @@
 - [mapbox/robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
 - [algorithmiaio/danku](https://github.com/algorithmiaio/danku) - Exchange ML models in a trustless manner!
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy https://visdom.dev
+- [fossasia/visdom](https://github.com/fossasia/visdom) - Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
