@@ -138,6 +138,7 @@
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [sharklinux/shark](https://github.com/sharklinux/shark) - We're building a better performance management system
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
+- [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [seccomp/libseccomp](https://github.com/seccomp/libseccomp) - The main libseccomp repository
 - [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
 - [hyperic/sigar](https://github.com/hyperic/sigar) - System Information Gatherer And Reporter
@@ -2156,7 +2157,6 @@
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [d2iq-archive/ANAGRAMMER](https://github.com/d2iq-archive/ANAGRAMMER) - An anagram finder for Apache Mesos
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [GoogleCloudPlatform/PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed 
