@@ -2447,7 +2447,6 @@
 - [d2iq-archive/mesos-utils](https://github.com/d2iq-archive/mesos-utils) - Utilities for building distributed systems on top of mesos
 - [jboner/akka-crdt](https://github.com/jboner/akka-crdt) - Server-managed CRDTs based on Akka
 - [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
-- [brightcove-archive/ooyala_scamr](https://github.com/brightcove-archive/ooyala_scamr) - A Hadoop map reduce framework for Scala.
 - [gearpump/gearpump](https://github.com/gearpump/gearpump) - Lightweight real-time big data streaming engine over Akka
 - [databricks/reference-apps](https://github.com/databricks/reference-apps) - Spark reference applications
 - [BIDData/BIDMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library
@@ -2463,7 +2462,6 @@
 - [JerryLead/SparkLearning](https://github.com/JerryLead/SparkLearning) - Learning to write Spark examples
 - [h2oai/h2o-sparkling](https://github.com/h2oai/h2o-sparkling) - DEPRECATED! Use https://github.com/h2oai/sparkling-water repository! H2O and Spark interoperability based on Tachyon.
 - [coflow/varys](https://github.com/coflow/varys) - Varys: Efficient Clairvoyant Coflow Scheduler
-- [brightcove-archive/ooyala_spark-jobserver](https://github.com/brightcove-archive/ooyala_spark-jobserver) - REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo 
 - [mesosphere-backup/sssp](https://github.com/mesosphere-backup/sssp) - S3 Proxy Mesos Framework
 - [guenter/mesos-getting-started](https://github.com/guenter/mesos-getting-started) - A tutorial that explains how to build a simple distributed fault-tolerant framework on top of Mesos
 - [Comcast/sirius](https://github.com/Comcast/sirius) - A distributed system library for managing application reference data
