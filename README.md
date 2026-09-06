@@ -984,7 +984,7 @@
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [hanborq/hadoop](https://github.com/hanborq/hadoop) - A Hanborq optimized Hadoop Distribution, especially with high performance of MapReduce. It's the core part of HDH (Hanborq Distribution with Hadoop for Big Data Engineering).
 - [airlift/airline](https://github.com/airlift/airline) - Java annotation-based framework for parsing Git like command line structures
-- [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
+- [chriswhocodes/jitwatch](https://github.com/chriswhocodes/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
 - [cscotta/recordinality](https://github.com/cscotta/recordinality) - Implementation of 'Recordinality' cardinality estimation sketch with distinct value sampling
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
 - [OpenHFT/Java-Lang](https://github.com/OpenHFT/Java-Lang) - Java Language support
