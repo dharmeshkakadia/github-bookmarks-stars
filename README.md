@@ -666,6 +666,7 @@
 - [nicgrayson/terraform-provider-marathon](https://github.com/nicgrayson/terraform-provider-marathon) - a Terraform (http://terraform.io) provider for interacting with Marathon (https://mesosphere.github.io/marathon/)
 - [elodina/syscol](https://github.com/elodina/syscol) - Collect local Mesos slave, underlying operating system and machine metrics and produce to Apache Kafka
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ehazlett/interlock](https://github.com/ehazlett/interlock) - Docker Event Driven Plugin System
 - [vektra/vega](https://github.com/vektra/vega) - A distributed mailbox system
 - [vektra/strive](https://github.com/vektra/strive) - A distributed scheduler
@@ -1228,7 +1229,6 @@
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [arturadib/strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
 - [zeman/perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 - [bobrik/pupergrep](https://github.com/bobrik/pupergrep) - Real-time grep for your logs right in your favorite modern browser made with Twitter Bootstrap.
@@ -1505,7 +1505,6 @@
 - [probcomp/BayesDB](https://github.com/probcomp/BayesDB) - A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself. New implementation in http://github.com/probcomp/bayeslite
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [rothgar/awesome-sysadmin](https://github.com/rothgar/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [mankoff/BibDeskAppleScripts](https://github.com/mankoff/BibDeskAppleScripts) - BibDesk Applescripts to download PDFs and fill in info
 - [kelseyhightower/kubestack](https://github.com/kelseyhightower/kubestack) - Manage Kubernetes with Packer and Terraform on Google Compute Engine.
@@ -1635,6 +1634,7 @@
 
 ## Python 
 
+- [mstar-project/mstar](https://github.com/mstar-project/mstar) - A high-performance, universal serving framework for any-to-any models.
 - [dualverse-ai/station](https://github.com/dualverse-ai/station) - The Station is an open-world multi-agent environment where AI agents pursue autonomous scientific discovery and build a shared literature.
 - [NVIDIA/flashdreams](https://github.com/NVIDIA/flashdreams) - high-performance inference and serving library for interactive autoregressive video and world models
 - [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
@@ -2770,6 +2770,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
