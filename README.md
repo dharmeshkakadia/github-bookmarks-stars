@@ -197,7 +197,7 @@
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [facontidavide/cloudini](https://github.com/facontidavide/cloudini) - Pointcloud compression library
-- [dsx-ai-factory/runai-model-streamer](https://github.com/dsx-ai-factory/runai-model-streamer) - 
+- [dsx-ai-factory/model-streamer](https://github.com/dsx-ai-factory/model-streamer) - 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [google/array_record](https://github.com/google/array_record) - 
 - [dentiny/duck-read-cache-fs](https://github.com/dentiny/duck-read-cache-fs) - This repository is made as read-only filesystem for remote access.
