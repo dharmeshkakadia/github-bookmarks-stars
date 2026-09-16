@@ -1431,6 +1431,7 @@
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [jonyzhang2023/awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning) - Humanoid Robots Resources
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [PJLab-ADG/awesome-knowledge-driven-AD](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD) - A curated list of awesome knowledge-driven autonomous driving (continually updated)
 - [PJLab-ADG/GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)
@@ -1589,6 +1590,7 @@
 ## PHP 
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [ElementsProject/wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - :zap: Lightning Publisher for WordPress
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1724,7 +1726,7 @@
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [magicproduct/hash-hop](https://github.com/magicproduct/hash-hop) - Long context evaluation for large language models
+- [magic-ai-research/hash-hop](https://github.com/magic-ai-research/hash-hop) - Long context evaluation for large language models
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design.
 - [szmikler/progress-table](https://github.com/szmikler/progress-table) - Display progress as a pretty table in the command line
 - [apple-aiml-research/ml-4m](https://github.com/apple-aiml-research/ml-4m) - 4M: Massively Multimodal Masked Modeling
@@ -2342,7 +2344,6 @@
 - [copper-project/copper-rs](https://github.com/copper-project/copper-rs) - Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [dora-rs/dora](https://github.com/dora-rs/dora) - DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed datafl
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -2708,7 +2709,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [wix-incubator/quix](https://github.com/wix-incubator/quix) - Quix Notebook Manager
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mathieudutour/timezone-butler](https://github.com/mathieudutour/timezone-butler) - ⏰🤵 A Slack butler who will take care of the timezone differences in your team.
