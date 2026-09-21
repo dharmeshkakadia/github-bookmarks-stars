@@ -1658,7 +1658,7 @@
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
 - [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
-- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with Multimodal database, orchestration, and serving in one file
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
