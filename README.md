@@ -1110,7 +1110,6 @@
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [ChristopherBiscardi/gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) - Gatsby+MDX • Transformers, CMS UI Extensions, and Ecosystem Components for ambitious projects
 - [Ameobea/robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data.
-- [SqueezerIO/squeezer](https://github.com/SqueezerIO/squeezer) - Squeezer Framework - Build serverless dApps
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [dinubs/coolqlcool](https://github.com/dinubs/coolqlcool) - Nextjs server to query websites with GraphQL
@@ -2641,7 +2640,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [AlexandroMtzG/remix-page-blocks](https://github.com/AlexandroMtzG/remix-page-blocks) - Simple page block editor with Remix and Tailwind CSS.
 - [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
 - [bleedingedgeai/bleedingedge.ai](https://github.com/bleedingedgeai/bleedingedge.ai) - Bleeding edge is a feed of noteworthy developments in AI and machine learning.
@@ -2720,6 +2719,7 @@
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [ryohlan/next-ts-template](https://github.com/ryohlan/next-ts-template) - Template for Next.js using parameterized typed routing
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC and MCP servers enriched with custom Markdown.
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
