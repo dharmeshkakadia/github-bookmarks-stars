@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [alibaba/tair-kvcache](https://github.com/alibaba/tair-kvcache) - Alibaba Cloud's high-performance KVCache system for LLM inference, with components for global cache management, inference simulation(HiSim), and more.
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
@@ -1480,7 +1481,7 @@
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
@@ -1633,6 +1634,8 @@
 
 ## Python 
 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
 - [mstar-project/mstar](https://github.com/mstar-project/mstar) - A high-performance, universal serving framework for any-to-any models.
@@ -1657,7 +1660,7 @@
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
 - [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
 - [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
-- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with Multimodal database, orchestration, and serving in one file
+- [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with - Multimodal database, orchestration, and serving in one file
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
@@ -2623,7 +2626,7 @@
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
@@ -2719,7 +2722,7 @@
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [ryohlan/next-ts-template](https://github.com/ryohlan/next-ts-template) - Template for Next.js using parameterized typed routing
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC and MCP servers enriched with custom Markdown.
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex) - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
@@ -2739,7 +2742,7 @@
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 - [coinbase/coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit) - DEPRECATED — The Coinbase Pro trading toolkit
-- [Consensys-Incorporated/ethql](https://github.com/Consensys-Incorporated/ethql) - A GraphQL interface to Ethereum :fire:
+- [Consensys-inc-archive/ethql](https://github.com/Consensys-inc-archive/ethql) - A GraphQL interface to Ethereum :fire:
 - [XLNT/gnarly](https://github.com/XLNT/gnarly) - 🤙 A blockchain ETL tool to make your life better. Now that’s fuckin’ gnarly.
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
