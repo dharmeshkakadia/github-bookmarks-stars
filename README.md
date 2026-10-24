@@ -443,7 +443,7 @@
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [kuberay-project/kuberay](https://github.com/kuberay-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
@@ -467,7 +467,6 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [onflow/flow-go](https://github.com/onflow/flow-go) - Reference implementation of the Flow network in Go. Layer 1 proof-of-stake protocol built for consumer apps, AI Agents, and DeFi at scale
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
@@ -761,6 +760,7 @@
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
+- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
@@ -1633,8 +1633,9 @@
 
 ## Python 
 
+- [modal-projects/spindle](https://github.com/modal-projects/spindle) - Own your Tinker-compatible training stack
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - State of the art inference performance with modern accelerators on Kubernetes
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
 - [mstar-project/mstar](https://github.com/mstar-project/mstar) - A high-performance, universal serving framework for any-to-any models.
@@ -1657,7 +1658,7 @@
 - [alainnothere/llm-circuit-finder](https://github.com/alainnothere/llm-circuit-finder) - I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 
 - [dbreunig/plumb](https://github.com/dbreunig/plumb) - A tool for keeping things true.
 - [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) - Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
-- [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv) - An interface library for RL post training with environments.
+- [openenv/OpenEnv](https://github.com/openenv/OpenEnv) - An interface library for RL post training with environments.
 - [pixeltable/pixeltable-yolox](https://github.com/pixeltable/pixeltable-yolox) - Lightweight, open-source, high-performance Yolo implementation
 - [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) - The backend agents build with - Multimodal database, orchestration, and serving in one file
 - [thu-ml/TurboDiffusion](https://github.com/thu-ml/TurboDiffusion) - TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
@@ -2333,7 +2334,7 @@
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [datafusion-contrib/liquid-cache](https://github.com/datafusion-contrib/liquid-cache) - Pushdown cache for DataFusion
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
