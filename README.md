@@ -123,7 +123,7 @@
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo) - DarkForest, the Facebook Go engine.
 - [ix-project/ix](https://github.com/ix-project/ix) - IX a protected dataplane operating system project
@@ -198,6 +198,7 @@
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [facontidavide/cloudini](https://github.com/facontidavide/cloudini) - Pointcloud compression library
+- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [dsx-ai-factory/model-streamer](https://github.com/dsx-ai-factory/model-streamer) - 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [google/array_record](https://github.com/google/array_record) - 
@@ -282,7 +283,7 @@
 - [dmlc/wormhole](https://github.com/dmlc/wormhole) - Deprecated
 - [d2iq-archive/serenity](https://github.com/d2iq-archive/serenity) - Intel:Mesosphere oversubscription technologies for Apache Mesos
 - [cocaine/cocaine-core](https://github.com/cocaine/cocaine-core) - An open platform to build your own PaaS clouds.
-- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [meta/folly](https://github.com/meta/folly) - An open-source C++ library developed and used at Facebook.
 - [capnproto/ekam](https://github.com/capnproto/ekam) - Ekam Build System
 - [TU-Berlin-DIMA/myriad-toolkit](https://github.com/TU-Berlin-DIMA/myriad-toolkit) - Myriad Parallel Data Generator Toolkit
 - [elodina/alligator](https://github.com/elodina/alligator) - Custom allocator modules for Apache Mesos
@@ -301,7 +302,7 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [dedis/Dissent](https://github.com/dedis/Dissent) - Provably Anonymous Overlay
 - [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
-- [facebook/mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
+- [meta/mcrouter](https://github.com/meta/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [maidsafe-archive/MaidSafe](https://github.com/maidsafe-archive/MaidSafe) - This is the super-project in which each MaidSafe library resides. Some information is common to all libraries, and is detailed here. Library-specific information can be found in each library's wiki.
@@ -314,7 +315,7 @@
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [quantcast/qfs](https://github.com/quantcast/qfs) - Quantcast File System
 - [ydmao/Metis](https://github.com/ydmao/Metis) - MapReduce for multi-core
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [meta/rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [sit/dht](https://github.com/sit/dht) - MIT Chord/DHash
 - [rescrv/HyperDex](https://github.com/rescrv/HyperDex) - HyperDex is a scalable, searchable key-value store
 - [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
@@ -467,6 +468,7 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [onflow/flow-go](https://github.com/onflow/flow-go) - Reference implementation of the Flow network in Go. Layer 1 proof-of-stake protocol built for consumer apps, AI Agents, and DeFi at scale
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
+- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications
@@ -759,7 +761,6 @@
 - [Greenheart/pagecrypt](https://github.com/Greenheart/pagecrypt) - Password Protected Single Page Applications and HTML files
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
-- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [salesforce/WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces.
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
@@ -910,7 +911,7 @@
 - [glowroot/glowroot](https://github.com/glowroot/glowroot) - Easy to use, very low overhead, Java APM
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [pulsarIO/realtime-analytics](https://github.com/pulsarIO/realtime-analytics) - Realtime analytics, this includes the core components of Pulsar pipeline.
-- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [meta/stetho](https://github.com/meta/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [LiveRamp/hank](https://github.com/LiveRamp/hank) - (DEPRECATED. This project is no longer used or maintained at LiveRamp.) Hank is a high performance distributed key-value NoSQL database that we built and use at LiveRamp. It is designed for very large
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [amazon-archives/ecs-mesos-scheduler-driver](https://github.com/amazon-archives/ecs-mesos-scheduler-driver) - Amazon ECS Scheduler Driver
@@ -1098,6 +1099,7 @@
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [hew/bazaar](https://github.com/hew/bazaar) - 🤹 Build x-platform React apps bizarrely fast.
 - [ARBML/ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and CV projects. Providing real time experience using many interfaces like web, command line and notebooks.
+- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [rocket-pool/rocketpool](https://github.com/rocket-pool/rocketpool) - Decentralised Ethereum Liquid Staking Protocol.
@@ -1397,7 +1399,6 @@
 ## Nunjucks 
 
 - [ipld/ipld](https://github.com/ipld/ipld) - This repo holds Website and Specs at https://ipld.io
-- [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - A starter repository for a blog web site using the Eleventy static site generator.
 
 ## OCaml 
 
@@ -1405,7 +1406,7 @@
 - [mirleft/btc-pinata](https://github.com/mirleft/btc-pinata) - If you smash it, you get to keep the pieces.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
 
@@ -2142,7 +2143,6 @@
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [kubernauts/kploy](https://github.com/kubernauts/kploy) - An opinionated Kubernetes deployment system for appops
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [DistributedSystemsGroup/zoe](https://github.com/DistributedSystemsGroup/zoe) - Zoe: Container Analytics as a Service -- mirror of https://gitlab.eurecom.fr/zoe/main/
 - [probcomp/bayeslite](https://github.com/probcomp/bayeslite) - BayesDB on SQLite. A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -2158,7 +2158,7 @@
 - [avinassh/rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes
 - [autodesk-cloud/ochonetes](https://github.com/autodesk-cloud/ochonetes) - K8S/Ochopod web-shell + toolkit + CLI !
 - [XiaoMi/minos](https://github.com/XiaoMi/minos) - Minos is beyond a hadoop deployment system.
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
+- [meta/PathPicker](https://github.com/meta/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [d2iq-archive/ANAGRAMMER](https://github.com/d2iq-archive/ANAGRAMMER) - An anagram finder for Apache Mesos
@@ -2335,7 +2335,6 @@
 - [datafusion-contrib/liquid-cache](https://github.com/datafusion-contrib/liquid-cache) - Pushdown cache for DataFusion
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) - A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
-- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
@@ -2354,7 +2353,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2776,6 +2775,7 @@
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [dalen/puppetexplorer](https://github.com/dalen/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
