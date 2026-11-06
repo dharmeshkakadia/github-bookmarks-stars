@@ -250,7 +250,6 @@
 - [src-d/minhashcuda](https://github.com/src-d/minhashcuda) - Weighted MinHash implementation on CUDA (multi-gpu).
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [google/asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
-- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [googlecreativelab/open-nsynth-super](https://github.com/googlecreativelab/open-nsynth-super) - Open NSynth Super is an experimental physical interface for the NSynth algorithm
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
 - [mrsmkl/truebit-plasma](https://github.com/mrsmkl/truebit-plasma) - Template for implementing Plasma child chains with Truebit
@@ -342,7 +341,6 @@
 - [odewahn/docker-at-oreilly](https://github.com/odewahn/docker-at-oreilly) - An overview of experiments O'Reilly Media is doing with Docker
 - [deanmalmgren/open-source-data-science](https://github.com/deanmalmgren/open-source-data-science) - A (comprehensive) collection of open source tools used by the data community.
 - [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [wesbos/aprilFools.css](https://github.com/wesbos/aprilFools.css) - Harmlessly goof up your co-workers browser and chrome dev tools
 - [ch007m/hyla](https://github.com/ch007m/hyla) - Hyla command tool to create a new asciidoctor project (blog, web, training, ...), generate content, watch resources and build
 - [helios-framework/helios](https://github.com/helios-framework/helios) - An extensible open-source mobile backend framework
@@ -1138,7 +1136,6 @@
 - [functionalfoundry/ethereum-htlc](https://github.com/functionalfoundry/ethereum-htlc) - HTLC for doing cross-chain atomic swaps
 - [ConsenSys-archive/ganache-cli-archive](https://github.com/ConsenSys-archive/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [ElementsProject/paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a pay-per-call basis with Bitcoin and Lightning :zap:
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [SpankChain/general-state-channels](https://github.com/SpankChain/general-state-channels) - Spankchain PoC implementation of generalized state channels
@@ -1241,6 +1238,7 @@
 - [benbjohnson/thesecretlivesofdata](https://github.com/benbjohnson/thesecretlivesofdata) - Understanding what your bits do when you're not looking.
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+- [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [SamyPesse/tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
@@ -1485,6 +1483,7 @@
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
+- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [databricks/jsonnet-style-guide](https://github.com/databricks/jsonnet-style-guide) - Databricks Jsonnet Coding Style Guide
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform
 - [sysml/lightvm](https://github.com/sysml/lightvm) - 
@@ -1707,7 +1706,7 @@
 - [embodiedreasoning/ERQA](https://github.com/embodiedreasoning/ERQA) - Embodied Reasoning Question Answer (ERQA) Benchmark
 - [chenllliang/DreamEngine](https://github.com/chenllliang/DreamEngine) - Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think!
 - [Eyeline-Labs/Go-with-the-Flow](https://github.com/Eyeline-Labs/Go-with-the-Flow) - The official implementation of CVPR'25 Oral paper "Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise"
-- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+- [Neywa-Labs/mlx-vlm](https://github.com/Neywa-Labs/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [KlingAIResearch/ReCamMaster](https://github.com/KlingAIResearch/ReCamMaster) - [ICCV'25 Best Paper Finalist] ReCamMaster: Camera-Controlled Generative Rendering from A Single Video
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -2387,6 +2386,7 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
