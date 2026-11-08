@@ -102,6 +102,7 @@
 
 ## C 
 
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [facebookresearch/moodist](https://github.com/facebookresearch/moodist) - moodist
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Puffing up reinforcement learning
 - [commaai/panda](https://github.com/commaai/panda) - firmware powering the comma.ai panda
